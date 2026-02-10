@@ -1,0 +1,1805 @@
+Job Title,Company,Location,Salary,Skills,Experience,Posted Date,Avg_Salary_Million,Exp_Level
+AI/ML Engineer,Tech Company 380,Ho Chi Minh,26-58 millions,"python, tensorflow, cv",Senior,2025-11-23,42.0,3
+Mobile Developer,Tech Company 309,Ho Chi Minh,42-78 millions,"flutter, dart",Lead,2025-06-01,60.0,4
+Mobile Developer,Tech Company 389,Ho Chi Minh,8-17 millions,react native,Fresher,2024-01-07,12.5,1
+DevOps Engineer,Tech Company 275,Ho Chi Minh,7-16 millions,"linux, jenkins, ansible",Fresher,2025-04-15,11.5,1
+Data Scientist,Tech Company 195,Ho Chi Minh,18-31 millions,"sql, tableau, python",Junior,2024-04-13,24.5,2
+DevOps Engineer,Tech Company 360,Ha Noi,15-28 millions,"aws, docker, k8s",Junior,2024-09-30,21.5,2
+Data Scientist,Tech Company 118,Ha Noi,65-113 millions,"python, pytorch, aws",Manager,2024-02-27,89.0,5
+Mobile Developer,Tech Company 449,Ha Noi,25-59 millions,"swift, ios",Senior,2025-08-03,42.0,3
+Tester/QA,Tech Company 136,Ho Chi Minh,29-58 millions,"automation, cypress",Senior,2024-05-26,43.5,3
+AI/ML Engineer,Tech Company 186,Ha Noi,9-20 millions,"c++, cuda, computer vision",Fresher,2025-02-12,14.5,1
+Tester/QA,Tech Company 322,Can Tho,14-26 millions,"selenium, python",Junior,2024-06-05,20.0,2
+Backend Developer,Tech Company 394,Da Nang,54-92 millions,"python, django",Manager,2024-09-30,73.0,5
+Mobile Developer,Tech Company 498,Ho Chi Minh,27-59 millions,react native,Senior,2024-09-26,43.0,3
+Frontend Developer,Tech Company 79,Ho Chi Minh,28-57 millions,"angular, rxjs",Senior,2024-07-22,42.5,3
+Backend Developer,Tech Company 450,Ho Chi Minh,16-28 millions,"go, microservices",Junior,2025-01-06,22.0,2
+Data Scientist,Tech Company 44,Ha Noi,64-112 millions,"python, pandas, scikit-learn",Manager,2024-03-21,88.0,5
+Fullstack Developer,Tech Company 136,Ha Noi,28-59 millions,"react, node.js, mongo",Senior,2024-06-18,43.5,3
+Data Scientist,Tech Company 160,Ha Noi,28-58 millions,"python, pytorch, aws",Senior,2025-12-31,43.0,3
+DevOps Engineer,Tech Company 116,Ha Noi,18-29 millions,"azure, ci/cd, terraform",Junior,2024-09-10,23.5,2
+Data Scientist,Tech Company 31,Ho Chi Minh,7-16 millions,"python, pytorch, aws",Fresher,2025-10-08,11.5,1
+DevOps Engineer,Tech Company 110,Da Nang,13-23 millions,"aws, docker, k8s",Junior,2025-05-12,18.0,2
+Tester/QA,Tech Company 49,Ha Noi,28-59 millions,"manual testing, sql",Senior,2024-07-13,43.5,3
+Mobile Developer,Tech Company 335,Ho Chi Minh,8-20 millions,"kotlin, android",Fresher,2025-11-20,14.0,1
+Mobile Developer,Tech Company 98,Ho Chi Minh,67-110 millions,"swift, ios",Manager,2024-07-15,88.5,5
+Fullstack Developer,Tech Company 227,Ho Chi Minh,27-59 millions,"java, angular, sql",Senior,2024-03-18,43.0,3
+Data Scientist,Tech Company 463,Ha Noi,8-18 millions,"python, pandas, scikit-learn",Fresher,2025-02-14,13.0,1
+Mobile Developer,Tech Company 217,Ho Chi Minh,10-20 millions,"swift, ios",Fresher,2024-10-19,15.0,1
+Fullstack Developer,Tech Company 207,Ha Noi,9-19 millions,"react, node.js, mongo",Fresher,2024-08-28,14.0,1
+Data Scientist,Tech Company 337,Da Nang,7-16 millions,"python, pytorch, aws",Fresher,2025-03-05,11.5,1
+AI/ML Engineer,Tech Company 203,Ha Noi,28-56 millions,"python, tensorflow, cv",Senior,2024-09-28,42.0,3
+Tester/QA,Tech Company 235,Ha Noi,10-21 millions,"java, appium",Fresher,2024-01-10,15.5,1
+Frontend Developer,Tech Company 478,Ha Noi,27-57 millions,"reactjs, typescript",Senior,2024-05-15,42.0,3
+Data Scientist,Tech Company 361,Ho Chi Minh,15-29 millions,"sql, tableau, python",Junior,2025-07-10,22.0,2
+Backend Developer,Tech Company 136,Remote,17-26 millions,"go, microservices",Junior,2024-05-17,21.5,2
+Fullstack Developer,Tech Company 105,Ho Chi Minh,7-17 millions,"java, angular, sql",Fresher,2024-12-17,12.0,1
+Tester/QA,Tech Company 325,Da Nang,24-49 millions,"java, appium",Senior,2024-04-04,36.5,3
+Backend Developer,Tech Company 83,Ho Chi Minh,17-30 millions,"go, microservices",Junior,2024-09-25,23.5,2
+Mobile Developer,Tech Company 463,Ha Noi,25-59 millions,"flutter, dart",Senior,2025-12-08,42.0,3
+DevOps Engineer,Tech Company 158,Ho Chi Minh,9-18 millions,"linux, jenkins, ansible",Fresher,2024-02-12,13.5,1
+Backend Developer,Tech Company 182,Da Nang,12-23 millions,"go, microservices",Junior,2024-04-15,17.5,2
+Mobile Developer,Tech Company 500,Da Nang,24-46 millions,react native,Senior,2024-06-15,35.0,3
+Mobile Developer,Tech Company 411,Ho Chi Minh,26-59 millions,"flutter, dart",Senior,2025-02-25,42.5,3
+Data Scientist,Tech Company 447,Ha Noi,26-58 millions,"sql, tableau, python",Senior,2025-01-26,42.0,3
+Data Scientist,Tech Company 115,Ha Noi,8-20 millions,"sql, tableau, python",Fresher,2024-08-21,14.0,1
+DevOps Engineer,Tech Company 180,Ho Chi Minh,10-21 millions,"azure, ci/cd, terraform",Fresher,2024-10-12,15.5,1
+DevOps Engineer,Tech Company 298,Ho Chi Minh,25-59 millions,"aws, docker, k8s",Senior,2024-07-01,42.0,3
+Frontend Developer,Tech Company 311,Ho Chi Minh,65-113 millions,"html, css, js",Manager,2025-03-22,89.0,5
+Data Scientist,Tech Company 474,Ho Chi Minh,64-112 millions,"sql, tableau, python",Manager,2025-06-16,88.0,5
+Data Scientist,Tech Company 320,Ha Noi,27-59 millions,"sql, tableau, python",Senior,2024-12-04,43.0,3
+Mobile Developer,Tech Company 292,Ho Chi Minh,17-32 millions,"kotlin, android",Junior,2025-09-22,24.5,2
+Backend Developer,Tech Company 311,Ha Noi,15-29 millions,"go, microservices",Junior,2025-08-16,22.0,2
+Tester/QA,Tech Company 338,Ha Noi,27-58 millions,"manual testing, sql",Senior,2024-06-22,42.5,3
+DevOps Engineer,Tech Company 159,Ha Noi,10-20 millions,"aws, docker, k8s",Fresher,2025-11-19,15.0,1
+Backend Developer,Tech Company 234,Ho Chi Minh,15-29 millions,"python, django",Junior,2024-03-15,22.0,2
+Data Scientist,Tech Company 76,Ha Noi,17-29 millions,"python, pytorch, aws",Junior,2024-09-06,23.0,2
+Frontend Developer,Tech Company 266,Ho Chi Minh,26-59 millions,"html, css, js",Senior,2025-12-13,42.5,3
+Frontend Developer,Tech Company 287,Ha Noi,15-29 millions,"html, css, js",Junior,2025-06-27,22.0,2
+Data Scientist,Tech Company 321,Ha Noi,43-80 millions,"python, pytorch, aws",Lead,2025-05-11,61.5,4
+AI/ML Engineer,Tech Company 42,Ho Chi Minh,15-29 millions,"python, tensorflow, cv",Junior,2025-07-07,22.0,2
+Fullstack Developer,Tech Company 278,Ho Chi Minh,7-18 millions,"python, vuejs, docker",Fresher,2024-12-04,12.5,1
+Data Scientist,Tech Company 200,Ha Noi,42-79 millions,"sql, tableau, python",Lead,2024-01-30,60.5,4
+Mobile Developer,Tech Company 274,Ha Noi,17-32 millions,react native,Junior,2025-09-29,24.5,2
+Backend Developer,Tech Company 94,Ho Chi Minh,9-17 millions,"python, django",Fresher,2025-04-17,13.0,1
+Data Scientist,Tech Company 143,Ho Chi Minh,8-20 millions,"sql, tableau, python",Fresher,2025-01-23,14.0,1
+AI/ML Engineer,Tech Company 488,Ha Noi,27-58 millions,"python, tensorflow, cv",Senior,2024-02-23,42.5,3
+Backend Developer,Tech Company 319,Ha Noi,18-28 millions,"python, django",Junior,2024-01-21,23.0,2
+Frontend Developer,Tech Company 86,Ho Chi Minh,16-28 millions,"vuejs, nuxt",Junior,2025-01-12,22.0,2
+Frontend Developer,Tech Company 476,Remote,28-53 millions,"vuejs, nuxt",Senior,2024-01-27,40.5,3
+AI/ML Engineer,Tech Company 401,Ho Chi Minh,27-55 millions,"c++, cuda, computer vision",Senior,2025-08-02,41.0,3
+DevOps Engineer,Tech Company 422,Ha Noi,8-18 millions,"aws, docker, k8s",Fresher,2025-03-06,13.0,1
+DevOps Engineer,Tech Company 223,Ho Chi Minh,18-29 millions,"linux, jenkins, ansible",Junior,2024-06-05,23.5,2
+AI/ML Engineer,Tech Company 239,Ha Noi,17-30 millions,"c++, cuda, computer vision",Junior,2025-05-10,23.5,2
+AI/ML Engineer,Tech Company 143,Ha Noi,17-31 millions,"python, nlp, huggingface",Junior,2024-03-29,24.0,2
+Tester/QA,Tech Company 94,Ho Chi Minh,43-79 millions,"automation, cypress",Lead,2024-11-28,61.0,4
+AI/ML Engineer,Tech Company 285,Ho Chi Minh,15-30 millions,"python, nlp, huggingface",Junior,2024-10-09,22.5,2
+Frontend Developer,Tech Company 354,Da Nang,8-15 millions,"vuejs, nuxt",Fresher,2024-09-03,11.5,1
+Tester/QA,Tech Company 125,Ha Noi,14-28 millions,"selenium, python",Junior,2025-12-09,21.0,2
+Tester/QA,Tech Company 181,Ha Noi,16-31 millions,"java, appium",Junior,2024-12-04,23.5,2
+AI/ML Engineer,Tech Company 381,Ho Chi Minh,25-55 millions,"python, tensorflow, cv",Senior,2024-05-02,40.0,3
+Fullstack Developer,Tech Company 390,Ha Noi,26-57 millions,"react, node.js, mongo",Senior,2025-08-26,41.5,3
+Frontend Developer,Tech Company 8,Ho Chi Minh,26-56 millions,"vuejs, nuxt",Senior,2024-11-05,41.0,3
+Backend Developer,Tech Company 327,Ho Chi Minh,27-58 millions,"python, django",Senior,2024-05-09,42.5,3
+Backend Developer,Tech Company 495,Ha Noi,43-79 millions,"go, microservices",Lead,2024-07-07,61.0,4
+Tester/QA,Tech Company 296,Da Nang,8-15 millions,"selenium, python",Fresher,2024-03-16,11.5,1
+Fullstack Developer,Tech Company 61,Ho Chi Minh,29-55 millions,"python, vuejs, docker",Senior,2024-09-11,42.0,3
+Data Scientist,Tech Company 441,Ho Chi Minh,27-59 millions,"python, pytorch, aws",Senior,2024-10-31,43.0,3
+Backend Developer,Tech Company 136,Ho Chi Minh,29-56 millions,"python, django",Senior,2024-08-04,42.5,3
+Data Scientist,Tech Company 37,Ho Chi Minh,28-58 millions,"sql, tableau, python",Senior,2025-04-09,43.0,3
+Data Scientist,Tech Company 466,Da Nang,20-46 millions,"sql, tableau, python",Senior,2024-06-01,33.0,3
+Backend Developer,Tech Company 472,Ho Chi Minh,17-30 millions,"java, spring boot",Junior,2025-08-05,23.5,2
+AI/ML Engineer,Tech Company 253,Ho Chi Minh,16-28 millions,"c++, cuda, computer vision",Junior,2025-07-06,22.0,2
+Mobile Developer,Tech Company 493,Ha Noi,16-27 millions,"swift, ios",Junior,2024-08-22,21.5,2
+Backend Developer,Tech Company 241,Da Nang,22-48 millions,"go, microservices",Senior,2024-06-28,35.0,3
+AI/ML Engineer,Tech Company 497,Ho Chi Minh,29-57 millions,"python, tensorflow, cv",Senior,2025-05-18,43.0,3
+DevOps Engineer,Tech Company 211,Ho Chi Minh,9-20 millions,"azure, ci/cd, terraform",Fresher,2024-12-03,14.5,1
+Mobile Developer,Tech Company 60,Ho Chi Minh,27-56 millions,"flutter, dart",Senior,2024-11-27,41.5,3
+Backend Developer,Tech Company 225,Ha Noi,26-55 millions,"java, spring boot",Senior,2024-10-21,40.5,3
+Frontend Developer,Tech Company 256,Ho Chi Minh,18-30 millions,"html, css, js",Junior,2024-06-06,24.0,2
+AI/ML Engineer,Tech Company 234,Ho Chi Minh,45-81 millions,"python, nlp, huggingface",Lead,2024-09-06,63.0,4
+Fullstack Developer,Tech Company 175,Ho Chi Minh,26-58 millions,"react, node.js, mongo",Senior,2025-02-28,42.0,3
+Backend Developer,Tech Company 338,Ha Noi,44-81 millions,"go, microservices",Lead,2025-08-16,62.5,4
+Tester/QA,Tech Company 234,Ho Chi Minh,15-31 millions,"java, appium",Junior,2025-01-21,23.0,2
+Data Scientist,Tech Company 23,Da Nang,35-67 millions,"python, pytorch, aws",Lead,2025-02-24,51.0,4
+Mobile Developer,Tech Company 78,Ha Noi,18-31 millions,"kotlin, android",Junior,2025-10-29,24.5,2
+DevOps Engineer,Tech Company 467,Ho Chi Minh,17-29 millions,"aws, docker, k8s",Junior,2025-06-22,23.0,2
+Mobile Developer,Tech Company 174,Ha Noi,14-31 millions,react native,Junior,2024-09-28,22.5,2
+Frontend Developer,Tech Company 489,Ho Chi Minh,28-59 millions,"angular, rxjs",Senior,2025-01-24,43.5,3
+Tester/QA,Tech Company 472,Ha Noi,16-28 millions,"selenium, python",Junior,2025-12-01,22.0,2
+Frontend Developer,Tech Company 447,Ho Chi Minh,18-31 millions,"html, css, js",Junior,2025-12-21,24.5,2
+Mobile Developer,Tech Company 318,Ho Chi Minh,15-27 millions,react native,Junior,2025-01-26,21.0,2
+Fullstack Developer,Tech Company 342,Ha Noi,27-56 millions,"react, node.js, mongo",Senior,2024-09-18,41.5,3
+AI/ML Engineer,Tech Company 301,Ha Noi,8-16 millions,"c++, cuda, computer vision",Fresher,2024-12-19,12.0,1
+DevOps Engineer,Tech Company 425,Ho Chi Minh,15-30 millions,"linux, jenkins, ansible",Junior,2024-01-23,22.5,2
+Backend Developer,Tech Company 311,Ho Chi Minh,28-59 millions,"node.js, express",Senior,2024-08-23,43.5,3
+Data Scientist,Tech Company 349,Ho Chi Minh,26-58 millions,"python, pytorch, aws",Senior,2025-11-06,42.0,3
+Backend Developer,Tech Company 375,Ha Noi,28-55 millions,"go, microservices",Senior,2025-01-08,41.5,3
+DevOps Engineer,Tech Company 449,Da Nang,6-14 millions,"linux, jenkins, ansible",Fresher,2025-07-06,10.0,1
+AI/ML Engineer,Tech Company 496,Ha Noi,65-114 millions,"python, tensorflow, cv",Manager,2025-05-08,89.5,5
+DevOps Engineer,Tech Company 441,Ha Noi,27-55 millions,"aws, docker, k8s",Senior,2024-08-19,41.0,3
+Mobile Developer,Tech Company 275,Ha Noi,25-56 millions,"swift, ios",Senior,2024-09-27,40.5,3
+AI/ML Engineer,Tech Company 56,Ho Chi Minh,8-19 millions,"c++, cuda, computer vision",Fresher,2025-01-15,13.5,1
+DevOps Engineer,Tech Company 466,Ha Noi,26-55 millions,"linux, jenkins, ansible",Senior,2025-04-20,40.5,3
+Frontend Developer,Tech Company 60,Ha Noi,25-55 millions,"vuejs, nuxt",Senior,2025-05-19,40.0,3
+Fullstack Developer,Tech Company 485,Da Nang,7-16 millions,"java, angular, sql",Fresher,2025-12-14,11.5,1
+Fullstack Developer,Tech Company 209,Ha Noi,28-59 millions,"java, angular, sql",Senior,2025-09-22,43.5,3
+DevOps Engineer,Tech Company 51,Ho Chi Minh,43-81 millions,"aws, docker, k8s",Lead,2025-01-06,62.0,4
+DevOps Engineer,Tech Company 486,Ho Chi Minh,65-110 millions,"aws, docker, k8s",Manager,2024-05-05,87.5,5
+Data Scientist,Tech Company 403,Ha Noi,28-59 millions,"python, pytorch, aws",Senior,2024-02-21,43.5,3
+Data Scientist,Tech Company 111,Remote,17-29 millions,"python, pandas, scikit-learn",Junior,2025-08-23,23.0,2
+Fullstack Developer,Tech Company 67,Ho Chi Minh,25-59 millions,"python, vuejs, docker",Senior,2024-05-28,42.0,3
+Frontend Developer,Tech Company 302,Ha Noi,26-56 millions,"reactjs, typescript",Senior,2024-08-31,41.0,3
+Backend Developer,Tech Company 244,Ho Chi Minh,17-30 millions,"java, spring boot",Junior,2024-03-06,23.5,2
+AI/ML Engineer,Tech Company 434,Da Nang,23-45 millions,"python, nlp, huggingface",Senior,2025-05-05,34.0,3
+Tester/QA,Tech Company 76,Ha Noi,14-27 millions,"automation, cypress",Junior,2025-09-14,20.5,2
+DevOps Engineer,Tech Company 259,Ho Chi Minh,10-19 millions,"azure, ci/cd, terraform",Fresher,2025-04-09,14.5,1
+Frontend Developer,Tech Company 174,Ho Chi Minh,27-59 millions,"vuejs, nuxt",Senior,2025-02-27,43.0,3
+Frontend Developer,Tech Company 489,Ho Chi Minh,27-58 millions,"angular, rxjs",Senior,2025-01-18,42.5,3
+Frontend Developer,Tech Company 382,Da Nang,14-22 millions,"reactjs, typescript",Junior,2024-04-08,18.0,2
+Backend Developer,Tech Company 482,Ha Noi,28-57 millions,"go, microservices",Senior,2025-11-12,42.5,3
+Backend Developer,Tech Company 260,Da Nang,22-46 millions,"go, microservices",Senior,2025-08-14,34.0,3
+Data Scientist,Tech Company 391,Ha Noi,15-30 millions,"python, pandas, scikit-learn",Junior,2024-04-27,22.5,2
+Mobile Developer,Tech Company 137,Ho Chi Minh,16-30 millions,"flutter, dart",Junior,2025-12-11,23.0,2
+AI/ML Engineer,Tech Company 290,Ho Chi Minh,8-17 millions,"python, nlp, huggingface",Fresher,2024-05-26,12.5,1
+Backend Developer,Tech Company 233,Ho Chi Minh,28-56 millions,"python, django",Senior,2025-03-05,42.0,3
+DevOps Engineer,Tech Company 81,Ho Chi Minh,16-31 millions,"linux, jenkins, ansible",Junior,2024-06-08,23.5,2
+Frontend Developer,Tech Company 227,Ho Chi Minh,27-57 millions,"angular, rxjs",Senior,2025-09-13,42.0,3
+Frontend Developer,Tech Company 304,Ho Chi Minh,16-28 millions,"angular, rxjs",Junior,2025-11-25,22.0,2
+Fullstack Developer,Tech Company 383,Ho Chi Minh,15-28 millions,"java, angular, sql",Junior,2025-05-24,21.5,2
+Data Scientist,Tech Company 37,Ho Chi Minh,16-30 millions,"python, pytorch, aws",Junior,2024-12-28,23.0,2
+Mobile Developer,Tech Company 295,Ha Noi,16-27 millions,"flutter, dart",Junior,2024-11-16,21.5,2
+Mobile Developer,Tech Company 88,Ho Chi Minh,14-27 millions,"swift, ios",Junior,2024-11-28,20.5,2
+DevOps Engineer,Tech Company 302,Ha Noi,27-55 millions,"aws, docker, k8s",Senior,2025-03-22,41.0,3
+AI/ML Engineer,Tech Company 40,Ho Chi Minh,15-29 millions,"c++, cuda, computer vision",Junior,2024-06-21,22.0,2
+Data Scientist,Tech Company 418,Ho Chi Minh,26-59 millions,"sql, tableau, python",Senior,2025-10-22,42.5,3
+AI/ML Engineer,Tech Company 39,Ho Chi Minh,7-17 millions,"python, tensorflow, cv",Fresher,2025-11-02,12.0,1
+Tester/QA,Tech Company 349,Ha Noi,17-31 millions,"automation, cypress",Junior,2025-04-04,24.0,2
+DevOps Engineer,Tech Company 227,Ha Noi,43-79 millions,"linux, jenkins, ansible",Lead,2025-04-25,61.0,4
+Backend Developer,Tech Company 20,Ha Noi,27-56 millions,"go, microservices",Senior,2025-04-07,41.5,3
+Frontend Developer,Tech Company 298,Ha Noi,9-19 millions,"reactjs, typescript",Fresher,2025-04-18,14.0,1
+Backend Developer,Tech Company 165,Ha Noi,29-57 millions,"node.js, express",Senior,2024-07-11,43.0,3
+Backend Developer,Tech Company 366,Ha Noi,25-59 millions,"node.js, express",Senior,2024-12-17,42.0,3
+Frontend Developer,Tech Company 130,Ha Noi,25-58 millions,"angular, rxjs",Senior,2024-10-17,41.5,3
+Fullstack Developer,Tech Company 159,Ha Noi,25-58 millions,"java, angular, sql",Senior,2024-12-24,41.5,3
+Mobile Developer,Tech Company 287,Ha Noi,66-114 millions,react native,Manager,2024-11-13,90.0,5
+Fullstack Developer,Tech Company 468,Ha Noi,17-32 millions,"python, vuejs, docker",Junior,2025-12-02,24.5,2
+Mobile Developer,Tech Company 175,Ha Noi,25-56 millions,"swift, ios",Senior,2024-08-07,40.5,3
+Data Scientist,Tech Company 260,Ha Noi,42-78 millions,"python, pandas, scikit-learn",Lead,2024-04-13,60.0,4
+Backend Developer,Tech Company 193,Ha Noi,29-58 millions,"go, microservices",Senior,2025-09-03,43.5,3
+Fullstack Developer,Tech Company 369,Ho Chi Minh,16-29 millions,"python, vuejs, docker",Junior,2025-11-23,22.5,2
+AI/ML Engineer,Tech Company 159,Ho Chi Minh,17-28 millions,"c++, cuda, computer vision",Junior,2024-09-01,22.5,2
+Data Scientist,Tech Company 237,Ha Noi,66-112 millions,"sql, tableau, python",Manager,2025-03-27,89.0,5
+Mobile Developer,Tech Company 447,Ha Noi,28-59 millions,react native,Senior,2024-05-21,43.5,3
+DevOps Engineer,Tech Company 436,Ha Noi,18-31 millions,"linux, jenkins, ansible",Junior,2025-06-12,24.5,2
+Fullstack Developer,Tech Company 47,Ho Chi Minh,8-19 millions,"java, angular, sql",Fresher,2025-03-23,13.5,1
+Tester/QA,Tech Company 258,Ho Chi Minh,45-79 millions,"java, appium",Lead,2025-02-09,62.0,4
+Fullstack Developer,Tech Company 357,Ho Chi Minh,25-59 millions,"react, node.js, mongo",Senior,2025-04-28,42.0,3
+Tester/QA,Tech Company 132,Ha Noi,27-59 millions,"automation, cypress",Senior,2024-01-20,43.0,3
+Mobile Developer,Tech Company 25,Ho Chi Minh,17-28 millions,"flutter, dart",Junior,2024-05-04,22.5,2
+Tester/QA,Tech Company 275,Ha Noi,14-32 millions,"selenium, python",Junior,2025-09-03,23.0,2
+Data Scientist,Tech Company 181,Ha Noi,7-18 millions,"python, pytorch, aws",Fresher,2025-09-21,12.5,1
+Frontend Developer,Tech Company 403,Ho Chi Minh,14-30 millions,"angular, rxjs",Junior,2025-06-03,22.0,2
+Mobile Developer,Tech Company 130,Ha Noi,64-111 millions,"kotlin, android",Manager,2025-01-17,87.5,5
+Frontend Developer,Tech Company 396,Ho Chi Minh,26-58 millions,"angular, rxjs",Senior,2024-04-16,42.0,3
+Fullstack Developer,Tech Company 90,Ha Noi,26-56 millions,"react, node.js, mongo",Senior,2025-10-20,41.0,3
+Tester/QA,Tech Company 19,Ha Noi,28-55 millions,"manual testing, sql",Senior,2025-04-13,41.5,3
+Data Scientist,Tech Company 418,Ho Chi Minh,15-29 millions,"python, pandas, scikit-learn",Junior,2025-02-11,22.0,2
+Data Scientist,Tech Company 170,Ho Chi Minh,26-58 millions,"sql, tableau, python",Senior,2025-11-02,42.0,3
+Mobile Developer,Tech Company 174,Ha Noi,17-31 millions,"kotlin, android",Junior,2025-01-30,24.0,2
+Fullstack Developer,Tech Company 339,Ho Chi Minh,15-28 millions,"python, vuejs, docker",Junior,2024-12-01,21.5,2
+Mobile Developer,Tech Company 39,Ho Chi Minh,44-80 millions,"swift, ios",Lead,2024-02-28,62.0,4
+Fullstack Developer,Tech Company 18,Ho Chi Minh,26-58 millions,"react, node.js, mongo",Senior,2025-03-24,42.0,3
+DevOps Engineer,Tech Company 79,Ho Chi Minh,8-19 millions,"azure, ci/cd, terraform",Fresher,2025-09-11,13.5,1
+DevOps Engineer,Tech Company 188,Da Nang,23-47 millions,"azure, ci/cd, terraform",Senior,2025-06-26,35.0,3
+Data Scientist,Tech Company 199,Ha Noi,14-28 millions,"python, pandas, scikit-learn",Junior,2025-06-14,21.0,2
+AI/ML Engineer,Tech Company 356,Ho Chi Minh,43-81 millions,"c++, cuda, computer vision",Lead,2024-10-19,62.0,4
+Frontend Developer,Tech Company 228,Ha Noi,45-79 millions,"vuejs, nuxt",Lead,2025-12-31,62.0,4
+DevOps Engineer,Tech Company 149,Ha Noi,65-110 millions,"linux, jenkins, ansible",Manager,2025-07-09,87.5,5
+Fullstack Developer,Tech Company 406,Da Nang,36-63 millions,"java, angular, sql",Lead,2024-07-24,49.5,4
+Backend Developer,Tech Company 67,Ha Noi,9-18 millions,"go, microservices",Fresher,2025-07-18,13.5,1
+AI/ML Engineer,Tech Company 211,Ho Chi Minh,29-58 millions,"python, nlp, huggingface",Senior,2025-06-22,43.5,3
+Frontend Developer,Tech Company 239,Ha Noi,29-58 millions,"vuejs, nuxt",Senior,2025-04-05,43.5,3
+Fullstack Developer,Tech Company 426,Ho Chi Minh,27-59 millions,"react, node.js, mongo",Senior,2024-02-26,43.0,3
+Fullstack Developer,Tech Company 486,Ho Chi Minh,8-20 millions,"react, node.js, mongo",Fresher,2024-12-20,14.0,1
+Frontend Developer,Tech Company 65,Da Nang,34-67 millions,"angular, rxjs",Lead,2024-10-08,50.5,4
+Frontend Developer,Tech Company 338,Ha Noi,27-57 millions,"vuejs, nuxt",Senior,2024-06-24,42.0,3
+AI/ML Engineer,Tech Company 328,Ha Noi,42-79 millions,"c++, cuda, computer vision",Lead,2025-09-24,60.5,4
+AI/ML Engineer,Tech Company 208,Da Nang,9-15 millions,"c++, cuda, computer vision",Fresher,2025-12-02,12.0,1
+Backend Developer,Tech Company 175,Ho Chi Minh,16-29 millions,"java, spring boot",Junior,2024-07-27,22.5,2
+DevOps Engineer,Tech Company 67,Ho Chi Minh,29-56 millions,"linux, jenkins, ansible",Senior,2025-02-12,42.5,3
+Frontend Developer,Tech Company 127,Ha Noi,26-55 millions,"angular, rxjs",Senior,2025-04-05,40.5,3
+Mobile Developer,Tech Company 417,Ho Chi Minh,7-20 millions,"kotlin, android",Fresher,2024-06-12,13.5,1
+DevOps Engineer,Tech Company 240,Ha Noi,17-29 millions,"aws, docker, k8s",Junior,2025-06-11,23.0,2
+Backend Developer,Tech Company 111,Ho Chi Minh,18-30 millions,"python, django",Junior,2024-09-03,24.0,2
+AI/ML Engineer,Tech Company 241,Ho Chi Minh,27-59 millions,"python, nlp, huggingface",Senior,2025-11-19,43.0,3
+Frontend Developer,Tech Company 392,Ho Chi Minh,15-28 millions,"html, css, js",Junior,2025-01-09,21.5,2
+Backend Developer,Tech Company 259,Ho Chi Minh,15-28 millions,"java, spring boot",Junior,2025-01-30,21.5,2
+Frontend Developer,Tech Company 286,Ha Noi,18-29 millions,"vuejs, nuxt",Junior,2024-12-13,23.5,2
+Data Scientist,Tech Company 20,Ha Noi,44-79 millions,"python, pytorch, aws",Lead,2024-02-16,61.5,4
+Tester/QA,Tech Company 168,Ho Chi Minh,7-20 millions,"automation, cypress",Fresher,2024-05-23,13.5,1
+Mobile Developer,Tech Company 273,Ho Chi Minh,44-79 millions,"swift, ios",Lead,2025-06-05,61.5,4
+Tester/QA,Tech Company 299,Ha Noi,15-30 millions,"selenium, python",Junior,2025-03-02,22.5,2
+Backend Developer,Tech Company 296,Da Nang,12-25 millions,"node.js, express",Junior,2025-08-15,18.5,2
+Frontend Developer,Tech Company 212,Ho Chi Minh,25-56 millions,"vuejs, nuxt",Senior,2024-06-04,40.5,3
+Tester/QA,Tech Company 167,Ho Chi Minh,28-57 millions,"selenium, python",Senior,2025-07-28,42.5,3
+Mobile Developer,Tech Company 176,Ha Noi,67-112 millions,"swift, ios",Manager,2025-06-29,89.5,5
+AI/ML Engineer,Tech Company 163,Da Nang,14-25 millions,"python, nlp, huggingface",Junior,2025-05-15,19.5,2
+AI/ML Engineer,Tech Company 459,Ha Noi,14-30 millions,"python, nlp, huggingface",Junior,2025-01-23,22.0,2
+Tester/QA,Tech Company 357,Ha Noi,42-79 millions,"manual testing, sql",Lead,2025-07-29,60.5,4
+Data Scientist,Tech Company 327,Ho Chi Minh,14-32 millions,"python, pandas, scikit-learn",Junior,2024-08-19,23.0,2
+DevOps Engineer,Tech Company 3,Ho Chi Minh,16-30 millions,"linux, jenkins, ansible",Junior,2024-05-20,23.0,2
+Fullstack Developer,Tech Company 245,Remote,63-109 millions,"java, angular, sql",Manager,2025-05-02,86.0,5
+AI/ML Engineer,Tech Company 334,Ha Noi,26-55 millions,"python, nlp, huggingface",Senior,2024-04-01,40.5,3
+Backend Developer,Tech Company 429,Ha Noi,27-59 millions,"java, spring boot",Senior,2024-02-07,43.0,3
+AI/ML Engineer,Tech Company 476,Ha Noi,14-30 millions,"python, tensorflow, cv",Junior,2024-04-19,22.0,2
+Tester/QA,Tech Company 415,Ho Chi Minh,67-112 millions,"manual testing, sql",Manager,2024-07-16,89.5,5
+Tester/QA,Tech Company 405,Ho Chi Minh,9-16 millions,"java, appium",Fresher,2024-12-11,12.5,1
+Data Scientist,Tech Company 424,Ha Noi,16-30 millions,"python, pandas, scikit-learn",Junior,2025-02-19,23.0,2
+Mobile Developer,Tech Company 480,Ho Chi Minh,15-28 millions,"flutter, dart",Junior,2024-11-27,21.5,2
+Data Scientist,Tech Company 299,Ho Chi Minh,17-32 millions,"sql, tableau, python",Junior,2024-11-05,24.5,2
+DevOps Engineer,Tech Company 158,Ho Chi Minh,26-58 millions,"linux, jenkins, ansible",Senior,2025-04-21,42.0,3
+AI/ML Engineer,Tech Company 189,Ha Noi,14-32 millions,"c++, cuda, computer vision",Junior,2024-10-29,23.0,2
+Fullstack Developer,Tech Company 192,Ho Chi Minh,26-58 millions,"java, angular, sql",Senior,2025-09-12,42.0,3
+Tester/QA,Tech Company 448,Ha Noi,17-30 millions,"manual testing, sql",Junior,2025-09-02,23.5,2
+DevOps Engineer,Tech Company 463,Ha Noi,29-55 millions,"aws, docker, k8s",Senior,2025-07-14,42.0,3
+Fullstack Developer,Tech Company 349,Ha Noi,26-57 millions,"react, node.js, mongo",Senior,2024-04-29,41.5,3
+Frontend Developer,Tech Company 213,Ha Noi,17-29 millions,"html, css, js",Junior,2025-06-09,23.0,2
+Tester/QA,Tech Company 382,Ho Chi Minh,17-29 millions,"java, appium",Junior,2024-01-04,23.0,2
+Tester/QA,Tech Company 393,Remote,41-74 millions,"selenium, python",Lead,2024-05-18,57.5,4
+Mobile Developer,Tech Company 193,Ha Noi,29-56 millions,"swift, ios",Senior,2025-01-21,42.5,3
+Fullstack Developer,Tech Company 202,Remote,9-16 millions,"python, vuejs, docker",Fresher,2025-07-04,12.5,1
+Data Scientist,Tech Company 345,Ha Noi,28-59 millions,"python, pandas, scikit-learn",Senior,2025-04-19,43.5,3
+Mobile Developer,Tech Company 97,Ho Chi Minh,26-56 millions,react native,Senior,2024-10-09,41.0,3
+Backend Developer,Tech Company 126,Ho Chi Minh,16-31 millions,"node.js, express",Junior,2024-02-19,23.5,2
+Data Scientist,Tech Company 72,Ho Chi Minh,26-59 millions,"python, pytorch, aws",Senior,2024-02-27,42.5,3
+DevOps Engineer,Tech Company 122,Ho Chi Minh,27-58 millions,"linux, jenkins, ansible",Senior,2024-11-24,42.5,3
+Data Scientist,Tech Company 451,Ho Chi Minh,15-27 millions,"sql, tableau, python",Junior,2025-08-28,21.0,2
+Mobile Developer,Tech Company 344,Ho Chi Minh,25-56 millions,"kotlin, android",Senior,2025-10-20,40.5,3
+Mobile Developer,Tech Company 243,Ha Noi,15-29 millions,"kotlin, android",Junior,2025-07-04,22.0,2
+Fullstack Developer,Tech Company 286,Ho Chi Minh,18-30 millions,"java, angular, sql",Junior,2025-03-02,24.0,2
+AI/ML Engineer,Tech Company 434,Ho Chi Minh,26-55 millions,"python, tensorflow, cv",Senior,2025-04-05,40.5,3
+Data Scientist,Tech Company 21,Ha Noi,15-30 millions,"python, pandas, scikit-learn",Junior,2025-09-09,22.5,2
+Data Scientist,Tech Company 490,Ho Chi Minh,42-81 millions,"sql, tableau, python",Lead,2024-11-06,61.5,4
+Data Scientist,Tech Company 469,Ho Chi Minh,42-81 millions,"python, pytorch, aws",Lead,2025-05-05,61.5,4
+Data Scientist,Tech Company 195,Ha Noi,18-30 millions,"sql, tableau, python",Junior,2024-10-16,24.0,2
+AI/ML Engineer,Tech Company 51,Ha Noi,15-31 millions,"python, nlp, huggingface",Junior,2025-04-22,23.0,2
+DevOps Engineer,Tech Company 443,Ha Noi,26-57 millions,"aws, docker, k8s",Senior,2025-07-30,41.5,3
+AI/ML Engineer,Tech Company 152,Ho Chi Minh,18-30 millions,"c++, cuda, computer vision",Junior,2025-03-03,24.0,2
+Backend Developer,Tech Company 25,Ha Noi,28-55 millions,"python, django",Senior,2025-11-15,41.5,3
+Data Scientist,Tech Company 234,Ho Chi Minh,28-55 millions,"python, pandas, scikit-learn",Senior,2025-06-01,41.5,3
+Tester/QA,Tech Company 7,Ha Noi,14-30 millions,"automation, cypress",Junior,2025-02-25,22.0,2
+AI/ML Engineer,Tech Company 413,Ha Noi,8-19 millions,"python, tensorflow, cv",Fresher,2025-03-16,13.5,1
+Frontend Developer,Tech Company 418,Ho Chi Minh,42-80 millions,"vuejs, nuxt",Lead,2024-09-15,61.0,4
+Frontend Developer,Tech Company 357,Ha Noi,18-29 millions,"angular, rxjs",Junior,2024-09-06,23.5,2
+Fullstack Developer,Tech Company 290,Ho Chi Minh,8-18 millions,"react, node.js, mongo",Fresher,2024-12-05,13.0,1
+Backend Developer,Tech Company 244,Remote,61-109 millions,"java, spring boot",Manager,2025-08-03,85.0,5
+AI/ML Engineer,Tech Company 9,Da Nang,13-22 millions,"c++, cuda, computer vision",Junior,2024-11-18,17.5,2
+Mobile Developer,Tech Company 428,Ha Noi,65-112 millions,"flutter, dart",Manager,2025-08-03,88.5,5
+DevOps Engineer,Tech Company 371,Ha Noi,28-55 millions,"azure, ci/cd, terraform",Senior,2025-12-06,41.5,3
+DevOps Engineer,Tech Company 175,Ha Noi,7-17 millions,"aws, docker, k8s",Fresher,2024-03-18,12.0,1
+Mobile Developer,Tech Company 252,Ha Noi,25-56 millions,"swift, ios",Senior,2025-04-06,40.5,3
+Mobile Developer,Tech Company 44,Ha Noi,15-30 millions,"kotlin, android",Junior,2025-01-24,22.5,2
+Data Scientist,Tech Company 365,Ho Chi Minh,25-56 millions,"python, pytorch, aws",Senior,2025-01-24,40.5,3
+Mobile Developer,Tech Company 228,Ho Chi Minh,26-55 millions,"swift, ios",Senior,2024-11-11,40.5,3
+Fullstack Developer,Tech Company 263,Ho Chi Minh,15-29 millions,"react, node.js, mongo",Junior,2025-07-22,22.0,2
+DevOps Engineer,Tech Company 443,Ho Chi Minh,14-30 millions,"linux, jenkins, ansible",Junior,2024-11-28,22.0,2
+Mobile Developer,Tech Company 293,Ho Chi Minh,17-30 millions,"flutter, dart",Junior,2024-09-05,23.5,2
+Fullstack Developer,Tech Company 33,Ha Noi,26-56 millions,"react, node.js, mongo",Senior,2024-05-29,41.0,3
+AI/ML Engineer,Tech Company 370,Ho Chi Minh,17-29 millions,"python, nlp, huggingface",Junior,2024-09-09,23.0,2
+Data Scientist,Tech Company 171,Ha Noi,25-56 millions,"sql, tableau, python",Senior,2025-02-09,40.5,3
+DevOps Engineer,Tech Company 499,Ho Chi Minh,26-59 millions,"azure, ci/cd, terraform",Senior,2025-10-28,42.5,3
+Data Scientist,Tech Company 150,Ho Chi Minh,26-59 millions,"sql, tableau, python",Senior,2024-11-22,42.5,3
+Fullstack Developer,Tech Company 483,Ha Noi,9-16 millions,"python, vuejs, docker",Fresher,2025-04-17,12.5,1
+AI/ML Engineer,Tech Company 345,Ho Chi Minh,25-59 millions,"c++, cuda, computer vision",Senior,2025-02-22,42.0,3
+Data Scientist,Tech Company 38,Ha Noi,17-31 millions,"sql, tableau, python",Junior,2025-01-21,24.0,2
+Mobile Developer,Tech Company 360,Ha Noi,16-31 millions,"kotlin, android",Junior,2025-01-03,23.5,2
+Data Scientist,Tech Company 302,Ha Noi,15-29 millions,"sql, tableau, python",Junior,2025-11-26,22.0,2
+Backend Developer,Tech Company 60,Ho Chi Minh,25-57 millions,"node.js, express",Senior,2024-03-28,41.0,3
+DevOps Engineer,Tech Company 248,Ha Noi,26-58 millions,"azure, ci/cd, terraform",Senior,2025-06-17,42.0,3
+Tester/QA,Tech Company 59,Ho Chi Minh,14-27 millions,"java, appium",Junior,2025-12-28,20.5,2
+Frontend Developer,Tech Company 90,Ho Chi Minh,10-20 millions,"vuejs, nuxt",Fresher,2025-06-12,15.0,1
+Mobile Developer,Tech Company 96,Ho Chi Minh,26-57 millions,"kotlin, android",Senior,2024-07-07,41.5,3
+Backend Developer,Tech Company 361,Ho Chi Minh,27-57 millions,"java, spring boot",Senior,2024-01-05,42.0,3
+Tester/QA,Tech Company 59,Ho Chi Minh,16-30 millions,"java, appium",Junior,2025-08-24,23.0,2
+Fullstack Developer,Tech Company 303,Ha Noi,17-28 millions,"python, vuejs, docker",Junior,2025-09-21,22.5,2
+Frontend Developer,Tech Company 73,Ho Chi Minh,8-17 millions,"vuejs, nuxt",Fresher,2025-12-11,12.5,1
+Fullstack Developer,Tech Company 276,Ho Chi Minh,27-55 millions,"python, vuejs, docker",Senior,2025-10-12,41.0,3
+Fullstack Developer,Tech Company 162,Ha Noi,26-56 millions,"python, vuejs, docker",Senior,2024-07-10,41.0,3
+DevOps Engineer,Tech Company 494,Ha Noi,27-55 millions,"aws, docker, k8s",Senior,2025-01-28,41.0,3
+Data Scientist,Tech Company 87,Ho Chi Minh,6-17 millions,"sql, tableau, python",Fresher,2024-10-22,11.5,1
+Tester/QA,Tech Company 422,Ha Noi,27-56 millions,"selenium, python",Senior,2025-07-10,41.5,3
+Backend Developer,Tech Company 377,Ha Noi,66-114 millions,"node.js, express",Manager,2024-04-14,90.0,5
+AI/ML Engineer,Tech Company 225,Ha Noi,27-56 millions,"python, tensorflow, cv",Senior,2024-03-30,41.5,3
+Data Scientist,Tech Company 441,Ho Chi Minh,45-79 millions,"python, pandas, scikit-learn",Lead,2024-12-25,62.0,4
+Fullstack Developer,Tech Company 413,Ha Noi,26-56 millions,"python, vuejs, docker",Senior,2024-07-30,41.0,3
+AI/ML Engineer,Tech Company 150,Ho Chi Minh,8-18 millions,"c++, cuda, computer vision",Fresher,2025-12-21,13.0,1
+Fullstack Developer,Tech Company 390,Ho Chi Minh,42-78 millions,"react, node.js, mongo",Lead,2024-09-10,60.0,4
+Fullstack Developer,Tech Company 232,Ho Chi Minh,28-58 millions,"python, vuejs, docker",Senior,2025-01-19,43.0,3
+Frontend Developer,Tech Company 233,Ha Noi,8-17 millions,"html, css, js",Fresher,2025-01-12,12.5,1
+Backend Developer,Tech Company 358,Ho Chi Minh,66-112 millions,"python, django",Manager,2025-11-11,89.0,5
+Mobile Developer,Tech Company 138,Ho Chi Minh,18-31 millions,react native,Junior,2025-05-21,24.5,2
+Fullstack Developer,Tech Company 391,Ho Chi Minh,17-31 millions,"python, vuejs, docker",Junior,2025-11-29,24.0,2
+Tester/QA,Tech Company 234,Ho Chi Minh,7-20 millions,"selenium, python",Fresher,2025-03-27,13.5,1
+Frontend Developer,Tech Company 85,Da Nang,35-64 millions,"angular, rxjs",Lead,2025-10-26,49.5,4
+Data Scientist,Tech Company 110,Ha Noi,9-20 millions,"sql, tableau, python",Fresher,2024-01-02,14.5,1
+Data Scientist,Tech Company 176,Ho Chi Minh,17-27 millions,"python, pytorch, aws",Junior,2025-12-13,22.0,2
+Mobile Developer,Tech Company 375,Remote,26-53 millions,react native,Senior,2024-04-01,39.5,3
+DevOps Engineer,Tech Company 329,Ho Chi Minh,26-58 millions,"azure, ci/cd, terraform",Senior,2024-05-16,42.0,3
+Backend Developer,Tech Company 384,Ho Chi Minh,65-113 millions,"java, spring boot",Manager,2025-10-05,89.0,5
+Mobile Developer,Tech Company 44,Ho Chi Minh,28-56 millions,"swift, ios",Senior,2025-10-22,42.0,3
+AI/ML Engineer,Tech Company 106,Ha Noi,14-31 millions,"c++, cuda, computer vision",Junior,2024-11-04,22.5,2
+Mobile Developer,Tech Company 254,Ha Noi,28-58 millions,"swift, ios",Senior,2024-09-02,43.0,3
+Frontend Developer,Tech Company 199,Ho Chi Minh,18-32 millions,"reactjs, typescript",Junior,2024-05-15,25.0,2
+DevOps Engineer,Tech Company 9,Ha Noi,44-80 millions,"linux, jenkins, ansible",Lead,2024-03-15,62.0,4
+Mobile Developer,Tech Company 276,Ha Noi,17-27 millions,"kotlin, android",Junior,2025-07-03,22.0,2
+AI/ML Engineer,Tech Company 275,Ho Chi Minh,27-56 millions,"python, tensorflow, cv",Senior,2024-06-08,41.5,3
+Frontend Developer,Tech Company 30,Ha Noi,17-31 millions,"angular, rxjs",Junior,2024-09-01,24.0,2
+Frontend Developer,Tech Company 380,Da Nang,13-22 millions,"html, css, js",Junior,2025-11-13,17.5,2
+Backend Developer,Tech Company 268,Ho Chi Minh,28-55 millions,"java, spring boot",Senior,2024-12-21,41.5,3
+AI/ML Engineer,Tech Company 376,Ha Noi,26-58 millions,"python, tensorflow, cv",Senior,2024-10-02,42.0,3
+Backend Developer,Tech Company 135,Ha Noi,45-78 millions,"go, microservices",Lead,2024-03-06,61.5,4
+Frontend Developer,Tech Company 440,Ha Noi,27-56 millions,"html, css, js",Senior,2025-05-26,41.5,3
+Backend Developer,Tech Company 92,Ho Chi Minh,25-56 millions,"java, spring boot",Senior,2024-06-02,40.5,3
+Mobile Developer,Tech Company 139,Da Nang,35-65 millions,react native,Lead,2024-11-23,50.0,4
+Frontend Developer,Tech Company 489,Ha Noi,26-59 millions,"reactjs, typescript",Senior,2024-02-17,42.5,3
+AI/ML Engineer,Tech Company 189,Da Nang,12-25 millions,"python, nlp, huggingface",Junior,2024-01-09,18.5,2
+AI/ML Engineer,Tech Company 498,Ha Noi,16-29 millions,"c++, cuda, computer vision",Junior,2025-08-28,22.5,2
+Data Scientist,Tech Company 78,Ha Noi,18-31 millions,"python, pytorch, aws",Junior,2024-09-08,24.5,2
+Data Scientist,Tech Company 487,Ho Chi Minh,8-20 millions,"python, pytorch, aws",Fresher,2024-01-10,14.0,1
+Mobile Developer,Tech Company 215,Ha Noi,14-30 millions,"swift, ios",Junior,2024-08-31,22.0,2
+Fullstack Developer,Tech Company 460,Ho Chi Minh,15-27 millions,"python, vuejs, docker",Junior,2024-08-25,21.0,2
+DevOps Engineer,Tech Company 259,Ho Chi Minh,29-55 millions,"azure, ci/cd, terraform",Senior,2024-04-07,42.0,3
+Frontend Developer,Tech Company 150,Ha Noi,8-21 millions,"reactjs, typescript",Fresher,2024-08-30,14.5,1
+Mobile Developer,Tech Company 484,Ho Chi Minh,15-28 millions,"swift, ios",Junior,2024-03-17,21.5,2
+Frontend Developer,Tech Company 209,Ha Noi,14-29 millions,"vuejs, nuxt",Junior,2024-11-17,21.5,2
+Data Scientist,Tech Company 47,Ho Chi Minh,8-17 millions,"sql, tableau, python",Fresher,2024-05-02,12.5,1
+Backend Developer,Tech Company 365,Ha Noi,17-29 millions,"java, spring boot",Junior,2024-04-03,23.0,2
+Backend Developer,Tech Company 488,Ho Chi Minh,15-32 millions,"go, microservices",Junior,2024-02-01,23.5,2
+Data Scientist,Tech Company 63,Ha Noi,16-31 millions,"python, pandas, scikit-learn",Junior,2024-05-23,23.5,2
+AI/ML Engineer,Tech Company 228,Ho Chi Minh,42-77 millions,"python, tensorflow, cv",Lead,2025-10-23,59.5,4
+DevOps Engineer,Tech Company 474,Ho Chi Minh,25-57 millions,"aws, docker, k8s",Senior,2024-06-21,41.0,3
+Mobile Developer,Tech Company 182,Ha Noi,25-58 millions,"kotlin, android",Senior,2024-06-25,41.5,3
+AI/ML Engineer,Tech Company 316,Ho Chi Minh,18-27 millions,"python, nlp, huggingface",Junior,2025-09-26,22.5,2
+Mobile Developer,Tech Company 215,Ho Chi Minh,14-28 millions,"kotlin, android",Junior,2024-05-20,21.0,2
+Data Scientist,Tech Company 196,Da Nang,15-25 millions,"python, pytorch, aws",Junior,2024-01-20,20.0,2
+Tester/QA,Tech Company 139,Ho Chi Minh,29-57 millions,"java, appium",Senior,2025-02-01,43.0,3
+Backend Developer,Tech Company 182,Da Nang,22-49 millions,"java, spring boot",Senior,2025-02-01,35.5,3
+Fullstack Developer,Tech Company 184,Can Tho,34-64 millions,"react, node.js, mongo",Lead,2025-12-15,49.0,4
+DevOps Engineer,Tech Company 429,Ho Chi Minh,44-79 millions,"linux, jenkins, ansible",Lead,2024-07-11,61.5,4
+Tester/QA,Tech Company 120,Da Nang,52-90 millions,"java, appium",Manager,2024-02-27,71.0,5
+Tester/QA,Tech Company 175,Ho Chi Minh,26-58 millions,"selenium, python",Senior,2024-05-13,42.0,3
+DevOps Engineer,Tech Company 397,Da Nang,20-47 millions,"aws, docker, k8s",Senior,2024-05-25,33.5,3
+DevOps Engineer,Tech Company 301,Ha Noi,8-21 millions,"aws, docker, k8s",Fresher,2025-02-09,14.5,1
+Fullstack Developer,Tech Company 492,Ho Chi Minh,9-18 millions,"react, node.js, mongo",Fresher,2025-10-16,13.5,1
+DevOps Engineer,Tech Company 158,Ho Chi Minh,17-31 millions,"aws, docker, k8s",Junior,2025-01-22,24.0,2
+Fullstack Developer,Tech Company 201,Ho Chi Minh,25-58 millions,"python, vuejs, docker",Senior,2025-08-09,41.5,3
+Backend Developer,Tech Company 114,Ha Noi,44-81 millions,"java, spring boot",Lead,2025-09-18,62.5,4
+Tester/QA,Tech Company 164,Ho Chi Minh,26-55 millions,"manual testing, sql",Senior,2024-12-21,40.5,3
+Frontend Developer,Tech Company 355,Da Nang,13-23 millions,"angular, rxjs",Junior,2024-09-12,18.0,2
+Frontend Developer,Tech Company 497,Ho Chi Minh,6-18 millions,"reactjs, typescript",Fresher,2025-03-05,12.0,1
+Mobile Developer,Tech Company 404,Ho Chi Minh,16-28 millions,"swift, ios",Junior,2025-05-05,22.0,2
+Data Scientist,Tech Company 151,Ha Noi,43-80 millions,"python, pandas, scikit-learn",Lead,2024-02-04,61.5,4
+Frontend Developer,Tech Company 375,Ho Chi Minh,8-20 millions,"reactjs, typescript",Fresher,2024-06-13,14.0,1
+Frontend Developer,Tech Company 361,Da Nang,7-16 millions,"angular, rxjs",Fresher,2025-05-09,11.5,1
+Fullstack Developer,Tech Company 170,Da Nang,8-14 millions,"python, vuejs, docker",Fresher,2024-04-13,11.0,1
+AI/ML Engineer,Tech Company 202,Ho Chi Minh,15-28 millions,"c++, cuda, computer vision",Junior,2024-02-20,21.5,2
+Fullstack Developer,Tech Company 422,Ha Noi,26-57 millions,"react, node.js, mongo",Senior,2024-10-28,41.5,3
+Data Scientist,Tech Company 42,Ha Noi,25-55 millions,"python, pandas, scikit-learn",Senior,2024-10-25,40.0,3
+Mobile Developer,Tech Company 329,Ho Chi Minh,16-30 millions,"kotlin, android",Junior,2024-04-03,23.0,2
+Mobile Developer,Tech Company 239,Ho Chi Minh,26-55 millions,"swift, ios",Senior,2025-03-26,40.5,3
+Backend Developer,Tech Company 343,Ha Noi,17-30 millions,"java, spring boot",Junior,2024-03-28,23.5,2
+Data Scientist,Tech Company 215,Ha Noi,14-29 millions,"python, pytorch, aws",Junior,2025-06-19,21.5,2
+Tester/QA,Tech Company 258,Ha Noi,65-110 millions,"manual testing, sql",Manager,2024-02-05,87.5,5
+Fullstack Developer,Tech Company 498,Ha Noi,29-57 millions,"react, node.js, mongo",Senior,2024-06-20,43.0,3
+Backend Developer,Tech Company 422,Ho Chi Minh,14-30 millions,"node.js, express",Junior,2024-07-25,22.0,2
+AI/ML Engineer,Tech Company 45,Ha Noi,29-59 millions,"python, nlp, huggingface",Senior,2024-03-09,44.0,3
+DevOps Engineer,Tech Company 403,Ho Chi Minh,16-32 millions,"azure, ci/cd, terraform",Junior,2024-01-13,24.0,2
+Mobile Developer,Tech Company 299,Ha Noi,27-55 millions,"flutter, dart",Senior,2025-08-25,41.0,3
+Frontend Developer,Tech Company 450,Da Nang,23-49 millions,"reactjs, typescript",Senior,2024-12-18,36.0,3
+Tester/QA,Tech Company 317,Ho Chi Minh,14-28 millions,"automation, cypress",Junior,2024-05-27,21.0,2
+Backend Developer,Tech Company 26,Ha Noi,29-56 millions,"node.js, express",Senior,2024-08-31,42.5,3
+DevOps Engineer,Tech Company 144,Da Nang,21-48 millions,"aws, docker, k8s",Senior,2024-11-14,34.5,3
+Frontend Developer,Tech Company 397,Da Nang,21-49 millions,"vuejs, nuxt",Senior,2025-03-29,35.0,3
+Mobile Developer,Tech Company 380,Ho Chi Minh,26-56 millions,"flutter, dart",Senior,2025-02-20,41.0,3
+DevOps Engineer,Tech Company 364,Ha Noi,16-28 millions,"aws, docker, k8s",Junior,2024-11-14,22.0,2
+DevOps Engineer,Tech Company 259,Ho Chi Minh,7-18 millions,"linux, jenkins, ansible",Fresher,2025-04-20,12.5,1
+Backend Developer,Tech Company 492,Da Nang,12-25 millions,"java, spring boot",Junior,2024-06-30,18.5,2
+DevOps Engineer,Tech Company 47,Ha Noi,42-81 millions,"azure, ci/cd, terraform",Lead,2025-12-06,61.5,4
+Fullstack Developer,Tech Company 332,Ho Chi Minh,17-28 millions,"python, vuejs, docker",Junior,2024-08-14,22.5,2
+Mobile Developer,Tech Company 5,Ho Chi Minh,17-32 millions,"flutter, dart",Junior,2025-11-29,24.5,2
+Fullstack Developer,Tech Company 413,Ho Chi Minh,17-28 millions,"python, vuejs, docker",Junior,2025-09-14,22.5,2
+AI/ML Engineer,Tech Company 130,Ha Noi,45-81 millions,"python, nlp, huggingface",Lead,2025-04-15,63.0,4
+Mobile Developer,Tech Company 288,Ho Chi Minh,14-32 millions,"flutter, dart",Junior,2025-01-18,23.0,2
+AI/ML Engineer,Tech Company 328,Ha Noi,25-55 millions,"c++, cuda, computer vision",Senior,2024-10-10,40.0,3
+AI/ML Engineer,Tech Company 413,Ho Chi Minh,15-31 millions,"python, tensorflow, cv",Junior,2024-02-28,23.0,2
+Mobile Developer,Tech Company 255,Ha Noi,44-80 millions,"swift, ios",Lead,2025-11-02,62.0,4
+Mobile Developer,Tech Company 293,Ho Chi Minh,65-110 millions,"kotlin, android",Manager,2025-12-26,87.5,5
+Data Scientist,Tech Company 184,Ho Chi Minh,27-58 millions,"python, pytorch, aws",Senior,2025-11-18,42.5,3
+Fullstack Developer,Tech Company 372,Ha Noi,25-55 millions,"java, angular, sql",Senior,2024-09-21,40.0,3
+Fullstack Developer,Tech Company 182,Ha Noi,29-58 millions,"python, vuejs, docker",Senior,2024-08-15,43.5,3
+Mobile Developer,Tech Company 436,Da Nang,12-25 millions,"swift, ios",Junior,2025-04-19,18.5,2
+Frontend Developer,Tech Company 196,Ho Chi Minh,10-19 millions,"html, css, js",Fresher,2025-11-28,14.5,1
+Fullstack Developer,Tech Company 458,Ho Chi Minh,29-56 millions,"react, node.js, mongo",Senior,2025-08-06,42.5,3
+DevOps Engineer,Tech Company 324,Ha Noi,42-77 millions,"linux, jenkins, ansible",Lead,2024-12-06,59.5,4
+Backend Developer,Tech Company 296,Ho Chi Minh,65-111 millions,"python, django",Manager,2024-06-21,88.0,5
+Frontend Developer,Tech Company 220,Ha Noi,27-58 millions,"vuejs, nuxt",Senior,2025-02-17,42.5,3
+Backend Developer,Tech Company 388,Ho Chi Minh,66-114 millions,"java, spring boot",Manager,2024-11-25,90.0,5
+Backend Developer,Tech Company 67,Ho Chi Minh,26-59 millions,"java, spring boot",Senior,2024-11-15,42.5,3
+AI/ML Engineer,Tech Company 234,Ha Noi,7-16 millions,"python, tensorflow, cv",Fresher,2024-10-24,11.5,1
+DevOps Engineer,Tech Company 462,Ha Noi,29-59 millions,"azure, ci/cd, terraform",Senior,2024-12-16,44.0,3
+Fullstack Developer,Tech Company 109,Ha Noi,14-28 millions,"java, angular, sql",Junior,2024-05-14,21.0,2
+Fullstack Developer,Tech Company 193,Ha Noi,26-58 millions,"react, node.js, mongo",Senior,2024-02-08,42.0,3
+Mobile Developer,Tech Company 106,Ho Chi Minh,27-57 millions,"flutter, dart",Senior,2024-06-05,42.0,3
+AI/ML Engineer,Tech Company 319,Ha Noi,28-58 millions,"python, nlp, huggingface",Senior,2024-10-03,43.0,3
+Frontend Developer,Tech Company 102,Ho Chi Minh,26-58 millions,"reactjs, typescript",Senior,2025-05-24,42.0,3
+Data Scientist,Tech Company 281,Ha Noi,28-56 millions,"sql, tableau, python",Senior,2024-02-10,42.0,3
+Tester/QA,Tech Company 465,Ho Chi Minh,15-27 millions,"java, appium",Junior,2024-04-01,21.0,2
+Tester/QA,Tech Company 371,Ha Noi,10-20 millions,"manual testing, sql",Fresher,2024-03-17,15.0,1
+Data Scientist,Tech Company 26,Da Nang,24-46 millions,"sql, tableau, python",Senior,2025-04-20,35.0,3
+Backend Developer,Tech Company 379,Ho Chi Minh,8-19 millions,"go, microservices",Fresher,2025-03-12,13.5,1
+Backend Developer,Tech Company 169,Da Nang,8-16 millions,"python, django",Fresher,2024-06-23,12.0,1
+AI/ML Engineer,Tech Company 59,Ho Chi Minh,14-31 millions,"c++, cuda, computer vision",Junior,2024-07-06,22.5,2
+AI/ML Engineer,Tech Company 333,Remote,16-28 millions,"python, nlp, huggingface",Junior,2025-03-07,22.0,2
+Fullstack Developer,Tech Company 54,Ho Chi Minh,44-81 millions,"python, vuejs, docker",Lead,2024-06-12,62.5,4
+Tester/QA,Tech Company 15,Ha Noi,16-31 millions,"manual testing, sql",Junior,2025-09-18,23.5,2
+Fullstack Developer,Tech Company 226,Da Nang,37-63 millions,"java, angular, sql",Lead,2025-02-25,50.0,4
+DevOps Engineer,Tech Company 371,Ho Chi Minh,9-19 millions,"aws, docker, k8s",Fresher,2025-08-13,14.0,1
+DevOps Engineer,Tech Company 222,Remote,26-56 millions,"linux, jenkins, ansible",Senior,2024-04-07,41.0,3
+DevOps Engineer,Tech Company 457,Ho Chi Minh,28-56 millions,"linux, jenkins, ansible",Senior,2025-07-25,42.0,3
+Fullstack Developer,Tech Company 39,Ho Chi Minh,67-114 millions,"python, vuejs, docker",Manager,2024-06-18,90.5,5
+DevOps Engineer,Tech Company 194,Ho Chi Minh,25-56 millions,"azure, ci/cd, terraform",Senior,2025-10-20,40.5,3
+Tester/QA,Tech Company 229,Ho Chi Minh,17-29 millions,"automation, cypress",Junior,2025-05-25,23.0,2
+Backend Developer,Tech Company 1,Remote,15-26 millions,"python, django",Junior,2025-07-16,20.5,2
+AI/ML Engineer,Tech Company 487,Ha Noi,27-58 millions,"c++, cuda, computer vision",Senior,2025-04-12,42.5,3
+AI/ML Engineer,Tech Company 460,Ha Noi,16-31 millions,"c++, cuda, computer vision",Junior,2024-02-16,23.5,2
+Mobile Developer,Tech Company 477,Ho Chi Minh,15-28 millions,"flutter, dart",Junior,2024-05-03,21.5,2
+Data Scientist,Tech Company 475,Ho Chi Minh,43-80 millions,"python, pytorch, aws",Lead,2024-02-17,61.5,4
+Frontend Developer,Tech Company 69,Ha Noi,27-57 millions,"html, css, js",Senior,2025-05-31,42.0,3
+Fullstack Developer,Tech Company 308,Ho Chi Minh,45-77 millions,"python, vuejs, docker",Lead,2025-11-04,61.0,4
+Mobile Developer,Tech Company 141,Ho Chi Minh,29-59 millions,"kotlin, android",Senior,2024-09-11,44.0,3
+AI/ML Engineer,Tech Company 359,Ho Chi Minh,17-28 millions,"python, nlp, huggingface",Junior,2025-09-08,22.5,2
+DevOps Engineer,Tech Company 103,Ha Noi,44-79 millions,"linux, jenkins, ansible",Lead,2024-08-10,61.5,4
+DevOps Engineer,Tech Company 258,Ha Noi,15-31 millions,"linux, jenkins, ansible",Junior,2024-07-01,23.0,2
+Frontend Developer,Tech Company 364,Ha Noi,27-57 millions,"angular, rxjs",Senior,2025-11-14,42.0,3
+AI/ML Engineer,Tech Company 196,Ha Noi,17-30 millions,"python, nlp, huggingface",Junior,2024-01-26,23.5,2
+Data Scientist,Tech Company 350,Ha Noi,9-17 millions,"sql, tableau, python",Fresher,2024-10-20,13.0,1
+AI/ML Engineer,Tech Company 53,Ha Noi,17-27 millions,"python, tensorflow, cv",Junior,2025-04-08,22.0,2
+Data Scientist,Tech Company 402,Ha Noi,28-56 millions,"python, pytorch, aws",Senior,2025-06-07,42.0,3
+Backend Developer,Tech Company 161,Ha Noi,27-59 millions,"node.js, express",Senior,2025-12-02,43.0,3
+AI/ML Engineer,Tech Company 425,Ho Chi Minh,66-113 millions,"python, tensorflow, cv",Manager,2025-03-29,89.5,5
+DevOps Engineer,Tech Company 151,Ha Noi,16-30 millions,"linux, jenkins, ansible",Junior,2024-07-17,23.0,2
+Frontend Developer,Tech Company 194,Remote,17-29 millions,"vuejs, nuxt",Junior,2024-05-02,23.0,2
+AI/ML Engineer,Tech Company 170,Ho Chi Minh,7-20 millions,"python, tensorflow, cv",Fresher,2024-01-06,13.5,1
+Backend Developer,Tech Company 316,Da Nang,15-25 millions,"java, spring boot",Junior,2025-10-02,20.0,2
+DevOps Engineer,Tech Company 490,Ho Chi Minh,28-56 millions,"aws, docker, k8s",Senior,2024-08-13,42.0,3
+Fullstack Developer,Tech Company 114,Ho Chi Minh,16-29 millions,"java, angular, sql",Junior,2024-12-23,22.5,2
+DevOps Engineer,Tech Company 272,Ha Noi,43-81 millions,"azure, ci/cd, terraform",Lead,2025-09-25,62.0,4
+Backend Developer,Tech Company 198,Ho Chi Minh,43-80 millions,"go, microservices",Lead,2024-04-26,61.5,4
+Backend Developer,Tech Company 23,Ha Noi,16-30 millions,"go, microservices",Junior,2025-05-13,23.0,2
+DevOps Engineer,Tech Company 274,Ha Noi,14-27 millions,"linux, jenkins, ansible",Junior,2025-07-04,20.5,2
+Data Scientist,Tech Company 425,Ho Chi Minh,8-17 millions,"python, pytorch, aws",Fresher,2025-07-04,12.5,1
+Mobile Developer,Tech Company 368,Remote,27-53 millions,"flutter, dart",Senior,2025-04-15,40.0,3
+Backend Developer,Tech Company 421,Ho Chi Minh,17-30 millions,"java, spring boot",Junior,2025-08-11,23.5,2
+Mobile Developer,Tech Company 200,Ho Chi Minh,17-29 millions,"kotlin, android",Junior,2024-01-18,23.0,2
+Frontend Developer,Tech Company 55,Ha Noi,28-55 millions,"reactjs, typescript",Senior,2025-05-29,41.5,3
+Frontend Developer,Tech Company 421,Ha Noi,17-29 millions,"angular, rxjs",Junior,2025-02-08,23.0,2
+Data Scientist,Tech Company 152,Ha Noi,28-58 millions,"python, pandas, scikit-learn",Senior,2025-07-12,43.0,3
+DevOps Engineer,Tech Company 22,Ho Chi Minh,66-112 millions,"aws, docker, k8s",Manager,2024-05-06,89.0,5
+Frontend Developer,Tech Company 109,Ha Noi,7-20 millions,"angular, rxjs",Fresher,2024-12-18,13.5,1
+Fullstack Developer,Tech Company 100,Ha Noi,15-30 millions,"react, node.js, mongo",Junior,2024-09-15,22.5,2
+Backend Developer,Tech Company 35,Ha Noi,9-16 millions,"node.js, express",Fresher,2025-11-18,12.5,1
+Tester/QA,Tech Company 52,Ho Chi Minh,15-30 millions,"java, appium",Junior,2024-08-28,22.5,2
+Data Scientist,Tech Company 157,Ho Chi Minh,16-29 millions,"sql, tableau, python",Junior,2025-11-06,22.5,2
+DevOps Engineer,Tech Company 127,Ho Chi Minh,29-55 millions,"azure, ci/cd, terraform",Senior,2024-11-16,42.0,3
+Mobile Developer,Tech Company 450,Ha Noi,28-55 millions,"swift, ios",Senior,2024-12-05,41.5,3
+AI/ML Engineer,Tech Company 42,Ho Chi Minh,16-28 millions,"python, nlp, huggingface",Junior,2025-09-13,22.0,2
+Fullstack Developer,Tech Company 40,Da Nang,21-48 millions,"python, vuejs, docker",Senior,2025-10-03,34.5,3
+Backend Developer,Tech Company 283,Da Nang,23-46 millions,"node.js, express",Senior,2024-02-07,34.5,3
+Tester/QA,Tech Company 376,Da Nang,12-23 millions,"manual testing, sql",Junior,2025-08-26,17.5,2
+Frontend Developer,Tech Company 435,Ho Chi Minh,43-77 millions,"html, css, js",Lead,2024-09-01,60.0,4
+Fullstack Developer,Tech Company 486,Remote,61-105 millions,"python, vuejs, docker",Manager,2025-08-02,83.0,5
+Fullstack Developer,Tech Company 113,Da Nang,23-49 millions,"python, vuejs, docker",Senior,2024-02-11,36.0,3
+AI/ML Engineer,Tech Company 465,Ho Chi Minh,26-58 millions,"python, nlp, huggingface",Senior,2025-06-14,42.0,3
+Tester/QA,Tech Company 361,Ho Chi Minh,25-58 millions,"selenium, python",Senior,2024-04-15,41.5,3
+AI/ML Engineer,Tech Company 193,Ha Noi,65-112 millions,"c++, cuda, computer vision",Manager,2024-06-27,88.5,5
+Frontend Developer,Tech Company 208,Ho Chi Minh,27-59 millions,"angular, rxjs",Senior,2025-06-12,43.0,3
+Tester/QA,Tech Company 226,Da Nang,15-22 millions,"automation, cypress",Junior,2024-05-22,18.5,2
+AI/ML Engineer,Tech Company 368,Ho Chi Minh,15-28 millions,"python, tensorflow, cv",Junior,2025-09-08,21.5,2
+Mobile Developer,Tech Company 246,Ha Noi,28-57 millions,"swift, ios",Senior,2025-05-05,42.5,3
+Mobile Developer,Tech Company 83,Ho Chi Minh,15-28 millions,"flutter, dart",Junior,2025-08-29,21.5,2
+Fullstack Developer,Tech Company 491,Ha Noi,7-21 millions,"react, node.js, mongo",Fresher,2025-06-13,14.0,1
+Backend Developer,Tech Company 242,Remote,17-27 millions,"go, microservices",Junior,2025-09-13,22.0,2
+Mobile Developer,Tech Company 320,Ho Chi Minh,45-81 millions,react native,Lead,2024-07-05,63.0,4
+DevOps Engineer,Tech Company 198,Ho Chi Minh,27-55 millions,"azure, ci/cd, terraform",Senior,2025-01-22,41.0,3
+Mobile Developer,Tech Company 308,Ho Chi Minh,9-17 millions,react native,Fresher,2025-09-21,13.0,1
+Frontend Developer,Tech Company 277,Ha Noi,8-17 millions,"reactjs, typescript",Fresher,2025-09-09,12.5,1
+Mobile Developer,Tech Company 220,Da Nang,21-45 millions,"kotlin, android",Senior,2025-06-26,33.0,3
+Mobile Developer,Tech Company 295,Ha Noi,16-31 millions,"swift, ios",Junior,2025-12-14,23.5,2
+Tester/QA,Tech Company 449,Ho Chi Minh,10-16 millions,"manual testing, sql",Fresher,2025-09-04,13.0,1
+Backend Developer,Tech Company 193,Ho Chi Minh,27-55 millions,"python, django",Senior,2024-01-08,41.0,3
+DevOps Engineer,Tech Company 300,Ha Noi,26-55 millions,"azure, ci/cd, terraform",Senior,2025-10-29,40.5,3
+Tester/QA,Tech Company 158,Ha Noi,15-30 millions,"manual testing, sql",Junior,2024-09-16,22.5,2
+Mobile Developer,Tech Company 229,Ha Noi,28-58 millions,react native,Senior,2024-08-23,43.0,3
+Frontend Developer,Tech Company 315,Da Nang,22-48 millions,"vuejs, nuxt",Senior,2025-07-17,35.0,3
+Fullstack Developer,Tech Company 422,Ha Noi,29-55 millions,"java, angular, sql",Senior,2024-04-03,42.0,3
+Mobile Developer,Tech Company 312,Da Nang,5-14 millions,"flutter, dart",Fresher,2024-03-22,9.5,1
+Mobile Developer,Tech Company 328,Ho Chi Minh,9-19 millions,"swift, ios",Fresher,2024-06-28,14.0,1
+AI/ML Engineer,Tech Company 358,Ho Chi Minh,14-30 millions,"python, tensorflow, cv",Junior,2025-06-12,22.0,2
+Backend Developer,Tech Company 45,Ho Chi Minh,15-27 millions,"go, microservices",Junior,2024-06-10,21.0,2
+DevOps Engineer,Tech Company 8,Ha Noi,65-112 millions,"linux, jenkins, ansible",Manager,2025-06-14,88.5,5
+Frontend Developer,Tech Company 179,Ho Chi Minh,28-57 millions,"angular, rxjs",Senior,2025-08-19,42.5,3
+Data Scientist,Tech Company 295,Ha Noi,18-29 millions,"python, pytorch, aws",Junior,2025-02-17,23.5,2
+Tester/QA,Tech Company 60,Ho Chi Minh,18-31 millions,"automation, cypress",Junior,2025-05-08,24.5,2
+Data Scientist,Tech Company 490,Ho Chi Minh,17-31 millions,"python, pytorch, aws",Junior,2025-02-26,24.0,2
+AI/ML Engineer,Tech Company 39,Ha Noi,15-29 millions,"python, tensorflow, cv",Junior,2024-12-16,22.0,2
+DevOps Engineer,Tech Company 485,Ho Chi Minh,26-57 millions,"azure, ci/cd, terraform",Senior,2024-07-06,41.5,3
+Data Scientist,Tech Company 447,Da Nang,23-46 millions,"sql, tableau, python",Senior,2024-09-04,34.5,3
+Data Scientist,Tech Company 472,Ho Chi Minh,15-31 millions,"python, pytorch, aws",Junior,2024-05-02,23.0,2
+Tester/QA,Tech Company 435,Remote,9-18 millions,"selenium, python",Fresher,2024-02-13,13.5,1
+Tester/QA,Tech Company 144,Ha Noi,16-32 millions,"java, appium",Junior,2025-06-07,24.0,2
+Fullstack Developer,Tech Company 17,Ha Noi,16-29 millions,"react, node.js, mongo",Junior,2025-07-07,22.5,2
+Fullstack Developer,Tech Company 162,Ho Chi Minh,29-58 millions,"java, angular, sql",Senior,2025-04-16,43.5,3
+Data Scientist,Tech Company 442,Ho Chi Minh,27-56 millions,"sql, tableau, python",Senior,2025-09-19,41.5,3
+Data Scientist,Tech Company 95,Ha Noi,16-30 millions,"sql, tableau, python",Junior,2025-01-09,23.0,2
+Fullstack Developer,Tech Company 69,Ho Chi Minh,45-77 millions,"java, angular, sql",Lead,2025-05-26,61.0,4
+DevOps Engineer,Tech Company 25,Ha Noi,65-112 millions,"azure, ci/cd, terraform",Manager,2025-08-04,88.5,5
+Backend Developer,Tech Company 50,Ha Noi,17-29 millions,"java, spring boot",Junior,2025-10-06,23.0,2
+DevOps Engineer,Tech Company 177,Ho Chi Minh,16-32 millions,"azure, ci/cd, terraform",Junior,2024-09-20,24.0,2
+Data Scientist,Tech Company 400,Ho Chi Minh,9-19 millions,"python, pytorch, aws",Fresher,2024-06-27,14.0,1
+Fullstack Developer,Tech Company 314,Ho Chi Minh,28-56 millions,"python, vuejs, docker",Senior,2025-10-08,42.0,3
+Frontend Developer,Tech Company 335,Ha Noi,26-56 millions,"reactjs, typescript",Senior,2024-11-20,41.0,3
+Mobile Developer,Tech Company 383,Ho Chi Minh,18-31 millions,"swift, ios",Junior,2025-01-06,24.5,2
+Mobile Developer,Tech Company 339,Remote,24-52 millions,react native,Senior,2024-08-28,38.0,3
+Frontend Developer,Tech Company 480,Ha Noi,15-28 millions,"vuejs, nuxt",Junior,2024-03-06,21.5,2
+Backend Developer,Tech Company 135,Ha Noi,44-81 millions,"node.js, express",Lead,2024-04-16,62.5,4
+Mobile Developer,Tech Company 321,Ho Chi Minh,26-58 millions,"swift, ios",Senior,2025-03-29,42.0,3
+Fullstack Developer,Tech Company 443,Ha Noi,6-18 millions,"react, node.js, mongo",Fresher,2024-11-29,12.0,1
+AI/ML Engineer,Tech Company 277,Remote,15-31 millions,"c++, cuda, computer vision",Junior,2025-12-15,23.0,2
+Mobile Developer,Tech Company 413,Ha Noi,18-29 millions,"swift, ios",Junior,2024-08-20,23.5,2
+AI/ML Engineer,Tech Company 485,Ho Chi Minh,27-58 millions,"python, nlp, huggingface",Senior,2025-05-18,42.5,3
+Mobile Developer,Tech Company 192,Ho Chi Minh,27-58 millions,"swift, ios",Senior,2025-07-15,42.5,3
+Mobile Developer,Tech Company 200,Da Nang,12-26 millions,"kotlin, android",Junior,2025-10-23,19.0,2
+Frontend Developer,Tech Company 414,Ho Chi Minh,28-57 millions,"html, css, js",Senior,2025-09-19,42.5,3
+AI/ML Engineer,Tech Company 149,Ho Chi Minh,26-55 millions,"python, nlp, huggingface",Senior,2024-05-19,40.5,3
+Tester/QA,Tech Company 10,Ha Noi,9-18 millions,"java, appium",Fresher,2024-11-24,13.5,1
+Backend Developer,Tech Company 367,Remote,17-27 millions,"java, spring boot",Junior,2024-05-08,22.0,2
+Frontend Developer,Tech Company 160,Ho Chi Minh,14-28 millions,"vuejs, nuxt",Junior,2025-03-06,21.0,2
+DevOps Engineer,Tech Company 432,Ha Noi,28-55 millions,"azure, ci/cd, terraform",Senior,2024-03-23,41.5,3
+AI/ML Engineer,Tech Company 459,Ho Chi Minh,25-57 millions,"python, nlp, huggingface",Senior,2024-07-15,41.0,3
+Backend Developer,Tech Company 395,Ha Noi,29-58 millions,"python, django",Senior,2025-01-29,43.5,3
+AI/ML Engineer,Tech Company 267,Ha Noi,64-113 millions,"python, nlp, huggingface",Manager,2025-07-16,88.5,5
+AI/ML Engineer,Tech Company 112,Ha Noi,8-16 millions,"python, tensorflow, cv",Fresher,2025-11-13,12.0,1
+Mobile Developer,Tech Company 62,Ho Chi Minh,64-113 millions,"swift, ios",Manager,2025-08-21,88.5,5
+Backend Developer,Tech Company 128,Ho Chi Minh,17-28 millions,"node.js, express",Junior,2024-04-01,22.5,2
+Tester/QA,Tech Company 388,Ho Chi Minh,26-57 millions,"manual testing, sql",Senior,2025-10-22,41.5,3
+Data Scientist,Tech Company 129,Da Nang,14-24 millions,"python, pandas, scikit-learn",Junior,2024-05-17,19.0,2
+Tester/QA,Tech Company 96,Ha Noi,44-79 millions,"java, appium",Lead,2025-08-03,61.5,4
+Tester/QA,Tech Company 83,Ho Chi Minh,28-57 millions,"java, appium",Senior,2025-07-21,42.5,3
+AI/ML Engineer,Tech Company 260,Ho Chi Minh,8-18 millions,"python, nlp, huggingface",Fresher,2025-10-15,13.0,1
+Backend Developer,Tech Company 338,Ho Chi Minh,17-28 millions,"go, microservices",Junior,2024-03-05,22.5,2
+Data Scientist,Tech Company 314,Ha Noi,66-113 millions,"python, pytorch, aws",Manager,2024-06-06,89.5,5
+DevOps Engineer,Tech Company 428,Ho Chi Minh,14-30 millions,"aws, docker, k8s",Junior,2024-02-14,22.0,2
+Backend Developer,Tech Company 293,Ho Chi Minh,42-77 millions,"java, spring boot",Lead,2024-02-02,59.5,4
+Tester/QA,Tech Company 7,Ho Chi Minh,25-56 millions,"java, appium",Senior,2024-03-13,40.5,3
+Tester/QA,Tech Company 286,Ho Chi Minh,43-80 millions,"selenium, python",Lead,2025-01-04,61.5,4
+DevOps Engineer,Tech Company 21,Da Nang,20-48 millions,"linux, jenkins, ansible",Senior,2025-06-25,34.0,3
+Frontend Developer,Tech Company 273,Ha Noi,29-55 millions,"vuejs, nuxt",Senior,2024-08-24,42.0,3
+Data Scientist,Tech Company 213,Ho Chi Minh,17-28 millions,"python, pytorch, aws",Junior,2025-07-25,22.5,2
+DevOps Engineer,Tech Company 86,Ha Noi,27-58 millions,"linux, jenkins, ansible",Senior,2024-04-16,42.5,3
+DevOps Engineer,Tech Company 478,Ha Noi,26-59 millions,"linux, jenkins, ansible",Senior,2025-03-29,42.5,3
+DevOps Engineer,Tech Company 312,Ho Chi Minh,16-30 millions,"azure, ci/cd, terraform",Junior,2024-11-27,23.0,2
+Backend Developer,Tech Company 114,Remote,28-54 millions,"java, spring boot",Senior,2024-11-03,41.0,3
+AI/ML Engineer,Tech Company 80,Ho Chi Minh,16-30 millions,"c++, cuda, computer vision",Junior,2025-08-08,23.0,2
+Fullstack Developer,Tech Company 120,Ha Noi,7-20 millions,"react, node.js, mongo",Fresher,2024-09-12,13.5,1
+Mobile Developer,Tech Company 89,Ho Chi Minh,17-31 millions,react native,Junior,2025-05-09,24.0,2
+Frontend Developer,Tech Company 41,Da Nang,11-26 millions,"angular, rxjs",Junior,2025-01-25,18.5,2
+Backend Developer,Tech Company 277,Ha Noi,25-57 millions,"node.js, express",Senior,2024-11-22,41.0,3
+Data Scientist,Tech Company 498,Ho Chi Minh,25-58 millions,"python, pandas, scikit-learn",Senior,2025-02-06,41.5,3
+Frontend Developer,Tech Company 68,Ha Noi,16-31 millions,"vuejs, nuxt",Junior,2024-05-31,23.5,2
+Backend Developer,Tech Company 397,Ha Noi,15-29 millions,"node.js, express",Junior,2025-03-20,22.0,2
+Tester/QA,Tech Company 288,Ha Noi,27-58 millions,"manual testing, sql",Senior,2024-07-19,42.5,3
+Data Scientist,Tech Company 351,Ha Noi,25-58 millions,"python, pandas, scikit-learn",Senior,2024-11-27,41.5,3
+Mobile Developer,Tech Company 305,Ho Chi Minh,43-77 millions,"kotlin, android",Lead,2024-12-18,60.0,4
+Fullstack Developer,Tech Company 320,Ha Noi,27-59 millions,"java, angular, sql",Senior,2025-03-28,43.0,3
+Data Scientist,Tech Company 58,Ho Chi Minh,9-17 millions,"python, pandas, scikit-learn",Fresher,2024-03-28,13.0,1
+Fullstack Developer,Tech Company 157,Ho Chi Minh,25-58 millions,"java, angular, sql",Senior,2024-04-23,41.5,3
+Data Scientist,Tech Company 385,Ho Chi Minh,16-28 millions,"python, pytorch, aws",Junior,2025-06-19,22.0,2
+Fullstack Developer,Tech Company 464,Ha Noi,17-27 millions,"python, vuejs, docker",Junior,2025-08-19,22.0,2
+Fullstack Developer,Tech Company 139,Ho Chi Minh,26-58 millions,"react, node.js, mongo",Senior,2025-09-24,42.0,3
+Backend Developer,Tech Company 185,Ha Noi,8-17 millions,"python, django",Fresher,2025-11-06,12.5,1
+Mobile Developer,Tech Company 51,Ho Chi Minh,45-79 millions,react native,Lead,2025-12-27,62.0,4
+Frontend Developer,Tech Company 475,Ha Noi,42-81 millions,"vuejs, nuxt",Lead,2025-07-28,61.5,4
+AI/ML Engineer,Tech Company 416,Ho Chi Minh,29-59 millions,"python, tensorflow, cv",Senior,2024-10-09,44.0,3
+Mobile Developer,Tech Company 78,Ho Chi Minh,10-21 millions,"flutter, dart",Fresher,2024-08-18,15.5,1
+Fullstack Developer,Tech Company 314,Ho Chi Minh,17-30 millions,"react, node.js, mongo",Junior,2025-11-25,23.5,2
+Fullstack Developer,Tech Company 410,Ho Chi Minh,28-57 millions,"react, node.js, mongo",Senior,2025-12-01,42.5,3
+Fullstack Developer,Tech Company 336,Ho Chi Minh,18-32 millions,"java, angular, sql",Junior,2024-05-28,25.0,2
+DevOps Engineer,Tech Company 95,Da Nang,36-67 millions,"aws, docker, k8s",Lead,2024-05-01,51.5,4
+Backend Developer,Tech Company 156,Da Nang,15-24 millions,"go, microservices",Junior,2025-02-25,19.5,2
+AI/ML Engineer,Tech Company 14,Da Nang,14-23 millions,"python, tensorflow, cv",Junior,2024-07-08,18.5,2
+AI/ML Engineer,Tech Company 119,Ha Noi,27-56 millions,"c++, cuda, computer vision",Senior,2024-08-25,41.5,3
+Tester/QA,Tech Company 333,Ho Chi Minh,27-58 millions,"manual testing, sql",Senior,2025-12-30,42.5,3
+Tester/QA,Tech Company 210,Da Nang,12-23 millions,"automation, cypress",Junior,2024-02-03,17.5,2
+AI/ML Engineer,Tech Company 388,Ho Chi Minh,26-58 millions,"python, nlp, huggingface",Senior,2024-07-26,42.0,3
+Tester/QA,Tech Company 219,Ho Chi Minh,17-31 millions,"automation, cypress",Junior,2024-09-09,24.0,2
+Mobile Developer,Tech Company 305,Ho Chi Minh,16-32 millions,"swift, ios",Junior,2025-08-08,24.0,2
+Backend Developer,Tech Company 450,Ha Noi,27-59 millions,"python, django",Senior,2024-02-13,43.0,3
+Mobile Developer,Tech Company 493,Ha Noi,66-112 millions,"flutter, dart",Manager,2025-10-07,89.0,5
+Mobile Developer,Tech Company 217,Ho Chi Minh,9-17 millions,"swift, ios",Fresher,2024-06-19,13.0,1
+Fullstack Developer,Tech Company 58,Da Nang,14-24 millions,"java, angular, sql",Junior,2025-05-27,19.0,2
+Fullstack Developer,Tech Company 233,Ha Noi,16-29 millions,"java, angular, sql",Junior,2024-07-02,22.5,2
+Data Scientist,Tech Company 465,Ha Noi,25-56 millions,"sql, tableau, python",Senior,2025-10-26,40.5,3
+Frontend Developer,Tech Company 44,Ho Chi Minh,25-57 millions,"reactjs, typescript",Senior,2025-01-06,41.0,3
+Fullstack Developer,Tech Company 468,Ho Chi Minh,27-55 millions,"java, angular, sql",Senior,2024-06-23,41.0,3
+Fullstack Developer,Tech Company 27,Da Nang,14-23 millions,"react, node.js, mongo",Junior,2025-12-30,18.5,2
+Tester/QA,Tech Company 492,Ho Chi Minh,17-28 millions,"java, appium",Junior,2024-05-14,22.5,2
+AI/ML Engineer,Tech Company 414,Ha Noi,16-31 millions,"python, tensorflow, cv",Junior,2025-07-10,23.5,2
+Data Scientist,Tech Company 227,Da Nang,7-15 millions,"python, pandas, scikit-learn",Fresher,2025-02-23,11.0,1
+Data Scientist,Tech Company 26,Ha Noi,7-19 millions,"python, pytorch, aws",Fresher,2024-07-31,13.0,1
+DevOps Engineer,Tech Company 430,Ho Chi Minh,15-27 millions,"aws, docker, k8s",Junior,2025-08-14,21.0,2
+Frontend Developer,Tech Company 345,Ho Chi Minh,25-59 millions,"reactjs, typescript",Senior,2024-06-14,42.0,3
+Fullstack Developer,Tech Company 48,Ha Noi,17-29 millions,"java, angular, sql",Junior,2024-02-06,23.0,2
+Mobile Developer,Tech Company 150,Ho Chi Minh,28-59 millions,"flutter, dart",Senior,2024-03-07,43.5,3
+AI/ML Engineer,Tech Company 108,Ho Chi Minh,16-30 millions,"python, nlp, huggingface",Junior,2025-12-13,23.0,2
+Frontend Developer,Tech Company 148,Ho Chi Minh,28-58 millions,"html, css, js",Senior,2025-12-24,43.0,3
+AI/ML Engineer,Tech Company 315,Ha Noi,16-30 millions,"c++, cuda, computer vision",Junior,2024-05-12,23.0,2
+Tester/QA,Tech Company 363,Ha Noi,28-59 millions,"automation, cypress",Senior,2024-08-26,43.5,3
+Frontend Developer,Tech Company 410,Ho Chi Minh,16-31 millions,"reactjs, typescript",Junior,2024-07-31,23.5,2
+Backend Developer,Tech Company 6,Ho Chi Minh,26-59 millions,"go, microservices",Senior,2024-08-05,42.5,3
+AI/ML Engineer,Tech Company 393,Ha Noi,26-57 millions,"python, tensorflow, cv",Senior,2024-11-27,41.5,3
+DevOps Engineer,Tech Company 427,Ha Noi,9-19 millions,"azure, ci/cd, terraform",Fresher,2024-01-30,14.0,1
+DevOps Engineer,Tech Company 331,Ho Chi Minh,16-29 millions,"linux, jenkins, ansible",Junior,2024-02-06,22.5,2
+Tester/QA,Tech Company 428,Ho Chi Minh,8-20 millions,"java, appium",Fresher,2024-02-27,14.0,1
+DevOps Engineer,Tech Company 170,Ha Noi,27-56 millions,"linux, jenkins, ansible",Senior,2025-12-02,41.5,3
+DevOps Engineer,Tech Company 174,Da Nang,24-46 millions,"aws, docker, k8s",Senior,2024-02-01,35.0,3
+Fullstack Developer,Tech Company 443,Ha Noi,66-110 millions,"python, vuejs, docker",Manager,2024-04-29,88.0,5
+DevOps Engineer,Tech Company 450,Ho Chi Minh,25-57 millions,"linux, jenkins, ansible",Senior,2025-05-23,41.0,3
+AI/ML Engineer,Tech Company 402,Ha Noi,16-28 millions,"python, tensorflow, cv",Junior,2025-01-18,22.0,2
+Frontend Developer,Tech Company 79,Ho Chi Minh,8-20 millions,"html, css, js",Fresher,2025-05-27,14.0,1
+AI/ML Engineer,Tech Company 347,Da Nang,12-26 millions,"python, nlp, huggingface",Junior,2025-06-12,19.0,2
+Backend Developer,Tech Company 3,Ho Chi Minh,65-114 millions,"node.js, express",Manager,2024-04-28,89.5,5
+Frontend Developer,Tech Company 393,Ho Chi Minh,16-27 millions,"angular, rxjs",Junior,2025-06-17,21.5,2
+AI/ML Engineer,Tech Company 147,Ho Chi Minh,29-56 millions,"c++, cuda, computer vision",Senior,2024-07-16,42.5,3
+Tester/QA,Tech Company 8,Ho Chi Minh,15-28 millions,"selenium, python",Junior,2024-04-27,21.5,2
+Frontend Developer,Tech Company 73,Ha Noi,66-112 millions,"vuejs, nuxt",Manager,2024-10-04,89.0,5
+Data Scientist,Tech Company 277,Ha Noi,42-80 millions,"python, pandas, scikit-learn",Lead,2024-12-12,61.0,4
+Tester/QA,Tech Company 201,Ho Chi Minh,14-27 millions,"selenium, python",Junior,2025-03-12,20.5,2
+Tester/QA,Tech Company 389,Ha Noi,15-31 millions,"java, appium",Junior,2025-12-31,23.0,2
+Tester/QA,Tech Company 240,Ha Noi,25-59 millions,"manual testing, sql",Senior,2025-12-16,42.0,3
+Tester/QA,Tech Company 133,Ho Chi Minh,7-17 millions,"automation, cypress",Fresher,2025-09-23,12.0,1
+DevOps Engineer,Tech Company 58,Ho Chi Minh,43-77 millions,"azure, ci/cd, terraform",Lead,2025-05-01,60.0,4
+Fullstack Developer,Tech Company 261,Ha Noi,17-30 millions,"java, angular, sql",Junior,2024-05-10,23.5,2
+Frontend Developer,Tech Company 273,Ha Noi,9-16 millions,"angular, rxjs",Fresher,2024-11-05,12.5,1
+Data Scientist,Tech Company 197,Ha Noi,15-28 millions,"python, pytorch, aws",Junior,2025-05-08,21.5,2
+Mobile Developer,Tech Company 121,Ho Chi Minh,9-18 millions,"kotlin, android",Fresher,2025-12-11,13.5,1
+Tester/QA,Tech Company 50,Ha Noi,16-29 millions,"selenium, python",Junior,2025-07-22,22.5,2
+Mobile Developer,Tech Company 395,Ho Chi Minh,27-58 millions,"flutter, dart",Senior,2025-09-02,42.5,3
+Backend Developer,Tech Company 463,Ho Chi Minh,26-55 millions,"python, django",Senior,2025-08-17,40.5,3
+Fullstack Developer,Tech Company 316,Ha Noi,26-57 millions,"python, vuejs, docker",Senior,2025-02-03,41.5,3
+DevOps Engineer,Tech Company 471,Ho Chi Minh,27-59 millions,"azure, ci/cd, terraform",Senior,2024-11-07,43.0,3
+DevOps Engineer,Tech Company 207,Ho Chi Minh,44-80 millions,"aws, docker, k8s",Lead,2025-06-06,62.0,4
+Backend Developer,Tech Company 361,Da Nang,24-49 millions,"go, microservices",Senior,2024-01-01,36.5,3
+Mobile Developer,Tech Company 89,Ho Chi Minh,16-30 millions,"kotlin, android",Junior,2025-11-09,23.0,2
+Mobile Developer,Tech Company 65,Ho Chi Minh,17-28 millions,"swift, ios",Junior,2025-11-17,22.5,2
+Backend Developer,Tech Company 500,Ho Chi Minh,9-18 millions,"java, spring boot",Fresher,2025-03-23,13.5,1
+Mobile Developer,Tech Company 320,Ho Chi Minh,67-113 millions,"kotlin, android",Manager,2025-03-11,90.0,5
+Data Scientist,Tech Company 296,Ha Noi,27-57 millions,"python, pytorch, aws",Senior,2025-07-13,42.0,3
+Tester/QA,Tech Company 41,Remote,14-28 millions,"java, appium",Junior,2025-12-08,21.0,2
+Tester/QA,Tech Company 149,Ha Noi,8-21 millions,"java, appium",Fresher,2024-10-28,14.5,1
+AI/ML Engineer,Tech Company 243,Ha Noi,17-28 millions,"c++, cuda, computer vision",Junior,2025-10-06,22.5,2
+AI/ML Engineer,Tech Company 65,Ha Noi,27-56 millions,"c++, cuda, computer vision",Senior,2024-03-25,41.5,3
+AI/ML Engineer,Tech Company 8,Da Nang,21-46 millions,"python, nlp, huggingface",Senior,2024-09-20,33.5,3
+Fullstack Developer,Tech Company 401,Ha Noi,27-59 millions,"python, vuejs, docker",Senior,2024-09-24,43.0,3
+Backend Developer,Tech Company 479,Ha Noi,29-59 millions,"go, microservices",Senior,2025-09-01,44.0,3
+Mobile Developer,Tech Company 86,Ha Noi,26-57 millions,"kotlin, android",Senior,2025-10-14,41.5,3
+DevOps Engineer,Tech Company 27,Ha Noi,17-31 millions,"aws, docker, k8s",Junior,2024-04-28,24.0,2
+AI/ML Engineer,Tech Company 120,Ho Chi Minh,17-31 millions,"python, nlp, huggingface",Junior,2025-06-29,24.0,2
+Tester/QA,Tech Company 148,Ha Noi,15-31 millions,"java, appium",Junior,2024-01-13,23.0,2
+DevOps Engineer,Tech Company 327,Ho Chi Minh,44-77 millions,"linux, jenkins, ansible",Lead,2025-06-28,60.5,4
+AI/ML Engineer,Tech Company 336,Ha Noi,15-31 millions,"python, nlp, huggingface",Junior,2024-09-18,23.0,2
+Data Scientist,Tech Company 173,Ha Noi,28-58 millions,"python, pytorch, aws",Senior,2025-06-16,43.0,3
+DevOps Engineer,Tech Company 7,Can Tho,20-45 millions,"linux, jenkins, ansible",Senior,2024-03-10,32.5,3
+Tester/QA,Tech Company 18,Ha Noi,15-28 millions,"java, appium",Junior,2024-07-16,21.5,2
+Data Scientist,Tech Company 45,Ho Chi Minh,9-20 millions,"python, pytorch, aws",Fresher,2024-05-02,14.5,1
+Fullstack Developer,Tech Company 339,Ho Chi Minh,44-78 millions,"react, node.js, mongo",Lead,2025-04-23,61.0,4
+AI/ML Engineer,Tech Company 132,Ha Noi,44-80 millions,"python, nlp, huggingface",Lead,2024-11-27,62.0,4
+Backend Developer,Tech Company 490,Ho Chi Minh,16-32 millions,"node.js, express",Junior,2024-09-21,24.0,2
+Frontend Developer,Tech Company 92,Ho Chi Minh,29-56 millions,"html, css, js",Senior,2025-02-06,42.5,3
+Mobile Developer,Tech Company 367,Ho Chi Minh,27-55 millions,react native,Senior,2025-03-28,41.0,3
+Frontend Developer,Tech Company 77,Ho Chi Minh,17-27 millions,"angular, rxjs",Junior,2025-05-24,22.0,2
+Backend Developer,Tech Company 295,Ho Chi Minh,26-58 millions,"node.js, express",Senior,2025-02-04,42.0,3
+Tester/QA,Tech Company 277,Ha Noi,8-20 millions,"automation, cypress",Fresher,2024-03-12,14.0,1
+Tester/QA,Tech Company 171,Ho Chi Minh,16-32 millions,"selenium, python",Junior,2025-01-02,24.0,2
+Frontend Developer,Tech Company 431,Ho Chi Minh,27-59 millions,"angular, rxjs",Senior,2024-03-23,43.0,3
+Data Scientist,Tech Company 98,Ha Noi,16-32 millions,"python, pandas, scikit-learn",Junior,2025-11-07,24.0,2
+Frontend Developer,Tech Company 377,Ho Chi Minh,16-31 millions,"angular, rxjs",Junior,2025-03-24,23.5,2
+Backend Developer,Tech Company 330,Ho Chi Minh,16-27 millions,"java, spring boot",Junior,2025-07-07,21.5,2
+Tester/QA,Tech Company 208,Ha Noi,14-27 millions,"selenium, python",Junior,2024-02-13,20.5,2
+Tester/QA,Tech Company 19,Ha Noi,9-17 millions,"manual testing, sql",Fresher,2024-03-14,13.0,1
+Backend Developer,Tech Company 88,Ho Chi Minh,28-55 millions,"go, microservices",Senior,2025-09-17,41.5,3
+Frontend Developer,Tech Company 33,Ho Chi Minh,27-58 millions,"reactjs, typescript",Senior,2024-08-13,42.5,3
+Mobile Developer,Tech Company 71,Ho Chi Minh,25-58 millions,"swift, ios",Senior,2025-07-12,41.5,3
+Data Scientist,Tech Company 141,Remote,16-27 millions,"python, pandas, scikit-learn",Junior,2024-05-03,21.5,2
+AI/ML Engineer,Tech Company 355,Ho Chi Minh,17-31 millions,"python, nlp, huggingface",Junior,2025-05-02,24.0,2
+AI/ML Engineer,Tech Company 313,Ho Chi Minh,8-17 millions,"c++, cuda, computer vision",Fresher,2024-06-27,12.5,1
+Tester/QA,Tech Company 215,Ha Noi,28-58 millions,"selenium, python",Senior,2024-12-22,43.0,3
+Frontend Developer,Tech Company 260,Ho Chi Minh,9-20 millions,"reactjs, typescript",Fresher,2025-07-06,14.5,1
+Data Scientist,Tech Company 351,Ha Noi,14-28 millions,"sql, tableau, python",Junior,2024-06-01,21.0,2
+Tester/QA,Tech Company 331,Da Nang,21-49 millions,"manual testing, sql",Senior,2024-02-25,35.0,3
+AI/ML Engineer,Tech Company 23,Ho Chi Minh,16-31 millions,"python, nlp, huggingface",Junior,2025-04-09,23.5,2
+Fullstack Developer,Tech Company 37,Ho Chi Minh,9-18 millions,"react, node.js, mongo",Fresher,2024-04-28,13.5,1
+DevOps Engineer,Tech Company 118,Ha Noi,42-80 millions,"azure, ci/cd, terraform",Lead,2024-11-29,61.0,4
+Frontend Developer,Tech Company 457,Ho Chi Minh,28-59 millions,"vuejs, nuxt",Senior,2025-01-19,43.5,3
+Tester/QA,Tech Company 233,Ha Noi,18-28 millions,"selenium, python",Junior,2025-09-16,23.0,2
+Tester/QA,Tech Company 172,Ho Chi Minh,17-32 millions,"manual testing, sql",Junior,2024-07-26,24.5,2
+Data Scientist,Tech Company 303,Remote,15-28 millions,"python, pandas, scikit-learn",Junior,2024-08-09,21.5,2
+Backend Developer,Tech Company 223,Ha Noi,17-28 millions,"node.js, express",Junior,2024-12-01,22.5,2
+Fullstack Developer,Tech Company 21,Da Nang,24-47 millions,"python, vuejs, docker",Senior,2024-02-15,35.5,3
+Backend Developer,Tech Company 421,Ha Noi,66-112 millions,"node.js, express",Manager,2025-12-14,89.0,5
+Frontend Developer,Tech Company 236,Ho Chi Minh,16-29 millions,"reactjs, typescript",Junior,2025-12-21,22.5,2
+Backend Developer,Tech Company 208,Ha Noi,43-77 millions,"node.js, express",Lead,2025-12-21,60.0,4
+Tester/QA,Tech Company 171,Da Nang,14-22 millions,"selenium, python",Junior,2025-12-08,18.0,2
+AI/ML Engineer,Tech Company 404,Ho Chi Minh,29-57 millions,"c++, cuda, computer vision",Senior,2024-07-31,43.0,3
+DevOps Engineer,Tech Company 187,Ha Noi,29-57 millions,"linux, jenkins, ansible",Senior,2025-11-21,43.0,3
+DevOps Engineer,Tech Company 332,Ho Chi Minh,44-78 millions,"azure, ci/cd, terraform",Lead,2024-06-28,61.0,4
+Data Scientist,Tech Company 333,Ho Chi Minh,29-56 millions,"python, pandas, scikit-learn",Senior,2024-04-26,42.5,3
+Data Scientist,Tech Company 258,Da Nang,14-24 millions,"python, pytorch, aws",Junior,2024-09-30,19.0,2
+Frontend Developer,Tech Company 425,Ho Chi Minh,26-57 millions,"angular, rxjs",Senior,2025-06-23,41.5,3
+AI/ML Engineer,Tech Company 415,Ha Noi,9-20 millions,"python, nlp, huggingface",Fresher,2025-12-10,14.5,1
+Data Scientist,Tech Company 148,Da Nang,52-91 millions,"sql, tableau, python",Manager,2024-07-02,71.5,5
+Backend Developer,Tech Company 243,Remote,15-29 millions,"go, microservices",Junior,2024-05-15,22.0,2
+Backend Developer,Tech Company 428,Ho Chi Minh,15-27 millions,"go, microservices",Junior,2024-08-25,21.0,2
+Mobile Developer,Tech Company 304,Ha Noi,44-80 millions,"swift, ios",Lead,2025-05-12,62.0,4
+Tester/QA,Tech Company 88,Ha Noi,26-55 millions,"automation, cypress",Senior,2024-11-09,40.5,3
+DevOps Engineer,Tech Company 146,Ho Chi Minh,28-55 millions,"azure, ci/cd, terraform",Senior,2024-12-27,41.5,3
+Fullstack Developer,Tech Company 430,Ho Chi Minh,16-28 millions,"python, vuejs, docker",Junior,2024-06-28,22.0,2
+Fullstack Developer,Tech Company 295,Da Nang,21-45 millions,"react, node.js, mongo",Senior,2024-11-20,33.0,3
+Fullstack Developer,Tech Company 177,Ho Chi Minh,9-16 millions,"react, node.js, mongo",Fresher,2024-11-20,12.5,1
+Fullstack Developer,Tech Company 477,Ho Chi Minh,8-21 millions,"python, vuejs, docker",Fresher,2025-02-18,14.5,1
+Tester/QA,Tech Company 500,Ho Chi Minh,15-32 millions,"java, appium",Junior,2025-07-13,23.5,2
+AI/ML Engineer,Tech Company 342,Ha Noi,29-59 millions,"python, nlp, huggingface",Senior,2025-08-10,44.0,3
+Tester/QA,Tech Company 72,Ha Noi,9-20 millions,"java, appium",Fresher,2024-02-11,14.5,1
+Backend Developer,Tech Company 48,Ho Chi Minh,27-56 millions,"node.js, express",Senior,2024-12-31,41.5,3
+Data Scientist,Tech Company 101,Ha Noi,16-31 millions,"python, pytorch, aws",Junior,2024-10-11,23.5,2
+Tester/QA,Tech Company 163,Ha Noi,10-18 millions,"selenium, python",Fresher,2025-05-17,14.0,1
+Backend Developer,Tech Company 190,Ha Noi,27-58 millions,"go, microservices",Senior,2025-03-13,42.5,3
+DevOps Engineer,Tech Company 45,Ho Chi Minh,15-29 millions,"azure, ci/cd, terraform",Junior,2025-07-28,22.0,2
+Frontend Developer,Tech Company 172,Ho Chi Minh,42-79 millions,"vuejs, nuxt",Lead,2025-06-21,60.5,4
+Mobile Developer,Tech Company 213,Remote,6-18 millions,"flutter, dart",Fresher,2024-10-06,12.0,1
+Fullstack Developer,Tech Company 252,Ha Noi,15-29 millions,"react, node.js, mongo",Junior,2025-07-21,22.0,2
+Tester/QA,Tech Company 92,Ho Chi Minh,9-20 millions,"selenium, python",Fresher,2025-03-03,14.5,1
+Data Scientist,Tech Company 307,Ha Noi,14-28 millions,"python, pandas, scikit-learn",Junior,2024-03-09,21.0,2
+Mobile Developer,Tech Company 419,Ha Noi,28-57 millions,"swift, ios",Senior,2025-12-11,42.5,3
+Backend Developer,Tech Company 237,Ha Noi,7-16 millions,"go, microservices",Fresher,2024-11-23,11.5,1
+Fullstack Developer,Tech Company 25,Ho Chi Minh,43-79 millions,"react, node.js, mongo",Lead,2024-12-30,61.0,4
+Frontend Developer,Tech Company 307,Ha Noi,17-28 millions,"vuejs, nuxt",Junior,2024-04-06,22.5,2
+DevOps Engineer,Tech Company 353,Ha Noi,28-56 millions,"linux, jenkins, ansible",Senior,2025-12-15,42.0,3
+Fullstack Developer,Tech Company 408,Ho Chi Minh,15-30 millions,"react, node.js, mongo",Junior,2024-07-11,22.5,2
+Frontend Developer,Tech Company 473,Ha Noi,43-77 millions,"html, css, js",Lead,2024-05-14,60.0,4
+AI/ML Engineer,Tech Company 439,Ho Chi Minh,28-55 millions,"python, tensorflow, cv",Senior,2024-05-11,41.5,3
+AI/ML Engineer,Tech Company 354,Ha Noi,26-59 millions,"python, tensorflow, cv",Senior,2025-03-11,42.5,3
+Backend Developer,Tech Company 17,Ho Chi Minh,28-55 millions,"node.js, express",Senior,2024-04-20,41.5,3
+Backend Developer,Tech Company 155,Ha Noi,25-56 millions,"node.js, express",Senior,2024-03-08,40.5,3
+Frontend Developer,Tech Company 180,Ha Noi,27-56 millions,"vuejs, nuxt",Senior,2025-11-17,41.5,3
+Frontend Developer,Tech Company 112,Ho Chi Minh,28-58 millions,"reactjs, typescript",Senior,2025-06-25,43.0,3
+Fullstack Developer,Tech Company 472,Remote,24-56 millions,"python, vuejs, docker",Senior,2024-08-07,40.0,3
+DevOps Engineer,Tech Company 93,Ha Noi,27-57 millions,"linux, jenkins, ansible",Senior,2024-04-19,42.0,3
+Mobile Developer,Tech Company 64,Remote,26-54 millions,react native,Senior,2024-11-17,40.0,3
+Tester/QA,Tech Company 43,Ha Noi,17-30 millions,"java, appium",Junior,2024-02-11,23.5,2
+AI/ML Engineer,Tech Company 116,Ho Chi Minh,16-29 millions,"python, nlp, huggingface",Junior,2025-03-30,22.5,2
+Mobile Developer,Tech Company 481,Ho Chi Minh,28-59 millions,react native,Senior,2025-05-02,43.5,3
+Frontend Developer,Tech Company 103,Ho Chi Minh,7-21 millions,"vuejs, nuxt",Fresher,2024-12-12,14.0,1
+Frontend Developer,Tech Company 392,Can Tho,23-48 millions,"vuejs, nuxt",Senior,2024-10-12,35.5,3
+AI/ML Engineer,Tech Company 309,Ha Noi,29-56 millions,"c++, cuda, computer vision",Senior,2025-11-13,42.5,3
+AI/ML Engineer,Tech Company 251,Remote,64-105 millions,"python, tensorflow, cv",Manager,2024-09-13,84.5,5
+Fullstack Developer,Tech Company 256,Ha Noi,14-27 millions,"react, node.js, mongo",Junior,2024-03-10,20.5,2
+Mobile Developer,Tech Company 390,Remote,24-55 millions,"swift, ios",Senior,2024-04-08,39.5,3
+Tester/QA,Tech Company 259,Ha Noi,7-19 millions,"automation, cypress",Fresher,2025-05-17,13.0,1
+Backend Developer,Tech Company 197,Ho Chi Minh,18-31 millions,"python, django",Junior,2024-05-01,24.5,2
+Tester/QA,Tech Company 441,Da Nang,11-23 millions,"automation, cypress",Junior,2025-11-06,17.0,2
+Fullstack Developer,Tech Company 250,Da Nang,22-46 millions,"java, angular, sql",Senior,2025-02-02,34.0,3
+Tester/QA,Tech Company 29,Ha Noi,27-59 millions,"automation, cypress",Senior,2025-06-02,43.0,3
+Mobile Developer,Tech Company 15,Ha Noi,17-28 millions,"swift, ios",Junior,2024-03-03,22.5,2
+DevOps Engineer,Tech Company 175,Ho Chi Minh,28-57 millions,"azure, ci/cd, terraform",Senior,2025-10-02,42.5,3
+DevOps Engineer,Tech Company 121,Ho Chi Minh,15-30 millions,"azure, ci/cd, terraform",Junior,2024-09-10,22.5,2
+Frontend Developer,Tech Company 167,Ha Noi,25-55 millions,"angular, rxjs",Senior,2025-07-05,40.0,3
+Mobile Developer,Tech Company 12,Ha Noi,7-19 millions,"kotlin, android",Fresher,2025-08-25,13.0,1
+Mobile Developer,Tech Company 354,Ho Chi Minh,66-114 millions,"swift, ios",Manager,2024-04-12,90.0,5
+Frontend Developer,Tech Company 206,Ha Noi,15-27 millions,"vuejs, nuxt",Junior,2025-08-10,21.0,2
+Frontend Developer,Tech Company 411,Ha Noi,27-56 millions,"reactjs, typescript",Senior,2025-08-03,41.5,3
+Mobile Developer,Tech Company 391,Ho Chi Minh,26-57 millions,"kotlin, android",Senior,2025-11-18,41.5,3
+Fullstack Developer,Tech Company 138,Da Nang,22-48 millions,"python, vuejs, docker",Senior,2025-04-23,35.0,3
+Mobile Developer,Tech Company 124,Ha Noi,44-78 millions,"flutter, dart",Lead,2024-05-31,61.0,4
+AI/ML Engineer,Tech Company 325,Ha Noi,16-31 millions,"python, nlp, huggingface",Junior,2024-03-06,23.5,2
+AI/ML Engineer,Tech Company 208,Ho Chi Minh,15-30 millions,"c++, cuda, computer vision",Junior,2024-08-29,22.5,2
+Backend Developer,Tech Company 287,Ho Chi Minh,17-29 millions,"java, spring boot",Junior,2025-05-12,23.0,2
+Backend Developer,Tech Company 405,Ho Chi Minh,64-110 millions,"java, spring boot",Manager,2024-09-21,87.0,5
+Fullstack Developer,Tech Company 401,Ha Noi,28-59 millions,"python, vuejs, docker",Senior,2025-05-12,43.5,3
+Frontend Developer,Tech Company 460,Da Nang,7-17 millions,"angular, rxjs",Fresher,2025-02-20,12.0,1
+Frontend Developer,Tech Company 121,Ha Noi,18-31 millions,"html, css, js",Junior,2024-05-23,24.5,2
+Frontend Developer,Tech Company 63,Ha Noi,8-16 millions,"angular, rxjs",Fresher,2025-09-06,12.0,1
+Mobile Developer,Tech Company 90,Ho Chi Minh,29-56 millions,react native,Senior,2024-04-19,42.5,3
+Mobile Developer,Tech Company 186,Ho Chi Minh,28-59 millions,"kotlin, android",Senior,2024-05-28,43.5,3
+Backend Developer,Tech Company 491,Ha Noi,26-56 millions,"java, spring boot",Senior,2025-10-16,41.0,3
+Frontend Developer,Tech Company 469,Ho Chi Minh,65-114 millions,"vuejs, nuxt",Manager,2024-06-13,89.5,5
+Mobile Developer,Tech Company 242,Ho Chi Minh,15-27 millions,"flutter, dart",Junior,2025-05-18,21.0,2
+DevOps Engineer,Tech Company 423,Da Nang,22-49 millions,"linux, jenkins, ansible",Senior,2024-04-12,35.5,3
+Frontend Developer,Tech Company 378,Ho Chi Minh,16-31 millions,"angular, rxjs",Junior,2025-07-14,23.5,2
+Backend Developer,Tech Company 2,Ha Noi,17-31 millions,"java, spring boot",Junior,2024-05-19,24.0,2
+DevOps Engineer,Tech Company 366,Ha Noi,14-28 millions,"linux, jenkins, ansible",Junior,2025-06-12,21.0,2
+Fullstack Developer,Tech Company 232,Ha Noi,66-113 millions,"python, vuejs, docker",Manager,2024-11-23,89.5,5
+AI/ML Engineer,Tech Company 102,Ha Noi,17-31 millions,"python, tensorflow, cv",Junior,2024-10-15,24.0,2
+Mobile Developer,Tech Company 11,Ho Chi Minh,10-20 millions,"kotlin, android",Fresher,2024-08-17,15.0,1
+Data Scientist,Tech Company 437,Da Nang,37-63 millions,"python, pandas, scikit-learn",Lead,2025-12-19,50.0,4
+Mobile Developer,Tech Company 485,Ho Chi Minh,15-32 millions,"swift, ios",Junior,2024-06-23,23.5,2
+Mobile Developer,Tech Company 366,Ho Chi Minh,28-57 millions,"kotlin, android",Senior,2024-08-17,42.5,3
+AI/ML Engineer,Tech Company 439,Da Nang,14-24 millions,"python, nlp, huggingface",Junior,2025-03-17,19.0,2
+AI/ML Engineer,Tech Company 406,Ho Chi Minh,17-29 millions,"c++, cuda, computer vision",Junior,2025-02-22,23.0,2
+Backend Developer,Tech Company 204,Ha Noi,26-56 millions,"node.js, express",Senior,2025-12-10,41.0,3
+Mobile Developer,Tech Company 171,Ha Noi,25-57 millions,"swift, ios",Senior,2024-02-23,41.0,3
+DevOps Engineer,Tech Company 364,Ha Noi,45-81 millions,"linux, jenkins, ansible",Lead,2025-09-04,63.0,4
+AI/ML Engineer,Tech Company 344,Ho Chi Minh,27-56 millions,"c++, cuda, computer vision",Senior,2025-02-08,41.5,3
+Backend Developer,Tech Company 450,Remote,14-28 millions,"java, spring boot",Junior,2024-12-13,21.0,2
+Mobile Developer,Tech Company 256,Ho Chi Minh,15-29 millions,react native,Junior,2024-05-10,22.0,2
+DevOps Engineer,Tech Company 425,Ha Noi,43-81 millions,"azure, ci/cd, terraform",Lead,2025-09-19,62.0,4
+DevOps Engineer,Tech Company 392,Ho Chi Minh,29-56 millions,"azure, ci/cd, terraform",Senior,2025-05-18,42.5,3
+Tester/QA,Tech Company 19,Ha Noi,64-110 millions,"selenium, python",Manager,2024-07-06,87.0,5
+Tester/QA,Tech Company 21,Ho Chi Minh,14-31 millions,"automation, cypress",Junior,2025-05-21,22.5,2
+Tester/QA,Tech Company 64,Remote,15-30 millions,"automation, cypress",Junior,2024-05-31,22.5,2
+AI/ML Engineer,Tech Company 289,Ho Chi Minh,17-31 millions,"python, tensorflow, cv",Junior,2024-10-06,24.0,2
+DevOps Engineer,Tech Company 338,Ho Chi Minh,42-79 millions,"aws, docker, k8s",Lead,2025-12-25,60.5,4
+AI/ML Engineer,Tech Company 336,Ha Noi,17-29 millions,"c++, cuda, computer vision",Junior,2024-02-14,23.0,2
+Fullstack Developer,Tech Company 166,Ha Noi,28-59 millions,"react, node.js, mongo",Senior,2024-10-16,43.5,3
+Mobile Developer,Tech Company 46,Ha Noi,27-55 millions,"flutter, dart",Senior,2025-02-12,41.0,3
+Mobile Developer,Tech Company 79,Ho Chi Minh,7-20 millions,"kotlin, android",Fresher,2025-10-31,13.5,1
+Data Scientist,Tech Company 289,Ho Chi Minh,8-18 millions,"sql, tableau, python",Fresher,2024-10-01,13.0,1
+Mobile Developer,Tech Company 48,Ho Chi Minh,27-57 millions,"swift, ios",Senior,2025-03-12,42.0,3
+Tester/QA,Tech Company 270,Ho Chi Minh,9-20 millions,"manual testing, sql",Fresher,2025-05-22,14.5,1
+AI/ML Engineer,Tech Company 154,Ha Noi,27-59 millions,"python, nlp, huggingface",Senior,2025-05-04,43.0,3
+AI/ML Engineer,Tech Company 283,Ho Chi Minh,8-17 millions,"python, tensorflow, cv",Fresher,2024-02-18,12.5,1
+Frontend Developer,Tech Company 403,Ho Chi Minh,14-30 millions,"reactjs, typescript",Junior,2024-07-02,22.0,2
+Frontend Developer,Tech Company 371,Ho Chi Minh,18-28 millions,"html, css, js",Junior,2025-08-24,23.0,2
+AI/ML Engineer,Tech Company 109,Ha Noi,18-31 millions,"python, nlp, huggingface",Junior,2024-07-10,24.5,2
+AI/ML Engineer,Tech Company 203,Ha Noi,14-30 millions,"c++, cuda, computer vision",Junior,2024-01-06,22.0,2
+Tester/QA,Tech Company 372,Ho Chi Minh,9-20 millions,"automation, cypress",Fresher,2025-09-08,14.5,1
+DevOps Engineer,Tech Company 412,Ha Noi,17-30 millions,"linux, jenkins, ansible",Junior,2025-02-08,23.5,2
+Backend Developer,Tech Company 440,Ho Chi Minh,14-27 millions,"java, spring boot",Junior,2024-07-11,20.5,2
+Fullstack Developer,Tech Company 98,Ha Noi,7-20 millions,"python, vuejs, docker",Fresher,2025-07-05,13.5,1
+Fullstack Developer,Tech Company 379,Ha Noi,8-17 millions,"java, angular, sql",Fresher,2024-06-05,12.5,1
+Tester/QA,Tech Company 151,Remote,27-55 millions,"selenium, python",Senior,2024-07-25,41.0,3
+Backend Developer,Tech Company 222,Ha Noi,25-58 millions,"go, microservices",Senior,2025-12-31,41.5,3
+AI/ML Engineer,Tech Company 372,Ha Noi,65-112 millions,"python, tensorflow, cv",Manager,2025-08-28,88.5,5
+Tester/QA,Tech Company 296,Ha Noi,28-57 millions,"manual testing, sql",Senior,2025-03-08,42.5,3
+Fullstack Developer,Tech Company 119,Ho Chi Minh,17-29 millions,"java, angular, sql",Junior,2025-03-24,23.0,2
+DevOps Engineer,Tech Company 68,Ha Noi,28-58 millions,"linux, jenkins, ansible",Senior,2025-04-24,43.0,3
+Mobile Developer,Tech Company 408,Ha Noi,45-80 millions,"kotlin, android",Lead,2025-01-03,62.5,4
+Fullstack Developer,Tech Company 342,Remote,14-29 millions,"python, vuejs, docker",Junior,2024-03-29,21.5,2
+Backend Developer,Tech Company 90,Ha Noi,18-29 millions,"go, microservices",Junior,2024-06-11,23.5,2
+Backend Developer,Tech Company 62,Da Nang,21-45 millions,"python, django",Senior,2024-08-20,33.0,3
+DevOps Engineer,Tech Company 137,Ha Noi,28-58 millions,"azure, ci/cd, terraform",Senior,2025-07-24,43.0,3
+Frontend Developer,Tech Company 493,Da Nang,37-65 millions,"reactjs, typescript",Lead,2025-04-13,51.0,4
+Frontend Developer,Tech Company 86,Ho Chi Minh,28-55 millions,"reactjs, typescript",Senior,2024-04-17,41.5,3
+DevOps Engineer,Tech Company 256,Da Nang,23-48 millions,"aws, docker, k8s",Senior,2025-06-02,35.5,3
+DevOps Engineer,Tech Company 225,Ho Chi Minh,28-55 millions,"azure, ci/cd, terraform",Senior,2024-07-25,41.5,3
+Backend Developer,Tech Company 259,Ha Noi,67-112 millions,"java, spring boot",Manager,2024-10-20,89.5,5
+Mobile Developer,Tech Company 216,Ho Chi Minh,17-28 millions,"swift, ios",Junior,2025-06-26,22.5,2
+Mobile Developer,Tech Company 407,Ho Chi Minh,29-59 millions,"kotlin, android",Senior,2025-06-12,44.0,3
+Tester/QA,Tech Company 484,Da Nang,23-48 millions,"manual testing, sql",Senior,2025-06-13,35.5,3
+Mobile Developer,Tech Company 339,Ho Chi Minh,8-18 millions,react native,Fresher,2024-02-07,13.0,1
+Backend Developer,Tech Company 284,Ho Chi Minh,43-81 millions,"go, microservices",Lead,2025-12-18,62.0,4
+DevOps Engineer,Tech Company 313,Ha Noi,42-78 millions,"azure, ci/cd, terraform",Lead,2025-06-24,60.0,4
+Tester/QA,Tech Company 334,Ha Noi,45-80 millions,"manual testing, sql",Lead,2025-09-25,62.5,4
+Mobile Developer,Tech Company 172,Ho Chi Minh,18-27 millions,react native,Junior,2025-07-04,22.5,2
+Fullstack Developer,Tech Company 262,Ha Noi,18-28 millions,"python, vuejs, docker",Junior,2024-04-05,23.0,2
+Mobile Developer,Tech Company 322,Ha Noi,17-31 millions,"flutter, dart",Junior,2024-09-22,24.0,2
+Frontend Developer,Tech Company 174,Ho Chi Minh,26-58 millions,"html, css, js",Senior,2025-04-09,42.0,3
+Data Scientist,Tech Company 345,Ha Noi,65-113 millions,"sql, tableau, python",Manager,2025-08-09,89.0,5
+Data Scientist,Tech Company 233,Ho Chi Minh,8-19 millions,"python, pandas, scikit-learn",Fresher,2025-01-04,13.5,1
+Mobile Developer,Tech Company 244,Ha Noi,7-18 millions,"flutter, dart",Fresher,2024-05-13,12.5,1
+Mobile Developer,Tech Company 217,Ho Chi Minh,17-30 millions,"kotlin, android",Junior,2025-10-13,23.5,2
+Tester/QA,Tech Company 249,Ha Noi,67-110 millions,"automation, cypress",Manager,2024-05-10,88.5,5
+Frontend Developer,Tech Company 21,Da Nang,20-46 millions,"html, css, js",Senior,2024-10-23,33.0,3
+AI/ML Engineer,Tech Company 73,Ho Chi Minh,26-57 millions,"python, nlp, huggingface",Senior,2024-05-26,41.5,3
+AI/ML Engineer,Tech Company 2,Ho Chi Minh,26-59 millions,"python, nlp, huggingface",Senior,2025-05-15,42.5,3
+Backend Developer,Tech Company 461,Ho Chi Minh,8-18 millions,"node.js, express",Fresher,2025-04-08,13.0,1
+Fullstack Developer,Tech Company 342,Ho Chi Minh,16-29 millions,"react, node.js, mongo",Junior,2025-04-05,22.5,2
+DevOps Engineer,Tech Company 199,Da Nang,14-25 millions,"aws, docker, k8s",Junior,2025-02-23,19.5,2
+Backend Developer,Tech Company 363,Ho Chi Minh,17-30 millions,"node.js, express",Junior,2024-06-18,23.5,2
+AI/ML Engineer,Tech Company 99,Ha Noi,9-19 millions,"c++, cuda, computer vision",Fresher,2024-03-28,14.0,1
+Backend Developer,Tech Company 62,Ha Noi,67-112 millions,"java, spring boot",Manager,2024-01-20,89.5,5
+Backend Developer,Tech Company 430,Ha Noi,28-56 millions,"go, microservices",Senior,2025-12-23,42.0,3
+DevOps Engineer,Tech Company 175,Ho Chi Minh,44-79 millions,"azure, ci/cd, terraform",Lead,2024-01-24,61.5,4
+DevOps Engineer,Tech Company 278,Ho Chi Minh,15-28 millions,"azure, ci/cd, terraform",Junior,2024-04-11,21.5,2
+AI/ML Engineer,Tech Company 87,Ho Chi Minh,15-32 millions,"python, tensorflow, cv",Junior,2025-11-25,23.5,2
+Fullstack Developer,Tech Company 164,Remote,9-17 millions,"react, node.js, mongo",Fresher,2024-04-11,13.0,1
+AI/ML Engineer,Tech Company 104,Da Nang,8-17 millions,"python, nlp, huggingface",Fresher,2024-02-23,12.5,1
+Data Scientist,Tech Company 138,Ha Noi,16-30 millions,"sql, tableau, python",Junior,2024-04-27,23.0,2
+Mobile Developer,Tech Company 468,Ha Noi,8-18 millions,"flutter, dart",Fresher,2024-08-27,13.0,1
+Frontend Developer,Tech Company 156,Ho Chi Minh,45-80 millions,"vuejs, nuxt",Lead,2024-05-08,62.5,4
+Data Scientist,Tech Company 276,Ho Chi Minh,26-59 millions,"python, pandas, scikit-learn",Senior,2024-09-08,42.5,3
+Tester/QA,Tech Company 149,Remote,61-107 millions,"selenium, python",Manager,2025-09-27,84.0,5
+Backend Developer,Tech Company 195,Ho Chi Minh,26-56 millions,"node.js, express",Senior,2025-11-27,41.0,3
+Frontend Developer,Tech Company 144,Ho Chi Minh,28-59 millions,"html, css, js",Senior,2025-07-23,43.5,3
+DevOps Engineer,Tech Company 232,Ho Chi Minh,45-80 millions,"linux, jenkins, ansible",Lead,2025-12-25,62.5,4
+DevOps Engineer,Tech Company 9,Ha Noi,15-32 millions,"azure, ci/cd, terraform",Junior,2024-12-02,23.5,2
+Backend Developer,Tech Company 212,Ho Chi Minh,42-77 millions,"node.js, express",Lead,2024-06-26,59.5,4
+Tester/QA,Tech Company 334,Ha Noi,27-58 millions,"automation, cypress",Senior,2025-10-26,42.5,3
+Backend Developer,Tech Company 5,Ha Noi,16-32 millions,"python, django",Junior,2025-03-31,24.0,2
+AI/ML Engineer,Tech Company 418,Ho Chi Minh,18-29 millions,"c++, cuda, computer vision",Junior,2024-04-02,23.5,2
+Data Scientist,Tech Company 144,Ho Chi Minh,29-59 millions,"python, pandas, scikit-learn",Senior,2024-02-07,44.0,3
+Data Scientist,Tech Company 57,Ha Noi,15-31 millions,"python, pandas, scikit-learn",Junior,2025-02-09,23.0,2
+Tester/QA,Tech Company 345,Ha Noi,44-80 millions,"manual testing, sql",Lead,2025-08-02,62.0,4
+Frontend Developer,Tech Company 439,Ha Noi,28-55 millions,"vuejs, nuxt",Senior,2025-08-06,41.5,3
+AI/ML Engineer,Tech Company 348,Ha Noi,17-27 millions,"python, tensorflow, cv",Junior,2025-12-10,22.0,2
+Tester/QA,Tech Company 27,Ho Chi Minh,29-58 millions,"selenium, python",Senior,2025-10-27,43.5,3
+Mobile Developer,Tech Company 186,Ho Chi Minh,42-79 millions,"swift, ios",Lead,2025-05-22,60.5,4
+Data Scientist,Tech Company 162,Ho Chi Minh,26-57 millions,"python, pandas, scikit-learn",Senior,2025-04-04,41.5,3
+Frontend Developer,Tech Company 217,Ho Chi Minh,10-17 millions,"reactjs, typescript",Fresher,2025-12-07,13.5,1
+Data Scientist,Tech Company 50,Da Nang,53-90 millions,"python, pandas, scikit-learn",Manager,2025-10-02,71.5,5
+Backend Developer,Tech Company 123,Ho Chi Minh,10-17 millions,"go, microservices",Fresher,2025-04-29,13.5,1
+DevOps Engineer,Tech Company 318,Ha Noi,67-114 millions,"linux, jenkins, ansible",Manager,2025-09-06,90.5,5
+Tester/QA,Tech Company 194,Ho Chi Minh,14-27 millions,"selenium, python",Junior,2024-02-04,20.5,2
+Frontend Developer,Tech Company 155,Ha Noi,14-31 millions,"vuejs, nuxt",Junior,2024-02-26,22.5,2
+Frontend Developer,Tech Company 206,Ho Chi Minh,27-56 millions,"reactjs, typescript",Senior,2025-01-25,41.5,3
+Frontend Developer,Tech Company 233,Ho Chi Minh,17-30 millions,"angular, rxjs",Junior,2024-01-27,23.5,2
+Frontend Developer,Tech Company 405,Ha Noi,25-58 millions,"reactjs, typescript",Senior,2025-08-30,41.5,3
+Fullstack Developer,Tech Company 372,Da Nang,22-46 millions,"python, vuejs, docker",Senior,2025-05-07,34.0,3
+Fullstack Developer,Tech Company 263,Ho Chi Minh,25-56 millions,"react, node.js, mongo",Senior,2025-03-22,40.5,3
+DevOps Engineer,Tech Company 30,Ho Chi Minh,16-30 millions,"aws, docker, k8s",Junior,2024-05-28,23.0,2
+Backend Developer,Tech Company 466,Ha Noi,15-32 millions,"node.js, express",Junior,2025-10-17,23.5,2
+Data Scientist,Tech Company 308,Ho Chi Minh,16-30 millions,"python, pytorch, aws",Junior,2025-04-23,23.0,2
+DevOps Engineer,Tech Company 233,Da Nang,21-46 millions,"linux, jenkins, ansible",Senior,2024-04-17,33.5,3
+Tester/QA,Tech Company 118,Da Nang,37-66 millions,"manual testing, sql",Lead,2025-12-10,51.5,4
+Tester/QA,Tech Company 95,Ho Chi Minh,17-29 millions,"java, appium",Junior,2025-02-13,23.0,2
+Backend Developer,Tech Company 149,Ho Chi Minh,26-57 millions,"python, django",Senior,2024-05-25,41.5,3
+Fullstack Developer,Tech Company 12,Ho Chi Minh,17-28 millions,"java, angular, sql",Junior,2024-07-19,22.5,2
+Frontend Developer,Tech Company 404,Ho Chi Minh,17-28 millions,"reactjs, typescript",Junior,2025-11-01,22.5,2
+Data Scientist,Tech Company 339,Ho Chi Minh,43-78 millions,"sql, tableau, python",Lead,2025-01-16,60.5,4
+Mobile Developer,Tech Company 407,Ha Noi,14-31 millions,"flutter, dart",Junior,2024-05-13,22.5,2
+DevOps Engineer,Tech Company 472,Ha Noi,16-32 millions,"azure, ci/cd, terraform",Junior,2024-09-07,24.0,2
+Data Scientist,Tech Company 28,Ha Noi,7-17 millions,"python, pytorch, aws",Fresher,2024-09-10,12.0,1
+Fullstack Developer,Tech Company 373,Ho Chi Minh,29-59 millions,"python, vuejs, docker",Senior,2024-08-02,44.0,3
+Frontend Developer,Tech Company 385,Ha Noi,8-20 millions,"vuejs, nuxt",Fresher,2025-10-22,14.0,1
+Tester/QA,Tech Company 248,Ha Noi,26-56 millions,"manual testing, sql",Senior,2025-12-12,41.0,3
+AI/ML Engineer,Tech Company 333,Ha Noi,27-59 millions,"c++, cuda, computer vision",Senior,2025-08-20,43.0,3
+Data Scientist,Tech Company 218,Ho Chi Minh,10-18 millions,"sql, tableau, python",Fresher,2024-11-09,14.0,1
+DevOps Engineer,Tech Company 152,Ha Noi,44-77 millions,"azure, ci/cd, terraform",Lead,2024-03-27,60.5,4
+Backend Developer,Tech Company 240,Ho Chi Minh,16-29 millions,"node.js, express",Junior,2025-04-06,22.5,2
+Tester/QA,Tech Company 120,Ho Chi Minh,15-27 millions,"java, appium",Junior,2025-03-28,21.0,2
+Frontend Developer,Tech Company 41,Ho Chi Minh,17-30 millions,"angular, rxjs",Junior,2025-10-21,23.5,2
+Frontend Developer,Tech Company 171,Da Nang,20-45 millions,"reactjs, typescript",Senior,2024-07-24,32.5,3
+AI/ML Engineer,Tech Company 98,Ho Chi Minh,17-30 millions,"c++, cuda, computer vision",Junior,2024-10-08,23.5,2
+AI/ML Engineer,Tech Company 401,Can Tho,23-46 millions,"python, tensorflow, cv",Senior,2024-12-20,34.5,3
+Data Scientist,Tech Company 388,Ho Chi Minh,15-30 millions,"sql, tableau, python",Junior,2025-07-19,22.5,2
+DevOps Engineer,Tech Company 214,Ha Noi,15-28 millions,"aws, docker, k8s",Junior,2025-12-15,21.5,2
+Backend Developer,Tech Company 483,Ho Chi Minh,15-31 millions,"go, microservices",Junior,2024-11-08,23.0,2
+DevOps Engineer,Tech Company 391,Ha Noi,26-57 millions,"azure, ci/cd, terraform",Senior,2025-02-17,41.5,3
+Mobile Developer,Tech Company 198,Can Tho,52-91 millions,"kotlin, android",Manager,2025-07-01,71.5,5
+Tester/QA,Tech Company 146,Ha Noi,7-16 millions,"selenium, python",Fresher,2025-01-30,11.5,1
+Frontend Developer,Tech Company 168,Ho Chi Minh,14-30 millions,"html, css, js",Junior,2024-06-24,22.0,2
+Fullstack Developer,Tech Company 244,Da Nang,53-94 millions,"react, node.js, mongo",Manager,2025-11-11,73.5,5
+AI/ML Engineer,Tech Company 142,Ha Noi,15-31 millions,"c++, cuda, computer vision",Junior,2025-04-14,23.0,2
+Tester/QA,Tech Company 270,Can Tho,14-25 millions,"selenium, python",Junior,2024-09-09,19.5,2
+Tester/QA,Tech Company 148,Ha Noi,16-27 millions,"automation, cypress",Junior,2024-04-03,21.5,2
+DevOps Engineer,Tech Company 314,Da Nang,23-48 millions,"linux, jenkins, ansible",Senior,2025-02-04,35.5,3
+Frontend Developer,Tech Company 141,Ha Noi,17-27 millions,"html, css, js",Junior,2024-06-10,22.0,2
+Frontend Developer,Tech Company 63,Ha Noi,45-79 millions,"vuejs, nuxt",Lead,2025-07-20,62.0,4
+Frontend Developer,Tech Company 260,Ho Chi Minh,65-110 millions,"angular, rxjs",Manager,2024-07-31,87.5,5
+Tester/QA,Tech Company 204,Ho Chi Minh,8-18 millions,"automation, cypress",Fresher,2024-07-18,13.0,1
+Fullstack Developer,Tech Company 35,Ho Chi Minh,9-18 millions,"java, angular, sql",Fresher,2025-04-17,13.5,1
+Fullstack Developer,Tech Company 40,Ha Noi,25-58 millions,"java, angular, sql",Senior,2024-06-21,41.5,3
+AI/ML Engineer,Tech Company 458,Ho Chi Minh,27-55 millions,"python, tensorflow, cv",Senior,2024-02-05,41.0,3
+Backend Developer,Tech Company 307,Ho Chi Minh,27-56 millions,"python, django",Senior,2024-02-23,41.5,3
+Data Scientist,Tech Company 9,Ha Noi,8-17 millions,"python, pandas, scikit-learn",Fresher,2024-04-03,12.5,1
+DevOps Engineer,Tech Company 409,Remote,16-26 millions,"aws, docker, k8s",Junior,2024-04-08,21.0,2
+Fullstack Developer,Tech Company 166,Ha Noi,27-55 millions,"react, node.js, mongo",Senior,2024-11-30,41.0,3
+Data Scientist,Tech Company 110,Ho Chi Minh,27-57 millions,"python, pytorch, aws",Senior,2024-08-25,42.0,3
+Backend Developer,Tech Company 235,Ho Chi Minh,9-16 millions,"node.js, express",Fresher,2024-08-05,12.5,1
+Fullstack Developer,Tech Company 163,Ha Noi,26-58 millions,"java, angular, sql",Senior,2025-12-05,42.0,3
+Frontend Developer,Tech Company 196,Ha Noi,64-114 millions,"angular, rxjs",Manager,2025-04-04,89.0,5
+Backend Developer,Tech Company 159,Ha Noi,25-58 millions,"java, spring boot",Senior,2024-05-07,41.5,3
+Backend Developer,Tech Company 379,Ho Chi Minh,18-30 millions,"java, spring boot",Junior,2025-03-30,24.0,2
+DevOps Engineer,Tech Company 332,Ho Chi Minh,45-77 millions,"linux, jenkins, ansible",Lead,2025-02-28,61.0,4
+Data Scientist,Tech Company 28,Ha Noi,26-56 millions,"python, pytorch, aws",Senior,2025-07-06,41.0,3
+Data Scientist,Tech Company 267,Ha Noi,44-78 millions,"python, pytorch, aws",Lead,2025-01-25,61.0,4
+Backend Developer,Tech Company 27,Ho Chi Minh,17-27 millions,"python, django",Junior,2024-07-16,22.0,2
+Data Scientist,Tech Company 121,Ho Chi Minh,25-57 millions,"python, pandas, scikit-learn",Senior,2024-07-28,41.0,3
+Tester/QA,Tech Company 91,Ho Chi Minh,26-55 millions,"java, appium",Senior,2025-03-10,40.5,3
+Tester/QA,Tech Company 487,Ho Chi Minh,26-58 millions,"manual testing, sql",Senior,2024-03-22,42.0,3
+Tester/QA,Tech Company 389,Remote,16-28 millions,"selenium, python",Junior,2024-03-26,22.0,2
+Fullstack Developer,Tech Company 157,Ho Chi Minh,44-78 millions,"python, vuejs, docker",Lead,2025-04-19,61.0,4
+Tester/QA,Tech Company 80,Ho Chi Minh,15-31 millions,"selenium, python",Junior,2024-07-19,23.0,2
+DevOps Engineer,Tech Company 497,Ho Chi Minh,43-79 millions,"azure, ci/cd, terraform",Lead,2025-02-08,61.0,4
+AI/ML Engineer,Tech Company 472,Ho Chi Minh,29-55 millions,"c++, cuda, computer vision",Senior,2024-02-09,42.0,3
+Fullstack Developer,Tech Company 261,Da Nang,8-18 millions,"react, node.js, mongo",Fresher,2024-12-22,13.0,1
+DevOps Engineer,Tech Company 377,Ha Noi,25-56 millions,"linux, jenkins, ansible",Senior,2025-03-10,40.5,3
+DevOps Engineer,Tech Company 331,Ha Noi,17-27 millions,"linux, jenkins, ansible",Junior,2025-11-12,22.0,2
+Fullstack Developer,Tech Company 431,Ha Noi,7-19 millions,"java, angular, sql",Fresher,2025-11-09,13.0,1
+Frontend Developer,Tech Company 266,Ho Chi Minh,16-30 millions,"html, css, js",Junior,2024-03-23,23.0,2
+Fullstack Developer,Tech Company 338,Da Nang,35-64 millions,"java, angular, sql",Lead,2025-06-29,49.5,4
+Mobile Developer,Tech Company 417,Ha Noi,42-79 millions,"flutter, dart",Lead,2024-12-18,60.5,4
+Mobile Developer,Tech Company 1,Ha Noi,6-17 millions,"swift, ios",Fresher,2025-05-18,11.5,1
+Mobile Developer,Tech Company 91,Ha Noi,9-20 millions,"kotlin, android",Fresher,2024-06-23,14.5,1
+Data Scientist,Tech Company 291,Ha Noi,15-32 millions,"sql, tableau, python",Junior,2025-04-06,23.5,2
+Backend Developer,Tech Company 226,Ho Chi Minh,28-55 millions,"java, spring boot",Senior,2025-02-22,41.5,3
+Fullstack Developer,Tech Company 33,Ha Noi,26-56 millions,"react, node.js, mongo",Senior,2024-10-10,41.0,3
+Tester/QA,Tech Company 137,Ha Noi,17-28 millions,"automation, cypress",Junior,2024-03-03,22.5,2
+Backend Developer,Tech Company 309,Ho Chi Minh,26-58 millions,"python, django",Senior,2025-01-19,42.0,3
+AI/ML Engineer,Tech Company 173,Remote,26-54 millions,"python, nlp, huggingface",Senior,2025-03-15,40.0,3
+DevOps Engineer,Tech Company 313,Da Nang,15-25 millions,"aws, docker, k8s",Junior,2025-01-22,20.0,2
+DevOps Engineer,Tech Company 372,Ho Chi Minh,6-20 millions,"aws, docker, k8s",Fresher,2025-02-15,13.0,1
+Backend Developer,Tech Company 385,Da Nang,23-46 millions,"python, django",Senior,2025-12-17,34.5,3
+Tester/QA,Tech Company 491,Ho Chi Minh,28-55 millions,"automation, cypress",Senior,2025-10-15,41.5,3
+DevOps Engineer,Tech Company 228,Ho Chi Minh,45-80 millions,"aws, docker, k8s",Lead,2025-11-25,62.5,4
+Frontend Developer,Tech Company 338,Ha Noi,16-32 millions,"angular, rxjs",Junior,2025-05-02,24.0,2
+Mobile Developer,Tech Company 449,Da Nang,36-66 millions,"swift, ios",Lead,2025-06-16,51.0,4
+Backend Developer,Tech Company 281,Da Nang,22-45 millions,"java, spring boot",Senior,2025-11-20,33.5,3
+Tester/QA,Tech Company 109,Ha Noi,65-112 millions,"selenium, python",Manager,2024-09-06,88.5,5
+Frontend Developer,Tech Company 476,Da Nang,13-26 millions,"reactjs, typescript",Junior,2024-06-13,19.5,2
+AI/ML Engineer,Tech Company 64,Da Nang,36-66 millions,"python, tensorflow, cv",Lead,2025-11-17,51.0,4
+Tester/QA,Tech Company 478,Da Nang,23-46 millions,"selenium, python",Senior,2024-08-17,34.5,3
+Frontend Developer,Tech Company 335,Da Nang,22-48 millions,"angular, rxjs",Senior,2025-01-25,35.0,3
+Mobile Developer,Tech Company 58,Ha Noi,26-55 millions,react native,Senior,2024-03-30,40.5,3
+Data Scientist,Tech Company 437,Ha Noi,10-19 millions,"python, pytorch, aws",Fresher,2024-05-10,14.5,1
+Backend Developer,Tech Company 217,Ho Chi Minh,14-30 millions,"go, microservices",Junior,2025-02-01,22.0,2
+Fullstack Developer,Tech Company 203,Ho Chi Minh,17-30 millions,"python, vuejs, docker",Junior,2024-04-19,23.5,2
+DevOps Engineer,Tech Company 256,Da Nang,8-14 millions,"aws, docker, k8s",Fresher,2024-08-12,11.0,1
+Frontend Developer,Tech Company 324,Ho Chi Minh,29-58 millions,"angular, rxjs",Senior,2025-05-04,43.5,3
+Mobile Developer,Tech Company 435,Ha Noi,29-56 millions,"flutter, dart",Senior,2024-08-03,42.5,3
+Backend Developer,Tech Company 418,Ha Noi,28-58 millions,"java, spring boot",Senior,2024-11-02,43.0,3
+Backend Developer,Tech Company 388,Ha Noi,26-58 millions,"node.js, express",Senior,2024-12-22,42.0,3
+AI/ML Engineer,Tech Company 202,Ho Chi Minh,17-28 millions,"python, nlp, huggingface",Junior,2025-07-15,22.5,2
+Backend Developer,Tech Company 227,Ho Chi Minh,8-17 millions,"go, microservices",Fresher,2024-05-20,12.5,1
+Frontend Developer,Tech Company 431,Da Nang,13-27 millions,"vuejs, nuxt",Junior,2025-11-26,20.0,2
+DevOps Engineer,Tech Company 333,Ho Chi Minh,15-27 millions,"azure, ci/cd, terraform",Junior,2025-06-11,21.0,2
+Fullstack Developer,Tech Company 124,Ho Chi Minh,17-28 millions,"python, vuejs, docker",Junior,2024-05-01,22.5,2
+Fullstack Developer,Tech Company 338,Ho Chi Minh,17-31 millions,"python, vuejs, docker",Junior,2025-11-17,24.0,2
+Mobile Developer,Tech Company 62,Ha Noi,9-18 millions,"swift, ios",Fresher,2024-01-12,13.5,1
+Data Scientist,Tech Company 141,Ho Chi Minh,9-21 millions,"python, pandas, scikit-learn",Fresher,2025-05-06,15.0,1
+Fullstack Developer,Tech Company 153,Ho Chi Minh,27-58 millions,"java, angular, sql",Senior,2025-03-20,42.5,3
+Frontend Developer,Tech Company 285,Ho Chi Minh,27-58 millions,"vuejs, nuxt",Senior,2025-02-07,42.5,3
+Tester/QA,Tech Company 420,Ha Noi,27-57 millions,"selenium, python",Senior,2025-12-31,42.0,3
+Data Scientist,Tech Company 356,Ho Chi Minh,29-55 millions,"python, pytorch, aws",Senior,2025-09-05,42.0,3
+DevOps Engineer,Tech Company 83,Ha Noi,14-30 millions,"aws, docker, k8s",Junior,2025-10-30,22.0,2
+Backend Developer,Tech Company 495,Ho Chi Minh,10-19 millions,"python, django",Fresher,2025-01-07,14.5,1
+Backend Developer,Tech Company 464,Ho Chi Minh,26-59 millions,"java, spring boot",Senior,2025-06-15,42.5,3
+Tester/QA,Tech Company 467,Ha Noi,27-58 millions,"manual testing, sql",Senior,2025-06-19,42.5,3
+Frontend Developer,Tech Company 205,Ha Noi,7-19 millions,"angular, rxjs",Fresher,2024-06-16,13.0,1
+DevOps Engineer,Tech Company 84,Ho Chi Minh,28-59 millions,"linux, jenkins, ansible",Senior,2025-09-11,43.5,3
+Mobile Developer,Tech Company 139,Ho Chi Minh,14-30 millions,"kotlin, android",Junior,2024-03-20,22.0,2
+Mobile Developer,Tech Company 399,Ho Chi Minh,8-16 millions,"flutter, dart",Fresher,2024-12-07,12.0,1
+Data Scientist,Tech Company 194,Da Nang,11-24 millions,"sql, tableau, python",Junior,2024-08-15,17.5,2
+Frontend Developer,Tech Company 421,Ha Noi,66-114 millions,"vuejs, nuxt",Manager,2025-08-25,90.0,5
+DevOps Engineer,Tech Company 312,Ho Chi Minh,27-56 millions,"linux, jenkins, ansible",Senior,2024-10-04,41.5,3
+DevOps Engineer,Tech Company 496,Ho Chi Minh,7-20 millions,"azure, ci/cd, terraform",Fresher,2025-11-25,13.5,1
+Mobile Developer,Tech Company 263,Ha Noi,27-56 millions,"kotlin, android",Senior,2025-12-04,41.5,3
+Fullstack Developer,Tech Company 499,Ha Noi,27-56 millions,"java, angular, sql",Senior,2025-10-16,41.5,3
+Mobile Developer,Tech Company 258,Ha Noi,15-32 millions,"kotlin, android",Junior,2025-04-24,23.5,2
+Data Scientist,Tech Company 209,Remote,16-26 millions,"sql, tableau, python",Junior,2024-11-08,21.0,2
+Frontend Developer,Tech Company 295,Ha Noi,28-59 millions,"reactjs, typescript",Senior,2024-06-18,43.5,3
+Tester/QA,Tech Company 478,Ha Noi,10-18 millions,"selenium, python",Fresher,2025-06-04,14.0,1
+Frontend Developer,Tech Company 366,Ha Noi,25-55 millions,"html, css, js",Senior,2024-01-08,40.0,3
+DevOps Engineer,Tech Company 351,Ha Noi,18-30 millions,"aws, docker, k8s",Junior,2025-06-24,24.0,2
+Fullstack Developer,Tech Company 90,Ha Noi,29-58 millions,"python, vuejs, docker",Senior,2024-08-18,43.5,3
+DevOps Engineer,Tech Company 497,Ha Noi,8-18 millions,"aws, docker, k8s",Fresher,2025-01-17,13.0,1
+Data Scientist,Tech Company 154,Da Nang,8-17 millions,"python, pytorch, aws",Fresher,2024-10-24,12.5,1
+Backend Developer,Tech Company 264,Ho Chi Minh,15-29 millions,"node.js, express",Junior,2025-10-20,22.0,2
+Tester/QA,Tech Company 169,Ho Chi Minh,25-55 millions,"automation, cypress",Senior,2025-04-16,40.0,3
+DevOps Engineer,Tech Company 221,Ho Chi Minh,15-29 millions,"linux, jenkins, ansible",Junior,2024-04-13,22.0,2
+Fullstack Developer,Tech Company 394,Ho Chi Minh,14-29 millions,"java, angular, sql",Junior,2024-06-08,21.5,2
+Mobile Developer,Tech Company 275,Ho Chi Minh,26-57 millions,"swift, ios",Senior,2024-07-05,41.5,3
+Tester/QA,Tech Company 3,Ho Chi Minh,26-56 millions,"automation, cypress",Senior,2025-03-20,41.0,3
+Data Scientist,Tech Company 216,Da Nang,12-22 millions,"python, pandas, scikit-learn",Junior,2025-02-08,17.0,2
+Fullstack Developer,Tech Company 137,Da Nang,21-47 millions,"python, vuejs, docker",Senior,2025-11-12,34.0,3
+Tester/QA,Tech Company 257,Ha Noi,8-20 millions,"manual testing, sql",Fresher,2025-02-13,14.0,1
+Mobile Developer,Tech Company 65,Ha Noi,25-55 millions,react native,Senior,2024-01-22,40.0,3
+Data Scientist,Tech Company 378,Ha Noi,17-29 millions,"python, pandas, scikit-learn",Junior,2025-09-03,23.0,2
+AI/ML Engineer,Tech Company 79,Ha Noi,7-18 millions,"python, nlp, huggingface",Fresher,2025-09-24,12.5,1
+AI/ML Engineer,Tech Company 342,Ho Chi Minh,28-59 millions,"python, tensorflow, cv",Senior,2024-09-10,43.5,3
+Mobile Developer,Tech Company 219,Ho Chi Minh,7-17 millions,"flutter, dart",Fresher,2024-05-29,12.0,1
+Backend Developer,Tech Company 119,Ho Chi Minh,8-18 millions,"node.js, express",Fresher,2025-10-10,13.0,1
+Mobile Developer,Tech Company 1,Ho Chi Minh,15-27 millions,react native,Junior,2024-02-11,21.0,2
+Data Scientist,Tech Company 221,Ha Noi,8-21 millions,"sql, tableau, python",Fresher,2024-04-13,14.5,1
+DevOps Engineer,Tech Company 350,Da Nang,12-22 millions,"azure, ci/cd, terraform",Junior,2024-01-14,17.0,2
+DevOps Engineer,Tech Company 271,Da Nang,23-46 millions,"azure, ci/cd, terraform",Senior,2025-08-26,34.5,3
+AI/ML Engineer,Tech Company 67,Ho Chi Minh,27-55 millions,"python, tensorflow, cv",Senior,2024-04-18,41.0,3
+Backend Developer,Tech Company 39,Ha Noi,26-57 millions,"java, spring boot",Senior,2024-04-11,41.5,3
+AI/ML Engineer,Tech Company 370,Ha Noi,43-80 millions,"c++, cuda, computer vision",Lead,2025-06-30,61.5,4
+Mobile Developer,Tech Company 500,Ho Chi Minh,18-31 millions,"swift, ios",Junior,2025-07-27,24.5,2
+Fullstack Developer,Tech Company 98,Ha Noi,6-19 millions,"java, angular, sql",Fresher,2025-12-11,12.5,1
+Frontend Developer,Tech Company 400,Ho Chi Minh,27-57 millions,"vuejs, nuxt",Senior,2025-07-29,42.0,3
+Data Scientist,Tech Company 357,Ha Noi,14-30 millions,"python, pandas, scikit-learn",Junior,2025-08-29,22.0,2
+Tester/QA,Tech Company 138,Da Nang,6-14 millions,"java, appium",Fresher,2025-12-26,10.0,1
+Backend Developer,Tech Company 475,Ho Chi Minh,26-58 millions,"java, spring boot",Senior,2024-10-11,42.0,3
+Backend Developer,Tech Company 1,Da Nang,9-14 millions,"java, spring boot",Fresher,2024-04-28,11.5,1
+AI/ML Engineer,Tech Company 422,Ho Chi Minh,29-58 millions,"python, nlp, huggingface",Senior,2024-01-11,43.5,3
+AI/ML Engineer,Tech Company 445,Ha Noi,15-27 millions,"python, tensorflow, cv",Junior,2025-11-04,21.0,2
+Frontend Developer,Tech Company 325,Ha Noi,29-56 millions,"html, css, js",Senior,2025-10-03,42.5,3
+Tester/QA,Tech Company 414,Ho Chi Minh,26-56 millions,"manual testing, sql",Senior,2025-10-06,41.0,3
+Tester/QA,Tech Company 462,Ho Chi Minh,44-79 millions,"manual testing, sql",Lead,2024-05-31,61.5,4
+Tester/QA,Tech Company 252,Ha Noi,17-28 millions,"manual testing, sql",Junior,2025-08-06,22.5,2
+AI/ML Engineer,Tech Company 352,Ho Chi Minh,43-81 millions,"python, tensorflow, cv",Lead,2025-02-07,62.0,4
+Frontend Developer,Tech Company 52,Ho Chi Minh,26-59 millions,"html, css, js",Senior,2025-02-16,42.5,3
+Backend Developer,Tech Company 391,Ho Chi Minh,27-55 millions,"python, django",Senior,2024-01-14,41.0,3
+Fullstack Developer,Tech Company 308,Da Nang,23-46 millions,"react, node.js, mongo",Senior,2025-10-04,34.5,3
+Fullstack Developer,Tech Company 279,Da Nang,21-45 millions,"java, angular, sql",Senior,2024-02-27,33.0,3
+Frontend Developer,Tech Company 53,Ha Noi,28-55 millions,"reactjs, typescript",Senior,2024-10-30,41.5,3
+Fullstack Developer,Tech Company 198,Ha Noi,29-55 millions,"react, node.js, mongo",Senior,2025-03-13,42.0,3
+Frontend Developer,Tech Company 185,Ho Chi Minh,15-30 millions,"angular, rxjs",Junior,2024-05-01,22.5,2
+Backend Developer,Tech Company 93,Da Nang,34-65 millions,"java, spring boot",Lead,2025-09-06,49.5,4
+AI/ML Engineer,Tech Company 139,Ho Chi Minh,28-56 millions,"c++, cuda, computer vision",Senior,2024-04-16,42.0,3
+AI/ML Engineer,Tech Company 399,Ha Noi,45-80 millions,"c++, cuda, computer vision",Lead,2024-06-01,62.5,4
+Mobile Developer,Tech Company 418,Ho Chi Minh,28-58 millions,"kotlin, android",Senior,2025-05-04,43.0,3
+AI/ML Engineer,Tech Company 393,Ha Noi,7-21 millions,"python, tensorflow, cv",Fresher,2024-07-05,14.0,1
+Mobile Developer,Tech Company 171,Ho Chi Minh,17-29 millions,"kotlin, android",Junior,2025-10-13,23.0,2
+Data Scientist,Tech Company 253,Da Nang,6-15 millions,"sql, tableau, python",Fresher,2025-06-30,10.5,1
+Mobile Developer,Tech Company 398,Ha Noi,27-57 millions,"flutter, dart",Senior,2025-08-14,42.0,3
+Frontend Developer,Tech Company 186,Ha Noi,26-56 millions,"vuejs, nuxt",Senior,2024-01-18,41.0,3
+Frontend Developer,Tech Company 151,Remote,27-54 millions,"reactjs, typescript",Senior,2024-05-22,40.5,3
+Mobile Developer,Tech Company 61,Ha Noi,15-28 millions,react native,Junior,2024-05-21,21.5,2
+Mobile Developer,Tech Company 360,Ha Noi,66-112 millions,"flutter, dart",Manager,2024-02-25,89.0,5
+Tester/QA,Tech Company 126,Ha Noi,6-18 millions,"manual testing, sql",Fresher,2024-03-21,12.0,1
+Mobile Developer,Tech Company 384,Ha Noi,9-18 millions,react native,Fresher,2024-05-23,13.5,1
+Tester/QA,Tech Company 356,Da Nang,23-47 millions,"automation, cypress",Senior,2025-10-22,35.0,3
+Backend Developer,Tech Company 6,Ho Chi Minh,9-17 millions,"python, django",Fresher,2024-06-13,13.0,1
+Tester/QA,Tech Company 117,Ho Chi Minh,18-30 millions,"java, appium",Junior,2025-12-27,24.0,2
+Frontend Developer,Tech Company 206,Ho Chi Minh,18-28 millions,"html, css, js",Junior,2024-08-04,23.0,2
+Fullstack Developer,Tech Company 419,Ho Chi Minh,29-58 millions,"python, vuejs, docker",Senior,2024-03-20,43.5,3
+Mobile Developer,Tech Company 218,Ha Noi,26-59 millions,"kotlin, android",Senior,2025-10-24,42.5,3
+Frontend Developer,Tech Company 123,Ho Chi Minh,16-31 millions,"angular, rxjs",Junior,2024-01-29,23.5,2
+Frontend Developer,Tech Company 97,Ha Noi,16-31 millions,"vuejs, nuxt",Junior,2024-11-12,23.5,2
+Backend Developer,Tech Company 23,Ha Noi,26-59 millions,"java, spring boot",Senior,2025-08-01,42.5,3
+Data Scientist,Tech Company 360,Remote,27-56 millions,"sql, tableau, python",Senior,2024-05-12,41.5,3
+Frontend Developer,Tech Company 301,Ho Chi Minh,25-58 millions,"vuejs, nuxt",Senior,2025-05-03,41.5,3
+Fullstack Developer,Tech Company 48,Ho Chi Minh,44-77 millions,"react, node.js, mongo",Lead,2025-10-02,60.5,4
+Data Scientist,Tech Company 494,Ho Chi Minh,66-113 millions,"python, pytorch, aws",Manager,2024-06-13,89.5,5
+DevOps Engineer,Tech Company 320,Can Tho,23-46 millions,"azure, ci/cd, terraform",Senior,2025-01-03,34.5,3
+Mobile Developer,Tech Company 491,Ho Chi Minh,42-80 millions,react native,Lead,2024-03-17,61.0,4
+Tester/QA,Tech Company 281,Ha Noi,17-28 millions,"selenium, python",Junior,2024-11-12,22.5,2
+Frontend Developer,Tech Company 83,Ha Noi,42-78 millions,"html, css, js",Lead,2024-10-29,60.0,4
+DevOps Engineer,Tech Company 133,Ha Noi,7-20 millions,"aws, docker, k8s",Fresher,2025-04-16,13.5,1
+Tester/QA,Tech Company 21,Remote,64-109 millions,"manual testing, sql",Manager,2025-05-14,86.5,5
+Mobile Developer,Tech Company 488,Ho Chi Minh,16-30 millions,react native,Junior,2025-10-01,23.0,2
+Mobile Developer,Tech Company 22,Ho Chi Minh,15-31 millions,"kotlin, android",Junior,2025-11-29,23.0,2
+Data Scientist,Tech Company 149,Ha Noi,28-55 millions,"python, pytorch, aws",Senior,2024-04-17,41.5,3
+Frontend Developer,Tech Company 179,Ha Noi,16-29 millions,"vuejs, nuxt",Junior,2024-04-05,22.5,2
+Tester/QA,Tech Company 394,Ha Noi,14-31 millions,"selenium, python",Junior,2025-02-10,22.5,2
+Mobile Developer,Tech Company 243,Ha Noi,18-29 millions,"flutter, dart",Junior,2025-03-16,23.5,2
+AI/ML Engineer,Tech Company 343,Ho Chi Minh,8-18 millions,"c++, cuda, computer vision",Fresher,2024-08-07,13.0,1
+Backend Developer,Tech Company 85,Ho Chi Minh,45-79 millions,"python, django",Lead,2024-10-31,62.0,4
+Tester/QA,Tech Company 224,Da Nang,13-26 millions,"automation, cypress",Junior,2025-12-14,19.5,2
+Mobile Developer,Tech Company 40,Ha Noi,16-31 millions,"flutter, dart",Junior,2024-07-22,23.5,2
+Fullstack Developer,Tech Company 8,Ha Noi,28-59 millions,"java, angular, sql",Senior,2024-11-20,43.5,3
+Fullstack Developer,Tech Company 209,Ha Noi,17-28 millions,"java, angular, sql",Junior,2025-11-21,22.5,2
+Tester/QA,Tech Company 50,Ha Noi,17-30 millions,"manual testing, sql",Junior,2025-08-15,23.5,2
+Data Scientist,Tech Company 194,Ha Noi,9-20 millions,"sql, tableau, python",Fresher,2025-09-07,14.5,1
+Data Scientist,Tech Company 9,Ho Chi Minh,16-27 millions,"python, pytorch, aws",Junior,2025-01-07,21.5,2
+Frontend Developer,Tech Company 181,Ho Chi Minh,17-29 millions,"html, css, js",Junior,2025-02-24,23.0,2
+DevOps Engineer,Tech Company 91,Ha Noi,18-29 millions,"aws, docker, k8s",Junior,2025-01-17,23.5,2
+Mobile Developer,Tech Company 224,Ho Chi Minh,26-58 millions,"kotlin, android",Senior,2025-11-27,42.0,3
+Frontend Developer,Tech Company 9,Ha Noi,28-55 millions,"reactjs, typescript",Senior,2025-10-27,41.5,3
+Tester/QA,Tech Company 342,Ho Chi Minh,28-57 millions,"selenium, python",Senior,2024-02-03,42.5,3
+Data Scientist,Tech Company 487,Ho Chi Minh,16-28 millions,"sql, tableau, python",Junior,2025-04-25,22.0,2
+Tester/QA,Tech Company 4,Remote,10-18 millions,"automation, cypress",Fresher,2025-02-09,14.0,1
+AI/ML Engineer,Tech Company 345,Ha Noi,45-78 millions,"python, nlp, huggingface",Lead,2025-02-28,61.5,4
+Mobile Developer,Tech Company 431,Da Nang,11-23 millions,"flutter, dart",Junior,2025-01-18,17.0,2
+DevOps Engineer,Tech Company 124,Ha Noi,26-57 millions,"azure, ci/cd, terraform",Senior,2025-03-16,41.5,3
+Mobile Developer,Tech Company 481,Ho Chi Minh,28-57 millions,"flutter, dart",Senior,2024-05-11,42.5,3
+Fullstack Developer,Tech Company 119,Remote,27-55 millions,"java, angular, sql",Senior,2025-03-23,41.0,3
+Frontend Developer,Tech Company 429,Ha Noi,10-19 millions,"html, css, js",Fresher,2024-09-23,14.5,1
+Data Scientist,Tech Company 395,Da Nang,20-47 millions,"python, pandas, scikit-learn",Senior,2025-10-05,33.5,3
+Frontend Developer,Tech Company 325,Ho Chi Minh,25-58 millions,"html, css, js",Senior,2025-04-09,41.5,3
+Data Scientist,Tech Company 431,Ho Chi Minh,29-56 millions,"python, pytorch, aws",Senior,2025-07-02,42.5,3
+Mobile Developer,Tech Company 322,Ha Noi,17-28 millions,"swift, ios",Junior,2024-05-27,22.5,2
+Frontend Developer,Tech Company 73,Remote,8-18 millions,"reactjs, typescript",Fresher,2024-04-19,13.0,1
+Frontend Developer,Tech Company 201,Da Nang,13-24 millions,"reactjs, typescript",Junior,2024-07-31,18.5,2
+Tester/QA,Tech Company 338,Da Nang,12-22 millions,"manual testing, sql",Junior,2024-07-01,17.0,2
+AI/ML Engineer,Tech Company 266,Ho Chi Minh,26-55 millions,"python, tensorflow, cv",Senior,2024-01-24,40.5,3
+DevOps Engineer,Tech Company 113,Ho Chi Minh,29-55 millions,"aws, docker, k8s",Senior,2024-05-21,42.0,3
+Fullstack Developer,Tech Company 179,Ha Noi,7-17 millions,"java, angular, sql",Fresher,2024-04-04,12.0,1
+Tester/QA,Tech Company 129,Ha Noi,27-59 millions,"automation, cypress",Senior,2024-07-16,43.0,3
+AI/ML Engineer,Tech Company 160,Ha Noi,14-31 millions,"python, nlp, huggingface",Junior,2025-08-24,22.5,2
+Tester/QA,Tech Company 418,Ho Chi Minh,18-29 millions,"automation, cypress",Junior,2024-10-05,23.5,2
+Mobile Developer,Tech Company 420,Ho Chi Minh,15-29 millions,"kotlin, android",Junior,2025-10-09,22.0,2
+Backend Developer,Tech Company 184,Ho Chi Minh,64-111 millions,"python, django",Manager,2024-07-09,87.5,5
+Data Scientist,Tech Company 288,Ha Noi,27-56 millions,"sql, tableau, python",Senior,2024-08-26,41.5,3
+Data Scientist,Tech Company 485,Ho Chi Minh,7-19 millions,"python, pytorch, aws",Fresher,2025-09-14,13.0,1
+Frontend Developer,Tech Company 102,Da Nang,36-65 millions,"html, css, js",Lead,2024-11-23,50.5,4
+Tester/QA,Tech Company 232,Ha Noi,18-29 millions,"selenium, python",Junior,2024-05-07,23.5,2
+Mobile Developer,Tech Company 402,Ho Chi Minh,16-28 millions,react native,Junior,2025-10-21,22.0,2
+Tester/QA,Tech Company 459,Remote,40-78 millions,"java, appium",Lead,2024-02-07,59.0,4
+DevOps Engineer,Tech Company 371,Ha Noi,25-57 millions,"linux, jenkins, ansible",Senior,2025-03-01,41.0,3
+DevOps Engineer,Tech Company 314,Ho Chi Minh,14-31 millions,"azure, ci/cd, terraform",Junior,2025-05-20,22.5,2
+Tester/QA,Tech Company 432,Ho Chi Minh,10-21 millions,"automation, cypress",Fresher,2024-05-04,15.5,1
+Backend Developer,Tech Company 166,Ha Noi,14-27 millions,"java, spring boot",Junior,2024-04-17,20.5,2
+Data Scientist,Tech Company 418,Ha Noi,42-80 millions,"python, pandas, scikit-learn",Lead,2025-01-12,61.0,4
+Backend Developer,Tech Company 485,Remote,43-73 millions,"go, microservices",Lead,2024-02-19,58.0,4
+Mobile Developer,Tech Company 236,Ho Chi Minh,17-32 millions,"swift, ios",Junior,2025-08-20,24.5,2
+Fullstack Developer,Tech Company 327,Ho Chi Minh,10-21 millions,"python, vuejs, docker",Fresher,2025-02-27,15.5,1
+Data Scientist,Tech Company 165,Ho Chi Minh,16-29 millions,"python, pytorch, aws",Junior,2024-10-14,22.5,2
+Frontend Developer,Tech Company 286,Ha Noi,28-58 millions,"angular, rxjs",Senior,2024-12-27,43.0,3
+Data Scientist,Tech Company 109,Ho Chi Minh,25-59 millions,"python, pytorch, aws",Senior,2024-03-02,42.0,3
+AI/ML Engineer,Tech Company 55,Da Nang,22-45 millions,"c++, cuda, computer vision",Senior,2025-05-31,33.5,3
+DevOps Engineer,Tech Company 104,Ho Chi Minh,45-81 millions,"azure, ci/cd, terraform",Lead,2025-06-09,63.0,4
+AI/ML Engineer,Tech Company 332,Ho Chi Minh,26-56 millions,"python, nlp, huggingface",Senior,2025-08-14,41.0,3
+Frontend Developer,Tech Company 137,Ha Noi,7-20 millions,"reactjs, typescript",Fresher,2024-07-10,13.5,1
+Tester/QA,Tech Company 182,Ha Noi,7-21 millions,"java, appium",Fresher,2024-03-27,14.0,1
+Mobile Developer,Tech Company 26,Ho Chi Minh,14-28 millions,"swift, ios",Junior,2024-04-10,21.0,2
+Mobile Developer,Tech Company 142,Ha Noi,26-57 millions,react native,Senior,2025-08-31,41.5,3
+Mobile Developer,Tech Company 113,Ha Noi,28-58 millions,"flutter, dart",Senior,2024-04-23,43.0,3
+AI/ML Engineer,Tech Company 452,Da Nang,5-14 millions,"python, tensorflow, cv",Fresher,2024-08-19,9.5,1
+Mobile Developer,Tech Company 138,Ha Noi,25-58 millions,"kotlin, android",Senior,2025-12-09,41.5,3
+Data Scientist,Tech Company 376,Ho Chi Minh,17-31 millions,"sql, tableau, python",Junior,2024-10-21,24.0,2
+Tester/QA,Tech Company 162,Ho Chi Minh,10-19 millions,"java, appium",Fresher,2024-06-23,14.5,1
+DevOps Engineer,Tech Company 220,Ho Chi Minh,26-55 millions,"azure, ci/cd, terraform",Senior,2025-04-30,40.5,3
+AI/ML Engineer,Tech Company 305,Ho Chi Minh,15-31 millions,"python, tensorflow, cv",Junior,2024-01-10,23.0,2
+Backend Developer,Tech Company 420,Ha Noi,17-29 millions,"node.js, express",Junior,2024-02-16,23.0,2
+AI/ML Engineer,Tech Company 397,Ha Noi,8-17 millions,"python, tensorflow, cv",Fresher,2024-05-30,12.5,1
+DevOps Engineer,Tech Company 132,Ho Chi Minh,8-18 millions,"azure, ci/cd, terraform",Fresher,2025-07-12,13.0,1
+Tester/QA,Tech Company 457,Ho Chi Minh,28-56 millions,"selenium, python",Senior,2024-12-07,42.0,3
+Tester/QA,Tech Company 11,Ha Noi,26-57 millions,"selenium, python",Senior,2025-10-17,41.5,3
+Data Scientist,Tech Company 126,Ho Chi Minh,10-18 millions,"python, pytorch, aws",Fresher,2024-02-01,14.0,1
+Mobile Developer,Tech Company 328,Ha Noi,26-55 millions,"swift, ios",Senior,2025-01-21,40.5,3
+Tester/QA,Tech Company 201,Ho Chi Minh,7-19 millions,"manual testing, sql",Fresher,2024-12-05,13.0,1
+AI/ML Engineer,Tech Company 176,Da Nang,21-47 millions,"python, nlp, huggingface",Senior,2025-12-19,34.0,3
+Tester/QA,Tech Company 475,Ho Chi Minh,26-59 millions,"java, appium",Senior,2025-05-25,42.5,3
+Fullstack Developer,Tech Company 84,Ha Noi,29-58 millions,"python, vuejs, docker",Senior,2025-11-11,43.5,3
+AI/ML Engineer,Tech Company 64,Ho Chi Minh,16-28 millions,"python, tensorflow, cv",Junior,2025-08-30,22.0,2
+Mobile Developer,Tech Company 71,Ho Chi Minh,9-16 millions,"swift, ios",Fresher,2024-09-14,12.5,1
+Fullstack Developer,Tech Company 222,Ho Chi Minh,17-28 millions,"react, node.js, mongo",Junior,2024-07-20,22.5,2
+Data Scientist,Tech Company 327,Ho Chi Minh,27-56 millions,"python, pandas, scikit-learn",Senior,2025-11-25,41.5,3
+Frontend Developer,Tech Company 289,Ho Chi Minh,18-30 millions,"angular, rxjs",Junior,2024-06-26,24.0,2
+Fullstack Developer,Tech Company 284,Da Nang,14-23 millions,"python, vuejs, docker",Junior,2025-03-02,18.5,2
+AI/ML Engineer,Tech Company 193,Ho Chi Minh,18-29 millions,"c++, cuda, computer vision",Junior,2024-07-06,23.5,2
+Frontend Developer,Tech Company 479,Ha Noi,27-58 millions,"vuejs, nuxt",Senior,2025-05-30,42.5,3
+DevOps Engineer,Tech Company 15,Ho Chi Minh,27-59 millions,"azure, ci/cd, terraform",Senior,2025-04-17,43.0,3
+Mobile Developer,Tech Company 403,Ho Chi Minh,45-80 millions,"flutter, dart",Lead,2024-11-05,62.5,4
+Fullstack Developer,Tech Company 28,Ha Noi,16-30 millions,"python, vuejs, docker",Junior,2024-10-27,23.0,2
+Mobile Developer,Tech Company 236,Ho Chi Minh,27-58 millions,"flutter, dart",Senior,2025-06-14,42.5,3
+AI/ML Engineer,Tech Company 290,Ho Chi Minh,25-57 millions,"c++, cuda, computer vision",Senior,2024-10-24,41.0,3
+Backend Developer,Tech Company 360,Ho Chi Minh,17-30 millions,"python, django",Junior,2024-02-24,23.5,2
+Tester/QA,Tech Company 155,Ho Chi Minh,15-30 millions,"manual testing, sql",Junior,2024-06-07,22.5,2
+Backend Developer,Tech Company 1,Ha Noi,27-56 millions,"node.js, express",Senior,2024-03-09,41.5,3
+Frontend Developer,Tech Company 228,Da Nang,12-24 millions,"vuejs, nuxt",Junior,2025-06-01,18.0,2
+AI/ML Engineer,Tech Company 431,Da Nang,13-23 millions,"python, nlp, huggingface",Junior,2024-08-28,18.0,2
+Fullstack Developer,Tech Company 246,Ha Noi,28-57 millions,"python, vuejs, docker",Senior,2025-05-02,42.5,3
+Tester/QA,Tech Company 410,Ha Noi,17-29 millions,"java, appium",Junior,2025-12-15,23.0,2
+Mobile Developer,Tech Company 200,Ho Chi Minh,6-18 millions,react native,Fresher,2025-07-31,12.0,1
+Tester/QA,Tech Company 240,Ho Chi Minh,10-18 millions,"selenium, python",Fresher,2024-05-22,14.0,1
+Backend Developer,Tech Company 108,Ha Noi,43-81 millions,"java, spring boot",Lead,2025-05-30,62.0,4
+Mobile Developer,Tech Company 369,Ha Noi,15-28 millions,"flutter, dart",Junior,2025-11-02,21.5,2
+Fullstack Developer,Tech Company 35,Ha Noi,28-58 millions,"java, angular, sql",Senior,2025-02-07,43.0,3
+Mobile Developer,Tech Company 475,Ha Noi,44-77 millions,"kotlin, android",Lead,2025-12-26,60.5,4
+AI/ML Engineer,Tech Company 179,Ha Noi,28-57 millions,"python, tensorflow, cv",Senior,2025-08-17,42.5,3
+Frontend Developer,Tech Company 50,Ha Noi,25-58 millions,"reactjs, typescript",Senior,2024-08-25,41.5,3
+Tester/QA,Tech Company 54,Ha Noi,28-59 millions,"java, appium",Senior,2024-08-30,43.5,3
+Mobile Developer,Tech Company 59,Ho Chi Minh,45-77 millions,"kotlin, android",Lead,2024-09-13,61.0,4
+Tester/QA,Tech Company 165,Ha Noi,9-20 millions,"java, appium",Fresher,2024-06-27,14.5,1
+Fullstack Developer,Tech Company 252,Ho Chi Minh,9-17 millions,"python, vuejs, docker",Fresher,2024-09-15,13.0,1
+Data Scientist,Tech Company 45,Ho Chi Minh,15-31 millions,"python, pytorch, aws",Junior,2024-07-15,23.0,2
+Frontend Developer,Tech Company 271,Ha Noi,26-58 millions,"angular, rxjs",Senior,2025-10-19,42.0,3
+Tester/QA,Tech Company 411,Ha Noi,15-31 millions,"java, appium",Junior,2024-05-21,23.0,2
+Mobile Developer,Tech Company 153,Ho Chi Minh,9-17 millions,"flutter, dart",Fresher,2025-06-13,13.0,1
+Backend Developer,Tech Company 473,Ha Noi,6-20 millions,"go, microservices",Fresher,2024-10-23,13.0,1
+DevOps Engineer,Tech Company 39,Ho Chi Minh,28-55 millions,"aws, docker, k8s",Senior,2024-10-21,41.5,3
+AI/ML Engineer,Tech Company 299,Ho Chi Minh,27-57 millions,"python, nlp, huggingface",Senior,2024-04-23,42.0,3
+AI/ML Engineer,Tech Company 103,Da Nang,11-24 millions,"c++, cuda, computer vision",Junior,2024-09-24,17.5,2
+Frontend Developer,Tech Company 307,Ho Chi Minh,43-77 millions,"reactjs, typescript",Lead,2025-03-02,60.0,4
+Tester/QA,Tech Company 255,Da Nang,21-45 millions,"manual testing, sql",Senior,2024-02-06,33.0,3
+Mobile Developer,Tech Company 11,Ha Noi,26-59 millions,"kotlin, android",Senior,2024-08-21,42.5,3
+Data Scientist,Tech Company 378,Ho Chi Minh,44-78 millions,"python, pytorch, aws",Lead,2025-12-01,61.0,4
+Mobile Developer,Tech Company 282,Ha Noi,9-18 millions,"kotlin, android",Fresher,2025-03-13,13.5,1
+DevOps Engineer,Tech Company 122,Ho Chi Minh,7-18 millions,"azure, ci/cd, terraform",Fresher,2024-02-29,12.5,1
+Data Scientist,Tech Company 291,Ha Noi,17-31 millions,"sql, tableau, python",Junior,2025-07-03,24.0,2
+Data Scientist,Tech Company 145,Ha Noi,7-17 millions,"python, pandas, scikit-learn",Fresher,2024-07-03,12.0,1
+Data Scientist,Tech Company 63,Ho Chi Minh,7-18 millions,"sql, tableau, python",Fresher,2025-11-04,12.5,1
+Data Scientist,Tech Company 228,Ho Chi Minh,28-59 millions,"sql, tableau, python",Senior,2024-08-13,43.5,3
+AI/ML Engineer,Tech Company 358,Da Nang,21-49 millions,"c++, cuda, computer vision",Senior,2024-11-22,35.0,3
+DevOps Engineer,Tech Company 41,Ho Chi Minh,28-58 millions,"azure, ci/cd, terraform",Senior,2024-10-13,43.0,3
+Data Scientist,Tech Company 372,Ho Chi Minh,17-28 millions,"sql, tableau, python",Junior,2025-01-16,22.5,2
+Data Scientist,Tech Company 11,Ho Chi Minh,27-58 millions,"python, pytorch, aws",Senior,2024-04-26,42.5,3
+AI/ML Engineer,Tech Company 31,Ho Chi Minh,16-31 millions,"c++, cuda, computer vision",Junior,2024-03-27,23.5,2
+Tester/QA,Tech Company 115,Ha Noi,17-29 millions,"selenium, python",Junior,2024-02-15,23.0,2
+Mobile Developer,Tech Company 480,Ho Chi Minh,17-27 millions,"flutter, dart",Junior,2024-12-22,22.0,2
+DevOps Engineer,Tech Company 175,Ha Noi,10-19 millions,"azure, ci/cd, terraform",Fresher,2024-01-29,14.5,1
+Mobile Developer,Tech Company 148,Ha Noi,28-57 millions,"flutter, dart",Senior,2025-11-25,42.5,3
+Data Scientist,Tech Company 487,Ho Chi Minh,18-28 millions,"python, pandas, scikit-learn",Junior,2025-11-29,23.0,2
+AI/ML Engineer,Tech Company 186,Can Tho,13-22 millions,"python, nlp, huggingface",Junior,2024-10-07,17.5,2
+Backend Developer,Tech Company 434,Ho Chi Minh,15-30 millions,"python, django",Junior,2024-09-27,22.5,2
+Tester/QA,Tech Company 327,Ha Noi,16-32 millions,"selenium, python",Junior,2025-05-06,24.0,2
+Backend Developer,Tech Company 489,Ho Chi Minh,26-58 millions,"python, django",Senior,2024-11-17,42.0,3
+AI/ML Engineer,Tech Company 90,Ho Chi Minh,10-17 millions,"python, nlp, huggingface",Fresher,2025-10-07,13.5,1
+Backend Developer,Tech Company 500,Ha Noi,42-80 millions,"java, spring boot",Lead,2024-09-22,61.0,4
+DevOps Engineer,Tech Company 56,Ha Noi,17-30 millions,"linux, jenkins, ansible",Junior,2024-12-24,23.5,2
+Frontend Developer,Tech Company 213,Ho Chi Minh,7-19 millions,"vuejs, nuxt",Fresher,2025-11-28,13.0,1
+DevOps Engineer,Tech Company 83,Da Nang,55-91 millions,"azure, ci/cd, terraform",Manager,2024-02-01,73.0,5
+Fullstack Developer,Tech Company 262,Ho Chi Minh,14-30 millions,"python, vuejs, docker",Junior,2024-11-16,22.0,2
+Frontend Developer,Tech Company 258,Ha Noi,18-32 millions,"reactjs, typescript",Junior,2025-08-01,25.0,2
+Mobile Developer,Tech Company 311,Ha Noi,67-112 millions,"flutter, dart",Manager,2024-02-22,89.5,5
+Tester/QA,Tech Company 467,Ha Noi,15-31 millions,"java, appium",Junior,2024-10-27,23.0,2
+DevOps Engineer,Tech Company 355,Ho Chi Minh,16-31 millions,"aws, docker, k8s",Junior,2024-04-28,23.5,2
+Mobile Developer,Tech Company 469,Ha Noi,14-30 millions,"swift, ios",Junior,2024-03-19,22.0,2
+Data Scientist,Tech Company 474,Ha Noi,17-28 millions,"sql, tableau, python",Junior,2024-05-08,22.5,2
+Mobile Developer,Tech Company 161,Ha Noi,27-58 millions,react native,Senior,2024-12-15,42.5,3
+Fullstack Developer,Tech Company 461,Ho Chi Minh,8-20 millions,"python, vuejs, docker",Fresher,2024-07-21,14.0,1
+Fullstack Developer,Tech Company 477,Ha Noi,16-31 millions,"react, node.js, mongo",Junior,2025-12-29,23.5,2
+Backend Developer,Tech Company 68,Ho Chi Minh,14-28 millions,"node.js, express",Junior,2024-03-15,21.0,2
+Mobile Developer,Tech Company 124,Ha Noi,26-57 millions,"kotlin, android",Senior,2025-07-24,41.5,3
+DevOps Engineer,Tech Company 38,Ho Chi Minh,27-55 millions,"linux, jenkins, ansible",Senior,2024-02-16,41.0,3
+Tester/QA,Tech Company 149,Ho Chi Minh,28-58 millions,"automation, cypress",Senior,2025-03-22,43.0,3
+Fullstack Developer,Tech Company 43,Ha Noi,28-59 millions,"python, vuejs, docker",Senior,2025-06-05,43.5,3
+DevOps Engineer,Tech Company 91,Ho Chi Minh,17-29 millions,"linux, jenkins, ansible",Junior,2025-03-25,23.0,2
+Frontend Developer,Tech Company 266,Ha Noi,26-56 millions,"vuejs, nuxt",Senior,2025-07-31,41.0,3
+Mobile Developer,Tech Company 489,Ha Noi,43-78 millions,"swift, ios",Lead,2024-07-01,60.5,4
+Data Scientist,Tech Company 161,Ha Noi,8-19 millions,"sql, tableau, python",Fresher,2025-09-22,13.5,1
+Frontend Developer,Tech Company 148,Ho Chi Minh,7-18 millions,"angular, rxjs",Fresher,2024-06-22,12.5,1
+DevOps Engineer,Tech Company 375,Ha Noi,15-32 millions,"aws, docker, k8s",Junior,2025-03-12,23.5,2
+Tester/QA,Tech Company 228,Ho Chi Minh,18-31 millions,"java, appium",Junior,2024-05-02,24.5,2
+Frontend Developer,Tech Company 496,Ha Noi,45-80 millions,"vuejs, nuxt",Lead,2024-04-29,62.5,4
+Data Scientist,Tech Company 142,Ho Chi Minh,14-28 millions,"python, pytorch, aws",Junior,2024-12-09,21.0,2
+Frontend Developer,Tech Company 478,Ha Noi,18-27 millions,"angular, rxjs",Junior,2024-04-12,22.5,2
+Data Scientist,Tech Company 486,Ha Noi,28-59 millions,"python, pytorch, aws",Senior,2024-02-06,43.5,3
+Fullstack Developer,Tech Company 101,Ho Chi Minh,27-59 millions,"python, vuejs, docker",Senior,2025-11-20,43.0,3
+Fullstack Developer,Tech Company 449,Ho Chi Minh,16-28 millions,"python, vuejs, docker",Junior,2025-10-12,22.0,2
+AI/ML Engineer,Tech Company 179,Ho Chi Minh,27-57 millions,"c++, cuda, computer vision",Senior,2025-10-15,42.0,3
+Fullstack Developer,Tech Company 249,Ha Noi,17-31 millions,"java, angular, sql",Junior,2025-11-15,24.0,2
+DevOps Engineer,Tech Company 494,Ha Noi,16-27 millions,"linux, jenkins, ansible",Junior,2024-04-25,21.5,2
+DevOps Engineer,Tech Company 66,Ha Noi,7-19 millions,"linux, jenkins, ansible",Fresher,2025-12-22,13.0,1
+Tester/QA,Tech Company 260,Ha Noi,28-55 millions,"automation, cypress",Senior,2024-10-01,41.5,3
+Mobile Developer,Tech Company 163,Da Nang,13-24 millions,"flutter, dart",Junior,2025-11-22,18.5,2
+Mobile Developer,Tech Company 373,Ha Noi,15-27 millions,"kotlin, android",Junior,2025-05-12,21.0,2
+Backend Developer,Tech Company 275,Ha Noi,16-28 millions,"go, microservices",Junior,2024-06-19,22.0,2
+DevOps Engineer,Tech Company 411,Ha Noi,16-27 millions,"aws, docker, k8s",Junior,2024-01-22,21.5,2
+DevOps Engineer,Tech Company 26,Ha Noi,17-30 millions,"azure, ci/cd, terraform",Junior,2025-11-01,23.5,2
+Data Scientist,Tech Company 149,Ho Chi Minh,28-56 millions,"python, pandas, scikit-learn",Senior,2024-08-22,42.0,3
+DevOps Engineer,Tech Company 19,Da Nang,21-48 millions,"azure, ci/cd, terraform",Senior,2024-01-14,34.5,3
+Frontend Developer,Tech Company 155,Ha Noi,28-55 millions,"html, css, js",Senior,2024-10-16,41.5,3
+Data Scientist,Tech Company 336,Ha Noi,7-17 millions,"python, pandas, scikit-learn",Fresher,2025-01-21,12.0,1
+AI/ML Engineer,Tech Company 391,Ha Noi,14-30 millions,"python, tensorflow, cv",Junior,2025-12-21,22.0,2
+Fullstack Developer,Tech Company 426,Ho Chi Minh,28-58 millions,"react, node.js, mongo",Senior,2024-07-17,43.0,3
+DevOps Engineer,Tech Company 235,Ho Chi Minh,27-55 millions,"azure, ci/cd, terraform",Senior,2024-10-07,41.0,3
+Data Scientist,Tech Company 488,Ho Chi Minh,14-29 millions,"sql, tableau, python",Junior,2025-02-07,21.5,2
+Frontend Developer,Tech Company 395,Ha Noi,15-32 millions,"html, css, js",Junior,2025-02-10,23.5,2
+Frontend Developer,Tech Company 49,Ho Chi Minh,15-31 millions,"angular, rxjs",Junior,2024-03-26,23.0,2
+Tester/QA,Tech Company 268,Ho Chi Minh,25-57 millions,"manual testing, sql",Senior,2025-04-29,41.0,3
+Data Scientist,Tech Company 380,Ha Noi,28-56 millions,"python, pandas, scikit-learn",Senior,2024-11-14,42.0,3
+DevOps Engineer,Tech Company 138,Ho Chi Minh,16-29 millions,"linux, jenkins, ansible",Junior,2024-01-06,22.5,2
+Tester/QA,Tech Company 237,Ha Noi,26-58 millions,"automation, cypress",Senior,2024-11-25,42.0,3
+Frontend Developer,Tech Company 388,Ha Noi,27-55 millions,"reactjs, typescript",Senior,2024-05-10,41.0,3
+Frontend Developer,Tech Company 20,Ha Noi,7-20 millions,"vuejs, nuxt",Fresher,2024-04-26,13.5,1
+Fullstack Developer,Tech Company 488,Ho Chi Minh,26-58 millions,"react, node.js, mongo",Senior,2025-09-20,42.0,3
+AI/ML Engineer,Tech Company 85,Ha Noi,27-59 millions,"python, nlp, huggingface",Senior,2024-05-18,43.0,3
+Frontend Developer,Tech Company 305,Ho Chi Minh,15-27 millions,"html, css, js",Junior,2025-04-24,21.0,2
+Data Scientist,Tech Company 146,Ho Chi Minh,17-32 millions,"sql, tableau, python",Junior,2024-10-08,24.5,2
+AI/ML Engineer,Tech Company 288,Da Nang,22-47 millions,"python, nlp, huggingface",Senior,2024-09-17,34.5,3
+Frontend Developer,Tech Company 135,Ha Noi,25-56 millions,"vuejs, nuxt",Senior,2024-07-01,40.5,3
+Mobile Developer,Tech Company 142,Ho Chi Minh,27-59 millions,"swift, ios",Senior,2025-09-11,43.0,3
+Tester/QA,Tech Company 47,Ha Noi,64-113 millions,"manual testing, sql",Manager,2024-08-09,88.5,5
+Fullstack Developer,Tech Company 459,Ha Noi,43-77 millions,"react, node.js, mongo",Lead,2024-03-20,60.0,4
+Tester/QA,Tech Company 390,Ho Chi Minh,66-111 millions,"automation, cypress",Manager,2025-05-27,88.5,5
+Mobile Developer,Tech Company 163,Ha Noi,9-18 millions,"kotlin, android",Fresher,2025-06-18,13.5,1
+Data Scientist,Tech Company 74,Da Nang,24-49 millions,"python, pandas, scikit-learn",Senior,2025-12-29,36.5,3
+Tester/QA,Tech Company 334,Ha Noi,28-57 millions,"java, appium",Senior,2025-03-21,42.5,3
+DevOps Engineer,Tech Company 110,Ho Chi Minh,17-29 millions,"azure, ci/cd, terraform",Junior,2025-03-10,23.0,2
+Backend Developer,Tech Company 258,Ha Noi,15-32 millions,"go, microservices",Junior,2024-09-16,23.5,2
+Backend Developer,Tech Company 361,Ha Noi,44-78 millions,"go, microservices",Lead,2025-12-13,61.0,4
+Frontend Developer,Tech Company 79,Da Nang,12-25 millions,"reactjs, typescript",Junior,2025-12-31,18.5,2
+Fullstack Developer,Tech Company 228,Ho Chi Minh,27-59 millions,"react, node.js, mongo",Senior,2024-02-27,43.0,3
+Frontend Developer,Tech Company 378,Ho Chi Minh,29-55 millions,"angular, rxjs",Senior,2025-09-20,42.0,3
+DevOps Engineer,Tech Company 265,Ha Noi,7-21 millions,"linux, jenkins, ansible",Fresher,2025-01-10,14.0,1
+Mobile Developer,Tech Company 76,Ha Noi,7-20 millions,"flutter, dart",Fresher,2025-05-28,13.5,1
+Tester/QA,Tech Company 210,Ho Chi Minh,26-55 millions,"selenium, python",Senior,2025-06-01,40.5,3
+Backend Developer,Tech Company 239,Ha Noi,15-29 millions,"go, microservices",Junior,2024-12-15,22.0,2
+Tester/QA,Tech Company 96,Ha Noi,25-55 millions,"selenium, python",Senior,2024-03-29,40.0,3
+Backend Developer,Tech Company 236,Ha Noi,17-28 millions,"java, spring boot",Junior,2025-01-18,22.5,2
+Data Scientist,Tech Company 383,Ha Noi,10-19 millions,"sql, tableau, python",Fresher,2024-07-14,14.5,1
+Backend Developer,Tech Company 290,Ho Chi Minh,28-55 millions,"node.js, express",Senior,2024-05-23,41.5,3
+Data Scientist,Tech Company 133,Ho Chi Minh,18-28 millions,"sql, tableau, python",Junior,2024-10-29,23.0,2
+Tester/QA,Tech Company 268,Ho Chi Minh,27-56 millions,"java, appium",Senior,2025-10-19,41.5,3
+Fullstack Developer,Tech Company 276,Ha Noi,18-30 millions,"react, node.js, mongo",Junior,2024-06-08,24.0,2
+Mobile Developer,Tech Company 107,Can Tho,23-48 millions,"swift, ios",Senior,2024-10-22,35.5,3
+AI/ML Engineer,Tech Company 240,Remote,15-27 millions,"python, tensorflow, cv",Junior,2024-08-11,21.0,2
+Fullstack Developer,Tech Company 289,Da Nang,12-25 millions,"java, angular, sql",Junior,2025-01-16,18.5,2
+Backend Developer,Tech Company 82,Ha Noi,17-30 millions,"go, microservices",Junior,2024-01-09,23.5,2
+Frontend Developer,Tech Company 280,Ho Chi Minh,18-29 millions,"vuejs, nuxt",Junior,2025-04-23,23.5,2
+Tester/QA,Tech Company 130,Ho Chi Minh,17-29 millions,"automation, cypress",Junior,2024-09-06,23.0,2
+Tester/QA,Tech Company 391,Ha Noi,26-59 millions,"automation, cypress",Senior,2024-08-27,42.5,3
+Frontend Developer,Tech Company 206,Da Nang,35-64 millions,"html, css, js",Lead,2025-08-14,49.5,4
+AI/ML Engineer,Tech Company 224,Da Nang,5-14 millions,"python, nlp, huggingface",Fresher,2024-07-27,9.5,1
+DevOps Engineer,Tech Company 282,Ho Chi Minh,8-18 millions,"aws, docker, k8s",Fresher,2025-04-27,13.0,1
+Tester/QA,Tech Company 199,Ha Noi,28-58 millions,"automation, cypress",Senior,2024-04-08,43.0,3
+Fullstack Developer,Tech Company 374,Ha Noi,9-20 millions,"java, angular, sql",Fresher,2025-11-21,14.5,1
+Frontend Developer,Tech Company 14,Ha Noi,43-80 millions,"angular, rxjs",Lead,2025-08-23,61.5,4
+Data Scientist,Tech Company 313,Ha Noi,15-30 millions,"sql, tableau, python",Junior,2024-01-02,22.5,2
+Fullstack Developer,Tech Company 421,Ho Chi Minh,15-29 millions,"java, angular, sql",Junior,2025-11-22,22.0,2
+Mobile Developer,Tech Company 239,Ho Chi Minh,15-30 millions,react native,Junior,2024-04-18,22.5,2
+Frontend Developer,Tech Company 66,Ho Chi Minh,28-55 millions,"html, css, js",Senior,2024-11-22,41.5,3
+AI/ML Engineer,Tech Company 258,Ho Chi Minh,28-58 millions,"c++, cuda, computer vision",Senior,2025-04-06,43.0,3
+DevOps Engineer,Tech Company 218,Ha Noi,18-28 millions,"linux, jenkins, ansible",Junior,2024-07-02,23.0,2
+Frontend Developer,Tech Company 303,Ho Chi Minh,25-59 millions,"vuejs, nuxt",Senior,2025-12-25,42.0,3
+Tester/QA,Tech Company 445,Ha Noi,14-28 millions,"automation, cypress",Junior,2024-05-04,21.0,2
+DevOps Engineer,Tech Company 278,Ho Chi Minh,16-30 millions,"azure, ci/cd, terraform",Junior,2024-01-25,23.0,2
+Mobile Developer,Tech Company 306,Ho Chi Minh,16-28 millions,"flutter, dart",Junior,2024-02-06,22.0,2
+Mobile Developer,Tech Company 373,Ha Noi,7-19 millions,react native,Fresher,2024-05-09,13.0,1
+AI/ML Engineer,Tech Company 471,Ha Noi,10-19 millions,"python, nlp, huggingface",Fresher,2024-09-06,14.5,1
+Tester/QA,Tech Company 312,Ha Noi,25-56 millions,"selenium, python",Senior,2024-05-30,40.5,3
+Frontend Developer,Tech Company 475,Ha Noi,66-113 millions,"html, css, js",Manager,2024-12-11,89.5,5
+Mobile Developer,Tech Company 381,Ho Chi Minh,26-58 millions,"flutter, dart",Senior,2025-10-30,42.0,3
+Mobile Developer,Tech Company 316,Ha Noi,45-79 millions,"flutter, dart",Lead,2024-11-06,62.0,4
+Data Scientist,Tech Company 111,Da Nang,23-46 millions,"python, pytorch, aws",Senior,2025-04-29,34.5,3
+Fullstack Developer,Tech Company 466,Ho Chi Minh,27-55 millions,"java, angular, sql",Senior,2025-02-12,41.0,3
+Backend Developer,Tech Company 67,Ho Chi Minh,15-31 millions,"node.js, express",Junior,2025-11-03,23.0,2
+DevOps Engineer,Tech Company 114,Ha Noi,15-27 millions,"aws, docker, k8s",Junior,2024-11-28,21.0,2
+Tester/QA,Tech Company 244,Ho Chi Minh,9-18 millions,"automation, cypress",Fresher,2025-02-02,13.5,1
+DevOps Engineer,Tech Company 438,Ho Chi Minh,43-79 millions,"azure, ci/cd, terraform",Lead,2025-04-18,61.0,4
+Fullstack Developer,Tech Company 437,Ho Chi Minh,27-57 millions,"python, vuejs, docker",Senior,2025-11-07,42.0,3
+Tester/QA,Tech Company 190,Ho Chi Minh,25-58 millions,"java, appium",Senior,2025-06-26,41.5,3
+Tester/QA,Tech Company 320,Ha Noi,14-30 millions,"automation, cypress",Junior,2024-06-19,22.0,2
+Backend Developer,Tech Company 193,Ho Chi Minh,16-29 millions,"go, microservices",Junior,2024-08-28,22.5,2
+Frontend Developer,Tech Company 293,Ho Chi Minh,43-78 millions,"reactjs, typescript",Lead,2024-04-23,60.5,4
+Mobile Developer,Tech Company 143,Da Nang,12-23 millions,"kotlin, android",Junior,2025-09-05,17.5,2
+Frontend Developer,Tech Company 440,Ho Chi Minh,16-30 millions,"angular, rxjs",Junior,2024-08-18,23.0,2
+AI/ML Engineer,Tech Company 148,Ha Noi,15-31 millions,"python, nlp, huggingface",Junior,2025-02-13,23.0,2
+Tester/QA,Tech Company 335,Ha Noi,9-16 millions,"manual testing, sql",Fresher,2025-08-17,12.5,1
+Data Scientist,Tech Company 318,Ho Chi Minh,14-28 millions,"python, pytorch, aws",Junior,2025-09-16,21.0,2
+Mobile Developer,Tech Company 321,Ho Chi Minh,26-56 millions,"flutter, dart",Senior,2025-08-05,41.0,3
+DevOps Engineer,Tech Company 200,Ho Chi Minh,17-31 millions,"aws, docker, k8s",Junior,2025-10-31,24.0,2
+Fullstack Developer,Tech Company 242,Da Nang,21-49 millions,"java, angular, sql",Senior,2024-06-28,35.0,3
+DevOps Engineer,Tech Company 296,Da Nang,35-67 millions,"aws, docker, k8s",Lead,2024-07-30,51.0,4
+Tester/QA,Tech Company 329,Ho Chi Minh,17-32 millions,"manual testing, sql",Junior,2025-05-27,24.5,2
+DevOps Engineer,Tech Company 4,Ha Noi,7-20 millions,"aws, docker, k8s",Fresher,2024-03-12,13.5,1
+Mobile Developer,Tech Company 491,Ha Noi,28-55 millions,"kotlin, android",Senior,2025-03-03,41.5,3
+Frontend Developer,Tech Company 150,Ha Noi,16-31 millions,"reactjs, typescript",Junior,2024-03-02,23.5,2
+Backend Developer,Tech Company 333,Ha Noi,27-59 millions,"go, microservices",Senior,2025-10-06,43.0,3
+Frontend Developer,Tech Company 386,Ha Noi,17-31 millions,"vuejs, nuxt",Junior,2025-08-16,24.0,2
+Backend Developer,Tech Company 451,Ho Chi Minh,15-28 millions,"java, spring boot",Junior,2024-08-14,21.5,2
+AI/ML Engineer,Tech Company 157,Ho Chi Minh,18-28 millions,"python, nlp, huggingface",Junior,2025-10-11,23.0,2
+Data Scientist,Tech Company 300,Ho Chi Minh,17-30 millions,"python, pandas, scikit-learn",Junior,2024-05-31,23.5,2
+Mobile Developer,Tech Company 330,Ho Chi Minh,9-17 millions,"kotlin, android",Fresher,2024-12-18,13.0,1
+DevOps Engineer,Tech Company 332,Da Nang,12-26 millions,"linux, jenkins, ansible",Junior,2025-05-11,19.0,2
+Fullstack Developer,Tech Company 176,Ha Noi,18-27 millions,"java, angular, sql",Junior,2024-03-07,22.5,2
+Fullstack Developer,Tech Company 333,Ho Chi Minh,16-31 millions,"java, angular, sql",Junior,2024-05-02,23.5,2
+Backend Developer,Tech Company 205,Ha Noi,17-29 millions,"java, spring boot",Junior,2024-02-03,23.0,2
+Frontend Developer,Tech Company 447,Remote,26-55 millions,"angular, rxjs",Senior,2025-07-04,40.5,3
+Tester/QA,Tech Company 354,Ha Noi,7-20 millions,"manual testing, sql",Fresher,2024-07-06,13.5,1
+Data Scientist,Tech Company 268,Ho Chi Minh,28-55 millions,"python, pytorch, aws",Senior,2024-05-15,41.5,3
+Frontend Developer,Tech Company 102,Ho Chi Minh,43-79 millions,"vuejs, nuxt",Lead,2025-05-02,61.0,4
+Tester/QA,Tech Company 369,Ha Noi,9-19 millions,"java, appium",Fresher,2024-04-24,14.0,1
+AI/ML Engineer,Tech Company 264,Ho Chi Minh,17-29 millions,"python, nlp, huggingface",Junior,2025-05-09,23.0,2
+AI/ML Engineer,Tech Company 258,Ha Noi,15-28 millions,"c++, cuda, computer vision",Junior,2025-07-28,21.5,2
+Fullstack Developer,Tech Company 241,Ho Chi Minh,14-31 millions,"java, angular, sql",Junior,2025-06-05,22.5,2
+Mobile Developer,Tech Company 327,Ho Chi Minh,14-31 millions,"swift, ios",Junior,2024-12-16,22.5,2
+Data Scientist,Tech Company 157,Ha Noi,28-56 millions,"python, pandas, scikit-learn",Senior,2025-05-28,42.0,3
+Frontend Developer,Tech Company 80,Ha Noi,18-28 millions,"angular, rxjs",Junior,2025-11-19,23.0,2
+Mobile Developer,Tech Company 167,Ho Chi Minh,17-30 millions,react native,Junior,2024-06-09,23.5,2
+Mobile Developer,Tech Company 190,Remote,61-106 millions,"swift, ios",Manager,2024-11-06,83.5,5
+DevOps Engineer,Tech Company 202,Ho Chi Minh,8-18 millions,"linux, jenkins, ansible",Fresher,2025-07-30,13.0,1
+Mobile Developer,Tech Company 500,Ho Chi Minh,29-56 millions,"flutter, dart",Senior,2024-05-23,42.5,3
+Data Scientist,Tech Company 13,Ho Chi Minh,17-28 millions,"python, pandas, scikit-learn",Junior,2025-01-17,22.5,2
+DevOps Engineer,Tech Company 317,Ha Noi,16-28 millions,"linux, jenkins, ansible",Junior,2024-08-08,22.0,2
+Frontend Developer,Tech Company 483,Da Nang,21-46 millions,"reactjs, typescript",Senior,2025-05-06,33.5,3
+Backend Developer,Tech Company 128,Ha Noi,28-59 millions,"node.js, express",Senior,2025-05-13,43.5,3
+Mobile Developer,Tech Company 276,Ha Noi,14-30 millions,"flutter, dart",Junior,2024-10-09,22.0,2
+Frontend Developer,Tech Company 397,Da Nang,12-26 millions,"html, css, js",Junior,2024-11-28,19.0,2
+Fullstack Developer,Tech Company 225,Ha Noi,26-55 millions,"python, vuejs, docker",Senior,2024-03-31,40.5,3
+AI/ML Engineer,Tech Company 72,Ha Noi,16-28 millions,"c++, cuda, computer vision",Junior,2024-01-23,22.0,2
+DevOps Engineer,Tech Company 95,Ho Chi Minh,29-57 millions,"azure, ci/cd, terraform",Senior,2024-08-07,43.0,3
+DevOps Engineer,Tech Company 448,Ha Noi,9-21 millions,"aws, docker, k8s",Fresher,2025-05-31,15.0,1
+Tester/QA,Tech Company 290,Ha Noi,27-58 millions,"java, appium",Senior,2024-03-18,42.5,3
+Frontend Developer,Tech Company 294,Ha Noi,9-20 millions,"vuejs, nuxt",Fresher,2024-03-30,14.5,1
+Data Scientist,Tech Company 239,Ha Noi,45-79 millions,"python, pandas, scikit-learn",Lead,2024-10-10,62.0,4
+Fullstack Developer,Tech Company 174,Da Nang,12-23 millions,"python, vuejs, docker",Junior,2025-08-12,17.5,2
+Mobile Developer,Tech Company 425,Ha Noi,16-28 millions,"flutter, dart",Junior,2025-09-30,22.0,2
+DevOps Engineer,Tech Company 346,Ho Chi Minh,15-31 millions,"azure, ci/cd, terraform",Junior,2025-08-21,23.0,2
+Data Scientist,Tech Company 79,Ha Noi,29-59 millions,"python, pytorch, aws",Senior,2025-08-13,44.0,3
+AI/ML Engineer,Tech Company 400,Ho Chi Minh,14-30 millions,"python, tensorflow, cv",Junior,2024-02-10,22.0,2
+Frontend Developer,Tech Company 107,Ho Chi Minh,10-21 millions,"angular, rxjs",Fresher,2025-11-04,15.5,1
+AI/ML Engineer,Tech Company 14,Ho Chi Minh,18-28 millions,"python, tensorflow, cv",Junior,2024-12-29,23.0,2
+Tester/QA,Tech Company 445,Da Nang,8-15 millions,"selenium, python",Fresher,2025-03-30,11.5,1
+Mobile Developer,Tech Company 395,Ha Noi,27-56 millions,"flutter, dart",Senior,2024-07-29,41.5,3
+Frontend Developer,Tech Company 63,Ha Noi,16-30 millions,"vuejs, nuxt",Junior,2025-06-12,23.0,2
+Tester/QA,Tech Company 108,Ho Chi Minh,17-29 millions,"java, appium",Junior,2024-07-14,23.0,2
+DevOps Engineer,Tech Company 9,Ha Noi,65-110 millions,"azure, ci/cd, terraform",Manager,2025-04-12,87.5,5
+Data Scientist,Tech Company 449,Ha Noi,42-80 millions,"python, pytorch, aws",Lead,2025-02-03,61.0,4
+AI/ML Engineer,Tech Company 434,Remote,16-27 millions,"c++, cuda, computer vision",Junior,2024-05-24,21.5,2
+Fullstack Developer,Tech Company 32,Ha Noi,15-30 millions,"python, vuejs, docker",Junior,2024-02-09,22.5,2
+AI/ML Engineer,Tech Company 89,Ho Chi Minh,27-59 millions,"python, nlp, huggingface",Senior,2025-03-05,43.0,3
+Fullstack Developer,Tech Company 451,Ha Noi,17-30 millions,"python, vuejs, docker",Junior,2025-01-08,23.5,2
+Backend Developer,Tech Company 466,Ha Noi,42-79 millions,"node.js, express",Lead,2025-01-17,60.5,4
+Backend Developer,Tech Company 377,Ha Noi,26-59 millions,"python, django",Senior,2024-02-05,42.5,3
+Backend Developer,Tech Company 81,Da Nang,37-66 millions,"node.js, express",Lead,2024-06-22,51.5,4
+Data Scientist,Tech Company 238,Ho Chi Minh,8-16 millions,"python, pandas, scikit-learn",Fresher,2025-05-02,12.0,1
+Tester/QA,Tech Company 160,Da Nang,55-94 millions,"manual testing, sql",Manager,2024-01-01,74.5,5
+AI/ML Engineer,Tech Company 343,Da Nang,12-25 millions,"python, tensorflow, cv",Junior,2025-09-20,18.5,2
+Data Scientist,Tech Company 116,Ha Noi,26-55 millions,"python, pandas, scikit-learn",Senior,2024-05-26,40.5,3
+Mobile Developer,Tech Company 129,Ha Noi,29-55 millions,"swift, ios",Senior,2024-08-19,42.0,3
+DevOps Engineer,Tech Company 265,Ha Noi,18-30 millions,"linux, jenkins, ansible",Junior,2025-06-16,24.0,2
+Fullstack Developer,Tech Company 378,Da Nang,22-48 millions,"java, angular, sql",Senior,2025-08-16,35.0,3
+Mobile Developer,Tech Company 74,Ho Chi Minh,45-81 millions,"flutter, dart",Lead,2024-01-15,63.0,4
+Data Scientist,Tech Company 248,Ha Noi,27-55 millions,"python, pandas, scikit-learn",Senior,2025-05-07,41.0,3
+Mobile Developer,Tech Company 280,Ho Chi Minh,45-79 millions,"kotlin, android",Lead,2024-09-26,62.0,4
+DevOps Engineer,Tech Company 414,Ha Noi,18-28 millions,"azure, ci/cd, terraform",Junior,2024-12-15,23.0,2
+Tester/QA,Tech Company 135,Ha Noi,44-78 millions,"selenium, python",Lead,2025-06-15,61.0,4
+Backend Developer,Tech Company 62,Ho Chi Minh,7-21 millions,"java, spring boot",Fresher,2024-04-23,14.0,1
+DevOps Engineer,Tech Company 495,Ho Chi Minh,27-57 millions,"azure, ci/cd, terraform",Senior,2024-03-25,42.0,3
+Mobile Developer,Tech Company 102,Ha Noi,42-80 millions,react native,Lead,2024-01-18,61.0,4
+Fullstack Developer,Tech Company 186,Ho Chi Minh,28-57 millions,"python, vuejs, docker",Senior,2025-06-29,42.5,3
+Fullstack Developer,Tech Company 325,Ha Noi,26-58 millions,"java, angular, sql",Senior,2025-10-12,42.0,3
+Fullstack Developer,Tech Company 143,Ho Chi Minh,45-80 millions,"python, vuejs, docker",Lead,2024-07-26,62.5,4
+AI/ML Engineer,Tech Company 160,Ho Chi Minh,14-31 millions,"python, tensorflow, cv",Junior,2025-11-15,22.5,2
+Frontend Developer,Tech Company 422,Ha Noi,17-28 millions,"reactjs, typescript",Junior,2025-05-07,22.5,2
+Data Scientist,Tech Company 303,Remote,16-29 millions,"sql, tableau, python",Junior,2025-02-04,22.5,2
+Frontend Developer,Tech Company 64,Ha Noi,18-28 millions,"vuejs, nuxt",Junior,2025-02-15,23.0,2
+Frontend Developer,Tech Company 278,Ha Noi,26-57 millions,"html, css, js",Senior,2024-05-07,41.5,3
+Frontend Developer,Tech Company 196,Ha Noi,29-59 millions,"angular, rxjs",Senior,2024-02-11,44.0,3
+Tester/QA,Tech Company 444,Ho Chi Minh,27-59 millions,"automation, cypress",Senior,2025-12-09,43.0,3
+Data Scientist,Tech Company 492,Ha Noi,25-59 millions,"python, pytorch, aws",Senior,2025-09-09,42.0,3
+Tester/QA,Tech Company 432,Ho Chi Minh,27-58 millions,"automation, cypress",Senior,2024-10-13,42.5,3
+AI/ML Engineer,Tech Company 183,Ho Chi Minh,27-57 millions,"c++, cuda, computer vision",Senior,2024-09-14,42.0,3
+Tester/QA,Tech Company 341,Ho Chi Minh,9-17 millions,"manual testing, sql",Fresher,2025-03-20,13.0,1
+Tester/QA,Tech Company 196,Can Tho,13-26 millions,"automation, cypress",Junior,2025-11-14,19.5,2
+Frontend Developer,Tech Company 298,Ho Chi Minh,7-20 millions,"reactjs, typescript",Fresher,2025-01-04,13.5,1
+Mobile Developer,Tech Company 404,Da Nang,23-45 millions,"kotlin, android",Senior,2025-10-24,34.0,3
+Backend Developer,Tech Company 343,Ha Noi,17-30 millions,"node.js, express",Junior,2025-03-18,23.5,2
+Fullstack Developer,Tech Company 472,Ho Chi Minh,44-78 millions,"react, node.js, mongo",Lead,2024-10-26,61.0,4
+Backend Developer,Tech Company 394,Ho Chi Minh,65-114 millions,"go, microservices",Manager,2024-09-26,89.5,5
+DevOps Engineer,Tech Company 433,Ho Chi Minh,27-56 millions,"linux, jenkins, ansible",Senior,2024-06-25,41.5,3
+DevOps Engineer,Tech Company 163,Ho Chi Minh,16-31 millions,"linux, jenkins, ansible",Junior,2024-08-21,23.5,2
+Frontend Developer,Tech Company 388,Ho Chi Minh,26-57 millions,"html, css, js",Senior,2024-07-09,41.5,3
+Tester/QA,Tech Company 387,Ho Chi Minh,15-29 millions,"java, appium",Junior,2025-01-05,22.0,2
+Backend Developer,Tech Company 359,Ho Chi Minh,15-29 millions,"python, django",Junior,2025-06-02,22.0,2
+Fullstack Developer,Tech Company 47,Ho Chi Minh,27-55 millions,"java, angular, sql",Senior,2024-04-05,41.0,3
+Mobile Developer,Tech Company 204,Da Nang,21-46 millions,"swift, ios",Senior,2024-12-28,33.5,3
+AI/ML Engineer,Tech Company 227,Ho Chi Minh,9-16 millions,"c++, cuda, computer vision",Fresher,2024-08-18,12.5,1
+Fullstack Developer,Tech Company 427,Ho Chi Minh,29-55 millions,"python, vuejs, docker",Senior,2024-08-17,42.0,3
+Data Scientist,Tech Company 152,Ho Chi Minh,28-56 millions,"sql, tableau, python",Senior,2024-01-13,42.0,3
+Tester/QA,Tech Company 99,Ho Chi Minh,16-30 millions,"automation, cypress",Junior,2025-08-04,23.0,2
+Mobile Developer,Tech Company 412,Ha Noi,17-31 millions,"kotlin, android",Junior,2025-01-07,24.0,2
+DevOps Engineer,Tech Company 69,Ho Chi Minh,26-56 millions,"aws, docker, k8s",Senior,2025-12-10,41.0,3
+Data Scientist,Tech Company 363,Ha Noi,16-27 millions,"python, pytorch, aws",Junior,2025-06-03,21.5,2
+Data Scientist,Tech Company 421,Ho Chi Minh,15-31 millions,"python, pytorch, aws",Junior,2025-07-21,23.0,2
+Backend Developer,Tech Company 34,Ha Noi,66-112 millions,"node.js, express",Manager,2025-03-22,89.0,5
+Tester/QA,Tech Company 76,Ho Chi Minh,67-112 millions,"selenium, python",Manager,2025-12-24,89.5,5
+AI/ML Engineer,Tech Company 366,Ho Chi Minh,7-20 millions,"c++, cuda, computer vision",Fresher,2024-01-29,13.5,1
+Mobile Developer,Tech Company 162,Ho Chi Minh,28-59 millions,react native,Senior,2025-08-23,43.5,3
+Fullstack Developer,Tech Company 428,Ho Chi Minh,7-21 millions,"python, vuejs, docker",Fresher,2024-07-02,14.0,1
+Tester/QA,Tech Company 294,Ha Noi,15-27 millions,"selenium, python",Junior,2025-02-17,21.0,2
+Mobile Developer,Tech Company 94,Ha Noi,28-55 millions,"kotlin, android",Senior,2024-12-17,41.5,3
+Mobile Developer,Tech Company 103,Ho Chi Minh,8-17 millions,"swift, ios",Fresher,2025-02-15,12.5,1
+Backend Developer,Tech Company 7,Ho Chi Minh,42-77 millions,"go, microservices",Lead,2025-06-25,59.5,4
+Backend Developer,Tech Company 326,Ho Chi Minh,10-21 millions,"go, microservices",Fresher,2024-07-12,15.5,1
+Data Scientist,Tech Company 308,Ho Chi Minh,25-58 millions,"sql, tableau, python",Senior,2024-06-07,41.5,3
+Tester/QA,Tech Company 16,Ho Chi Minh,16-31 millions,"manual testing, sql",Junior,2025-03-31,23.5,2
+Frontend Developer,Tech Company 472,Ho Chi Minh,26-55 millions,"html, css, js",Senior,2025-09-19,40.5,3
+Mobile Developer,Tech Company 174,Ha Noi,18-30 millions,"kotlin, android",Junior,2024-03-08,24.0,2
+Tester/QA,Tech Company 470,Ho Chi Minh,17-27 millions,"manual testing, sql",Junior,2024-03-01,22.0,2
+Frontend Developer,Tech Company 289,Ha Noi,66-111 millions,"reactjs, typescript",Manager,2025-06-23,88.5,5
+Mobile Developer,Tech Company 165,Ho Chi Minh,42-77 millions,"kotlin, android",Lead,2024-04-16,59.5,4
+AI/ML Engineer,Tech Company 358,Ha Noi,29-58 millions,"python, nlp, huggingface",Senior,2025-12-01,43.5,3
+Data Scientist,Tech Company 278,Ha Noi,8-19 millions,"python, pandas, scikit-learn",Fresher,2025-08-07,13.5,1
+Backend Developer,Tech Company 181,Ho Chi Minh,14-29 millions,"python, django",Junior,2024-07-11,21.5,2
+Fullstack Developer,Tech Company 254,Ha Noi,17-27 millions,"react, node.js, mongo",Junior,2024-07-27,22.0,2
+Backend Developer,Tech Company 60,Ha Noi,18-28 millions,"python, django",Junior,2025-12-06,23.0,2
+Data Scientist,Tech Company 200,Ho Chi Minh,45-81 millions,"python, pytorch, aws",Lead,2024-06-30,63.0,4
+Mobile Developer,Tech Company 343,Ho Chi Minh,26-57 millions,"flutter, dart",Senior,2025-09-28,41.5,3
+AI/ML Engineer,Tech Company 210,Da Nang,15-25 millions,"python, tensorflow, cv",Junior,2024-10-06,20.0,2
+Mobile Developer,Tech Company 130,Ho Chi Minh,26-59 millions,"kotlin, android",Senior,2025-05-14,42.5,3
+Mobile Developer,Tech Company 354,Ha Noi,28-57 millions,"flutter, dart",Senior,2025-11-09,42.5,3
+Frontend Developer,Tech Company 275,Ha Noi,18-29 millions,"vuejs, nuxt",Junior,2024-07-06,23.5,2
+AI/ML Engineer,Tech Company 275,Da Nang,14-25 millions,"c++, cuda, computer vision",Junior,2024-10-18,19.5,2
+AI/ML Engineer,Tech Company 487,Da Nang,14-24 millions,"python, tensorflow, cv",Junior,2024-07-25,19.0,2
+Data Scientist,Tech Company 56,Ha Noi,8-16 millions,"python, pandas, scikit-learn",Fresher,2025-05-05,12.0,1
+Mobile Developer,Tech Company 124,Ho Chi Minh,7-19 millions,react native,Fresher,2024-03-10,13.0,1
+Fullstack Developer,Tech Company 393,Ho Chi Minh,16-27 millions,"java, angular, sql",Junior,2025-05-30,21.5,2
+DevOps Engineer,Tech Company 441,Ha Noi,66-114 millions,"aws, docker, k8s",Manager,2024-12-15,90.0,5
+DevOps Engineer,Tech Company 195,Da Nang,52-93 millions,"azure, ci/cd, terraform",Manager,2025-02-04,72.5,5
+Frontend Developer,Tech Company 370,Ho Chi Minh,15-28 millions,"vuejs, nuxt",Junior,2025-11-04,21.5,2
+Frontend Developer,Tech Company 74,Da Nang,13-23 millions,"vuejs, nuxt",Junior,2024-06-13,18.0,2
+Frontend Developer,Tech Company 369,Ho Chi Minh,27-57 millions,"reactjs, typescript",Senior,2025-09-25,42.0,3
+DevOps Engineer,Tech Company 4,Da Nang,12-23 millions,"aws, docker, k8s",Junior,2024-08-27,17.5,2
+Mobile Developer,Tech Company 289,Ha Noi,17-31 millions,"flutter, dart",Junior,2024-02-06,24.0,2
+Tester/QA,Tech Company 467,Ho Chi Minh,26-58 millions,"automation, cypress",Senior,2025-04-05,42.0,3
+AI/ML Engineer,Tech Company 471,Ha Noi,29-58 millions,"python, nlp, huggingface",Senior,2025-05-05,43.5,3
+DevOps Engineer,Tech Company 494,Ha Noi,42-80 millions,"aws, docker, k8s",Lead,2024-06-27,61.0,4
+Fullstack Developer,Tech Company 74,Can Tho,54-92 millions,"java, angular, sql",Manager,2024-11-03,73.0,5
+Data Scientist,Tech Company 483,Ho Chi Minh,7-19 millions,"sql, tableau, python",Fresher,2024-08-01,13.0,1
+Tester/QA,Tech Company 173,Da Nang,13-24 millions,"automation, cypress",Junior,2025-01-07,18.5,2
+DevOps Engineer,Tech Company 192,Ha Noi,44-80 millions,"azure, ci/cd, terraform",Lead,2025-02-22,62.0,4
+Fullstack Developer,Tech Company 464,Ho Chi Minh,25-58 millions,"java, angular, sql",Senior,2024-11-03,41.5,3
+Mobile Developer,Tech Company 338,Ha Noi,26-56 millions,"flutter, dart",Senior,2024-06-09,41.0,3
+Fullstack Developer,Tech Company 342,Ha Noi,14-28 millions,"java, angular, sql",Junior,2025-08-04,21.0,2
+Fullstack Developer,Tech Company 78,Remote,15-30 millions,"python, vuejs, docker",Junior,2024-07-21,22.5,2
+Fullstack Developer,Tech Company 272,Ha Noi,15-32 millions,"java, angular, sql",Junior,2025-09-19,23.5,2
+Frontend Developer,Tech Company 170,Da Nang,20-45 millions,"reactjs, typescript",Senior,2024-02-24,32.5,3
+DevOps Engineer,Tech Company 431,Ho Chi Minh,44-81 millions,"aws, docker, k8s",Lead,2024-11-10,62.5,4
+DevOps Engineer,Tech Company 361,Ha Noi,10-18 millions,"linux, jenkins, ansible",Fresher,2024-12-12,14.0,1
+Fullstack Developer,Tech Company 210,Ho Chi Minh,15-28 millions,"react, node.js, mongo",Junior,2025-09-25,21.5,2
+Tester/QA,Tech Company 340,Ha Noi,17-32 millions,"java, appium",Junior,2024-04-26,24.5,2
+Frontend Developer,Tech Company 245,Da Nang,34-64 millions,"reactjs, typescript",Lead,2025-01-23,49.0,4
+DevOps Engineer,Tech Company 91,Ha Noi,18-31 millions,"azure, ci/cd, terraform",Junior,2024-03-11,24.5,2
+Mobile Developer,Tech Company 101,Ho Chi Minh,7-21 millions,react native,Fresher,2025-11-15,14.0,1
+Frontend Developer,Tech Company 319,Ho Chi Minh,66-113 millions,"angular, rxjs",Manager,2024-01-17,89.5,5
+Fullstack Developer,Tech Company 267,Ho Chi Minh,45-77 millions,"java, angular, sql",Lead,2024-10-13,61.0,4
+DevOps Engineer,Tech Company 135,Ho Chi Minh,42-78 millions,"aws, docker, k8s",Lead,2024-11-09,60.0,4
+Backend Developer,Tech Company 338,Ho Chi Minh,17-31 millions,"go, microservices",Junior,2025-04-14,24.0,2
+Mobile Developer,Tech Company 172,Ha Noi,17-28 millions,"flutter, dart",Junior,2025-01-19,22.5,2
+Mobile Developer,Tech Company 369,Ha Noi,17-28 millions,"kotlin, android",Junior,2024-12-20,22.5,2
+AI/ML Engineer,Tech Company 44,Ho Chi Minh,14-29 millions,"python, nlp, huggingface",Junior,2025-11-18,21.5,2
+Frontend Developer,Tech Company 125,Da Nang,23-49 millions,"reactjs, typescript",Senior,2024-04-19,36.0,3
+Fullstack Developer,Tech Company 5,Ho Chi Minh,10-20 millions,"python, vuejs, docker",Fresher,2024-03-18,15.0,1
+DevOps Engineer,Tech Company 324,Ha Noi,25-57 millions,"linux, jenkins, ansible",Senior,2025-04-16,41.0,3
+Frontend Developer,Tech Company 96,Ha Noi,42-77 millions,"reactjs, typescript",Lead,2024-03-24,59.5,4
+Backend Developer,Tech Company 368,Remote,9-16 millions,"node.js, express",Fresher,2024-02-21,12.5,1
+Data Scientist,Tech Company 310,Ho Chi Minh,10-20 millions,"sql, tableau, python",Fresher,2025-05-22,15.0,1
+Backend Developer,Tech Company 499,Ha Noi,26-55 millions,"node.js, express",Senior,2024-06-29,40.5,3
+Data Scientist,Tech Company 96,Ho Chi Minh,14-31 millions,"python, pytorch, aws",Junior,2024-07-11,22.5,2
+Data Scientist,Tech Company 308,Ha Noi,27-59 millions,"python, pandas, scikit-learn",Senior,2024-10-30,43.0,3
+Data Scientist,Tech Company 272,Ha Noi,15-29 millions,"sql, tableau, python",Junior,2024-09-03,22.0,2
+AI/ML Engineer,Tech Company 253,Da Nang,8-13 millions,"python, nlp, huggingface",Fresher,2024-03-05,10.5,1
+Mobile Developer,Tech Company 7,Ha Noi,17-31 millions,"flutter, dart",Junior,2025-04-01,24.0,2
+DevOps Engineer,Tech Company 349,Ha Noi,67-114 millions,"linux, jenkins, ansible",Manager,2025-12-15,90.5,5
+AI/ML Engineer,Tech Company 190,Remote,27-54 millions,"c++, cuda, computer vision",Senior,2025-05-06,40.5,3
+DevOps Engineer,Tech Company 88,Ha Noi,18-28 millions,"linux, jenkins, ansible",Junior,2025-08-24,23.0,2
+Tester/QA,Tech Company 238,Ho Chi Minh,8-20 millions,"automation, cypress",Fresher,2025-02-16,14.0,1
+Fullstack Developer,Tech Company 448,Ha Noi,44-78 millions,"react, node.js, mongo",Lead,2024-01-26,61.0,4
+Fullstack Developer,Tech Company 139,Ha Noi,14-29 millions,"react, node.js, mongo",Junior,2024-06-02,21.5,2
+Mobile Developer,Tech Company 143,Ho Chi Minh,15-32 millions,react native,Junior,2025-07-16,23.5,2
+Tester/QA,Tech Company 497,Ha Noi,16-31 millions,"automation, cypress",Junior,2025-05-14,23.5,2
+Frontend Developer,Tech Company 149,Ho Chi Minh,29-58 millions,"reactjs, typescript",Senior,2025-09-14,43.5,3
+Tester/QA,Tech Company 324,Ha Noi,8-16 millions,"manual testing, sql",Fresher,2024-11-11,12.0,1
+Mobile Developer,Tech Company 372,Ha Noi,16-30 millions,"flutter, dart",Junior,2024-12-15,23.0,2
+DevOps Engineer,Tech Company 325,Ho Chi Minh,15-31 millions,"linux, jenkins, ansible",Junior,2024-11-16,23.0,2
+AI/ML Engineer,Tech Company 100,Remote,41-77 millions,"c++, cuda, computer vision",Lead,2025-12-16,59.0,4
+DevOps Engineer,Tech Company 320,Da Nang,24-46 millions,"linux, jenkins, ansible",Senior,2024-05-31,35.0,3
+Tester/QA,Tech Company 406,Ha Noi,14-29 millions,"java, appium",Junior,2024-07-16,21.5,2
+DevOps Engineer,Tech Company 168,Ha Noi,27-56 millions,"aws, docker, k8s",Senior,2024-01-04,41.5,3
+Data Scientist,Tech Company 377,Ho Chi Minh,44-78 millions,"python, pytorch, aws",Lead,2024-03-03,61.0,4
+AI/ML Engineer,Tech Company 153,Ha Noi,45-79 millions,"python, tensorflow, cv",Lead,2024-01-12,62.0,4
+Backend Developer,Tech Company 189,Ho Chi Minh,17-31 millions,"python, django",Junior,2024-03-21,24.0,2
+Fullstack Developer,Tech Company 228,Da Nang,14-25 millions,"java, angular, sql",Junior,2025-08-31,19.5,2
+AI/ML Engineer,Tech Company 146,Ho Chi Minh,26-58 millions,"python, nlp, huggingface",Senior,2025-04-09,42.0,3
+Backend Developer,Tech Company 189,Ho Chi Minh,14-29 millions,"python, django",Junior,2025-05-03,21.5,2
+Mobile Developer,Tech Company 92,Ha Noi,9-19 millions,"flutter, dart",Fresher,2025-02-09,14.0,1
+Backend Developer,Tech Company 453,Ha Noi,15-31 millions,"go, microservices",Junior,2024-02-10,23.0,2
+Fullstack Developer,Tech Company 53,Ha Noi,25-55 millions,"java, angular, sql",Senior,2024-06-04,40.0,3
+Data Scientist,Tech Company 42,Da Nang,23-49 millions,"python, pandas, scikit-learn",Senior,2024-12-12,36.0,3
+Tester/QA,Tech Company 405,Ha Noi,16-30 millions,"automation, cypress",Junior,2025-10-19,23.0,2
+Frontend Developer,Tech Company 117,Ho Chi Minh,16-28 millions,"vuejs, nuxt",Junior,2024-09-24,22.0,2
+Backend Developer,Tech Company 22,Ha Noi,17-30 millions,"python, django",Junior,2025-05-05,23.5,2
+AI/ML Engineer,Tech Company 282,Ha Noi,14-31 millions,"python, nlp, huggingface",Junior,2025-02-28,22.5,2
+Backend Developer,Tech Company 360,Ho Chi Minh,7-18 millions,"java, spring boot",Fresher,2024-12-23,12.5,1
+Fullstack Developer,Tech Company 382,Da Nang,6-16 millions,"java, angular, sql",Fresher,2025-10-04,11.0,1
+DevOps Engineer,Tech Company 132,Ho Chi Minh,27-59 millions,"linux, jenkins, ansible",Senior,2025-09-14,43.0,3
+Mobile Developer,Tech Company 381,Ha Noi,26-55 millions,react native,Senior,2024-04-19,40.5,3
+AI/ML Engineer,Tech Company 185,Ho Chi Minh,44-81 millions,"c++, cuda, computer vision",Lead,2024-11-06,62.5,4
+Data Scientist,Tech Company 262,Ha Noi,18-31 millions,"python, pytorch, aws",Junior,2024-08-10,24.5,2
+Fullstack Developer,Tech Company 369,Ho Chi Minh,7-21 millions,"java, angular, sql",Fresher,2025-02-01,14.0,1
+Fullstack Developer,Tech Company 439,Remote,15-29 millions,"java, angular, sql",Junior,2025-11-14,22.0,2
+Frontend Developer,Tech Company 485,Ho Chi Minh,45-80 millions,"reactjs, typescript",Lead,2024-01-12,62.5,4
+Tester/QA,Tech Company 28,Ho Chi Minh,17-32 millions,"automation, cypress",Junior,2024-04-09,24.5,2
+AI/ML Engineer,Tech Company 62,Da Nang,21-49 millions,"python, tensorflow, cv",Senior,2024-07-28,35.0,3
+AI/ML Engineer,Tech Company 375,Ha Noi,42-79 millions,"python, nlp, huggingface",Lead,2024-03-05,60.5,4
+Mobile Developer,Tech Company 212,Ho Chi Minh,25-57 millions,"kotlin, android",Senior,2025-04-21,41.0,3
+Backend Developer,Tech Company 145,Ho Chi Minh,18-31 millions,"python, django",Junior,2025-12-27,24.5,2
+AI/ML Engineer,Tech Company 121,Ho Chi Minh,28-59 millions,"python, tensorflow, cv",Senior,2024-07-11,43.5,3
+DevOps Engineer,Tech Company 178,Ha Noi,16-28 millions,"linux, jenkins, ansible",Junior,2025-10-16,22.0,2
+DevOps Engineer,Tech Company 417,Ha Noi,18-31 millions,"azure, ci/cd, terraform",Junior,2024-05-31,24.5,2
+Mobile Developer,Tech Company 454,Da Nang,24-45 millions,"swift, ios",Senior,2024-09-16,34.5,3
+Tester/QA,Tech Company 456,Da Nang,8-17 millions,"automation, cypress",Fresher,2024-06-17,12.5,1
+Fullstack Developer,Tech Company 436,Ha Noi,8-19 millions,"python, vuejs, docker",Fresher,2024-06-12,13.5,1
+Data Scientist,Tech Company 257,Ho Chi Minh,27-59 millions,"python, pytorch, aws",Senior,2024-04-24,43.0,3
+Backend Developer,Tech Company 379,Ha Noi,29-58 millions,"go, microservices",Senior,2024-06-17,43.5,3
+DevOps Engineer,Tech Company 281,Ha Noi,14-31 millions,"azure, ci/cd, terraform",Junior,2025-01-17,22.5,2
+Mobile Developer,Tech Company 385,Ha Noi,44-80 millions,react native,Lead,2025-12-05,62.0,4
+Tester/QA,Tech Company 367,Ho Chi Minh,67-114 millions,"manual testing, sql",Manager,2024-07-11,90.5,5
+Frontend Developer,Tech Company 124,Ha Noi,7-16 millions,"html, css, js",Fresher,2024-11-09,11.5,1
+Data Scientist,Tech Company 13,Ho Chi Minh,28-59 millions,"python, pytorch, aws",Senior,2024-07-14,43.5,3
+Data Scientist,Tech Company 130,Ho Chi Minh,10-19 millions,"python, pandas, scikit-learn",Fresher,2024-03-09,14.5,1
+DevOps Engineer,Tech Company 176,Ho Chi Minh,16-30 millions,"linux, jenkins, ansible",Junior,2024-11-03,23.0,2
+Mobile Developer,Tech Company 252,Ho Chi Minh,17-30 millions,"kotlin, android",Junior,2025-11-26,23.5,2
+DevOps Engineer,Tech Company 493,Ho Chi Minh,27-55 millions,"linux, jenkins, ansible",Senior,2024-02-09,41.0,3
+Tester/QA,Tech Company 473,Da Nang,13-22 millions,"java, appium",Junior,2025-10-08,17.5,2
+DevOps Engineer,Tech Company 159,Ho Chi Minh,9-18 millions,"aws, docker, k8s",Fresher,2024-11-26,13.5,1
+Tester/QA,Tech Company 66,Ha Noi,27-55 millions,"manual testing, sql",Senior,2025-12-01,41.0,3
+Backend Developer,Tech Company 357,Ha Noi,25-55 millions,"node.js, express",Senior,2024-10-08,40.0,3
+Backend Developer,Tech Company 90,Ha Noi,27-58 millions,"go, microservices",Senior,2025-05-17,42.5,3
+Fullstack Developer,Tech Company 352,Ho Chi Minh,43-78 millions,"react, node.js, mongo",Lead,2024-04-22,60.5,4
+Data Scientist,Tech Company 464,Ha Noi,16-27 millions,"sql, tableau, python",Junior,2025-10-31,21.5,2
+AI/ML Engineer,Tech Company 433,Ho Chi Minh,15-31 millions,"python, tensorflow, cv",Junior,2025-08-20,23.0,2
+Frontend Developer,Tech Company 289,Ha Noi,15-28 millions,"reactjs, typescript",Junior,2025-09-11,21.5,2
+Mobile Developer,Tech Company 326,Ha Noi,9-20 millions,"flutter, dart",Fresher,2025-01-12,14.5,1
+Backend Developer,Tech Company 34,Ho Chi Minh,27-58 millions,"go, microservices",Senior,2024-03-09,42.5,3
+DevOps Engineer,Tech Company 62,Da Nang,6-18 millions,"azure, ci/cd, terraform",Fresher,2024-05-20,12.0,1
+Fullstack Developer,Tech Company 192,Ho Chi Minh,7-19 millions,"python, vuejs, docker",Fresher,2025-07-13,13.0,1
+Fullstack Developer,Tech Company 104,Ha Noi,27-57 millions,"python, vuejs, docker",Senior,2024-08-25,42.0,3
+Mobile Developer,Tech Company 58,Ho Chi Minh,8-19 millions,"flutter, dart",Fresher,2024-01-13,13.5,1
+Backend Developer,Tech Company 441,Ho Chi Minh,29-55 millions,"go, microservices",Senior,2024-09-06,42.0,3
+Tester/QA,Tech Company 284,Ho Chi Minh,16-27 millions,"automation, cypress",Junior,2025-02-01,21.5,2
+Frontend Developer,Tech Company 441,Ha Noi,28-59 millions,"vuejs, nuxt",Senior,2024-05-28,43.5,3
+Frontend Developer,Tech Company 186,Ha Noi,26-58 millions,"vuejs, nuxt",Senior,2025-10-02,42.0,3
+Mobile Developer,Tech Company 400,Ha Noi,45-77 millions,"flutter, dart",Lead,2024-11-24,61.0,4
+DevOps Engineer,Tech Company 384,Ho Chi Minh,16-31 millions,"azure, ci/cd, terraform",Junior,2024-08-18,23.5,2
+Mobile Developer,Tech Company 396,Ha Noi,42-79 millions,react native,Lead,2025-05-24,60.5,4
+Mobile Developer,Tech Company 396,Ha Noi,9-20 millions,"flutter, dart",Fresher,2024-05-29,14.5,1
+Mobile Developer,Tech Company 156,Ho Chi Minh,27-59 millions,"swift, ios",Senior,2024-12-15,43.0,3
+AI/ML Engineer,Tech Company 302,Ha Noi,27-56 millions,"python, nlp, huggingface",Senior,2025-12-05,41.5,3
+Fullstack Developer,Tech Company 273,Da Nang,21-48 millions,"java, angular, sql",Senior,2024-12-16,34.5,3
+AI/ML Engineer,Tech Company 305,Ha Noi,26-56 millions,"c++, cuda, computer vision",Senior,2024-10-22,41.0,3
+DevOps Engineer,Tech Company 99,Ho Chi Minh,27-56 millions,"aws, docker, k8s",Senior,2024-11-09,41.5,3
+Mobile Developer,Tech Company 97,Ha Noi,26-57 millions,"swift, ios",Senior,2025-11-05,41.5,3
+Tester/QA,Tech Company 327,Ho Chi Minh,25-58 millions,"manual testing, sql",Senior,2024-10-25,41.5,3
+DevOps Engineer,Tech Company 126,Ha Noi,18-31 millions,"aws, docker, k8s",Junior,2025-01-18,24.5,2
+Tester/QA,Tech Company 64,Ha Noi,15-30 millions,"java, appium",Junior,2024-09-15,22.5,2
+Mobile Developer,Tech Company 476,Ha Noi,64-114 millions,"flutter, dart",Manager,2024-09-17,89.0,5
+AI/ML Engineer,Tech Company 219,Da Nang,13-23 millions,"c++, cuda, computer vision",Junior,2024-02-22,18.0,2
+Frontend Developer,Tech Company 93,Ha Noi,27-56 millions,"html, css, js",Senior,2024-05-23,41.5,3
+Mobile Developer,Tech Company 6,Ha Noi,14-30 millions,react native,Junior,2024-03-02,22.0,2
+AI/ML Engineer,Tech Company 310,Remote,8-16 millions,"python, nlp, huggingface",Fresher,2025-09-25,12.0,1
+DevOps Engineer,Tech Company 391,Ho Chi Minh,26-57 millions,"aws, docker, k8s",Senior,2024-11-20,41.5,3
+Mobile Developer,Tech Company 47,Ha Noi,16-27 millions,react native,Junior,2024-06-13,21.5,2
+Mobile Developer,Tech Company 210,Da Nang,12-23 millions,"kotlin, android",Junior,2024-03-24,17.5,2
+Mobile Developer,Tech Company 452,Ho Chi Minh,25-58 millions,"kotlin, android",Senior,2024-07-29,41.5,3
+Fullstack Developer,Tech Company 194,Ho Chi Minh,14-31 millions,"python, vuejs, docker",Junior,2025-11-30,22.5,2
+Data Scientist,Tech Company 461,Ho Chi Minh,15-28 millions,"sql, tableau, python",Junior,2024-10-24,21.5,2
+Tester/QA,Tech Company 358,Ha Noi,17-30 millions,"selenium, python",Junior,2025-10-22,23.5,2
+Backend Developer,Tech Company 252,Ha Noi,9-18 millions,"node.js, express",Fresher,2024-01-21,13.5,1
+Fullstack Developer,Tech Company 307,Ho Chi Minh,42-79 millions,"react, node.js, mongo",Lead,2025-06-13,60.5,4
+Backend Developer,Tech Company 363,Ho Chi Minh,26-58 millions,"node.js, express",Senior,2024-04-02,42.0,3
+Backend Developer,Tech Company 77,Ho Chi Minh,42-81 millions,"go, microservices",Lead,2025-04-08,61.5,4
+AI/ML Engineer,Tech Company 35,Da Nang,12-24 millions,"python, tensorflow, cv",Junior,2025-06-17,18.0,2
+Backend Developer,Tech Company 459,Ho Chi Minh,15-29 millions,"java, spring boot",Junior,2025-03-09,22.0,2
+Data Scientist,Tech Company 138,Ho Chi Minh,17-27 millions,"python, pytorch, aws",Junior,2024-04-13,22.0,2
+Frontend Developer,Tech Company 79,Ho Chi Minh,27-56 millions,"html, css, js",Senior,2024-07-02,41.5,3
+Backend Developer,Tech Company 417,Ho Chi Minh,28-58 millions,"go, microservices",Senior,2025-06-09,43.0,3
+Backend Developer,Tech Company 434,Ha Noi,7-16 millions,"node.js, express",Fresher,2024-06-08,11.5,1
+DevOps Engineer,Tech Company 90,Da Nang,8-15 millions,"linux, jenkins, ansible",Fresher,2025-04-10,11.5,1
+Fullstack Developer,Tech Company 70,Ha Noi,27-55 millions,"python, vuejs, docker",Senior,2025-01-21,41.0,3
+Tester/QA,Tech Company 239,Ha Noi,9-20 millions,"automation, cypress",Fresher,2025-06-21,14.5,1
+DevOps Engineer,Tech Company 385,Da Nang,54-94 millions,"linux, jenkins, ansible",Manager,2025-02-18,74.0,5
+Fullstack Developer,Tech Company 106,Da Nang,14-23 millions,"python, vuejs, docker",Junior,2024-02-07,18.5,2
+AI/ML Engineer,Tech Company 154,Can Tho,7-15 millions,"python, tensorflow, cv",Fresher,2025-01-19,11.0,1
+Data Scientist,Tech Company 231,Ho Chi Minh,15-31 millions,"python, pandas, scikit-learn",Junior,2024-05-30,23.0,2
+Fullstack Developer,Tech Company 9,Ha Noi,45-78 millions,"python, vuejs, docker",Lead,2024-05-25,61.5,4
+AI/ML Engineer,Tech Company 452,Da Nang,35-66 millions,"python, nlp, huggingface",Lead,2025-01-15,50.5,4
+Backend Developer,Tech Company 152,Ho Chi Minh,18-31 millions,"java, spring boot",Junior,2024-04-13,24.5,2
+Mobile Developer,Tech Company 283,Ho Chi Minh,14-28 millions,"kotlin, android",Junior,2025-06-08,21.0,2
+Tester/QA,Tech Company 85,Da Nang,12-23 millions,"selenium, python",Junior,2025-06-02,17.5,2
+AI/ML Engineer,Tech Company 191,Ho Chi Minh,6-17 millions,"python, tensorflow, cv",Fresher,2025-06-17,11.5,1
+Tester/QA,Tech Company 411,Ho Chi Minh,9-17 millions,"java, appium",Fresher,2024-02-22,13.0,1
+Tester/QA,Tech Company 400,Ho Chi Minh,27-57 millions,"automation, cypress",Senior,2025-11-13,42.0,3
+Frontend Developer,Tech Company 366,Ha Noi,29-56 millions,"vuejs, nuxt",Senior,2025-11-07,42.5,3
+AI/ML Engineer,Tech Company 316,Ha Noi,15-32 millions,"python, tensorflow, cv",Junior,2024-04-05,23.5,2
+Backend Developer,Tech Company 215,Ho Chi Minh,15-32 millions,"python, django",Junior,2024-07-18,23.5,2
+Fullstack Developer,Tech Company 1,Ho Chi Minh,27-56 millions,"java, angular, sql",Senior,2024-08-03,41.5,3
+Backend Developer,Tech Company 240,Ho Chi Minh,66-113 millions,"go, microservices",Manager,2024-08-12,89.5,5
+Tester/QA,Tech Company 316,Ho Chi Minh,42-79 millions,"selenium, python",Lead,2024-12-16,60.5,4
+Tester/QA,Tech Company 324,Ho Chi Minh,27-57 millions,"java, appium",Senior,2024-12-04,42.0,3
+AI/ML Engineer,Tech Company 223,Ha Noi,28-56 millions,"c++, cuda, computer vision",Senior,2024-01-23,42.0,3
+AI/ML Engineer,Tech Company 488,Ho Chi Minh,18-32 millions,"python, nlp, huggingface",Junior,2024-02-22,25.0,2
+AI/ML Engineer,Tech Company 451,Ha Noi,28-57 millions,"python, tensorflow, cv",Senior,2024-08-12,42.5,3
+AI/ML Engineer,Tech Company 34,Ha Noi,15-30 millions,"python, tensorflow, cv",Junior,2025-11-09,22.5,2
+Backend Developer,Tech Company 243,Da Nang,22-47 millions,"node.js, express",Senior,2025-02-28,34.5,3
+DevOps Engineer,Tech Company 476,Ho Chi Minh,65-112 millions,"aws, docker, k8s",Manager,2025-05-18,88.5,5
+Mobile Developer,Tech Company 412,Ha Noi,67-111 millions,"kotlin, android",Manager,2025-09-17,89.0,5
+Mobile Developer,Tech Company 332,Ho Chi Minh,29-59 millions,"kotlin, android",Senior,2025-12-15,44.0,3
+Tester/QA,Tech Company 348,Ho Chi Minh,14-28 millions,"manual testing, sql",Junior,2025-01-10,21.0,2
+DevOps Engineer,Tech Company 170,Ha Noi,27-55 millions,"linux, jenkins, ansible",Senior,2024-11-13,41.0,3
+Frontend Developer,Tech Company 405,Can Tho,7-17 millions,"reactjs, typescript",Fresher,2024-07-15,12.0,1
+Frontend Developer,Tech Company 398,Ho Chi Minh,27-56 millions,"html, css, js",Senior,2025-10-20,41.5,3
+Data Scientist,Tech Company 341,Ho Chi Minh,26-56 millions,"python, pytorch, aws",Senior,2024-12-12,41.0,3
+Tester/QA,Tech Company 362,Ha Noi,18-29 millions,"java, appium",Junior,2025-10-31,23.5,2
+Data Scientist,Tech Company 77,Ho Chi Minh,28-56 millions,"sql, tableau, python",Senior,2025-04-17,42.0,3
+Backend Developer,Tech Company 77,Ho Chi Minh,26-59 millions,"python, django",Senior,2024-05-09,42.5,3
+AI/ML Engineer,Tech Company 187,Da Nang,12-24 millions,"c++, cuda, computer vision",Junior,2024-02-04,18.0,2
+Frontend Developer,Tech Company 200,Ho Chi Minh,14-31 millions,"reactjs, typescript",Junior,2024-09-15,22.5,2
+Mobile Developer,Tech Company 217,Ha Noi,16-31 millions,"swift, ios",Junior,2025-12-25,23.5,2
+Fullstack Developer,Tech Company 213,Remote,27-53 millions,"react, node.js, mongo",Senior,2024-09-13,40.0,3
+DevOps Engineer,Tech Company 310,Da Nang,5-14 millions,"aws, docker, k8s",Fresher,2025-06-09,9.5,1
+Data Scientist,Tech Company 324,Ho Chi Minh,15-27 millions,"python, pytorch, aws",Junior,2024-01-10,21.0,2
+DevOps Engineer,Tech Company 104,Ho Chi Minh,14-29 millions,"azure, ci/cd, terraform",Junior,2025-05-28,21.5,2
+AI/ML Engineer,Tech Company 314,Ho Chi Minh,16-30 millions,"c++, cuda, computer vision",Junior,2025-08-27,23.0,2
+Backend Developer,Tech Company 276,Ho Chi Minh,45-79 millions,"node.js, express",Lead,2024-10-24,62.0,4
+AI/ML Engineer,Tech Company 243,Ha Noi,64-112 millions,"python, nlp, huggingface",Manager,2024-03-05,88.0,5
+Tester/QA,Tech Company 231,Ho Chi Minh,29-59 millions,"manual testing, sql",Senior,2024-08-16,44.0,3
+Backend Developer,Tech Company 136,Da Nang,14-25 millions,"java, spring boot",Junior,2025-02-08,19.5,2
