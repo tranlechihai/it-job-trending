@@ -60,12 +60,3 @@ data-project-sample/
 - Nhận mức lương dự đoán chính xác
 - So sánh với thị trường (Lương TB, Min, Max)
 
-## 🎨 Giao diện
-- Màu chủ đạo: **Xanh dương đậm (Deep Blue) & Trắng**
-- Thiết kế hiện đại, professional
-- Biểu đồ tương tác (Plotly)
-- Responsive layout
-
-## 📝 Ghi chú
-- Dữ liệu là **synthetic** (giả lập), được tạo dựa trên xu hướng thực tế thị trường IT Việt Nam
-- Phù hợp cho mục đích nghiên cứu, giảng dạy và demo
